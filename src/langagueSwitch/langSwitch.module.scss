@@ -1,0 +1,73 @@
+.langague_switcher {
+    height: 90px;
+    max-width: 400px;
+    min-width: 400px;
+    background-color: rgba(127, 255, 212, 0.5);
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    border: 3px solid orange;
+    border-radius: 11px;
+    margin: 10px 0;
+    overflow: hidden;
+    position: relative;
+    z-index: 1; /* Ensure it's above other elements */
+    transition: all 0.3s ease;
+}
+
+.langague_switcher.expanded {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: auto;
+    max-width: none;
+    min-width: none;
+    background-color: rgba(127, 255, 212, 0.9);
+    flex-wrap: wrap;
+    justify-content: center;
+    z-index: 1000; /* Ensure it's above other elements */
+    padding: 20px;
+    border-radius: 15px;
+}
+.langague_switcher.expanded:hover{
+    background-color: rgba(127, 255, 212, 1);
+}
+
+.langague {
+    flex: 0 0 100px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.lang_button {
+    border: none;
+    font-size: 200%;
+    text-align: center;
+    background-color: rgba(127, 255, 212, 0.5);
+    line-height: 86px;
+    transform: 0.3s ease;
+    padding: 0 10px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.lang_button:hover{
+    background-color: rgba(127, 255, 212, 0.384);
+}
+
+.langague_img {
+    margin-top: 12px;
+    width: 76px;
+    height: 76px;
+    object-fit: cover;
+    user-select: none;
+    opacity: 0.9;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, opacity 0.3s ease;
+}
+
+.langague_img:hover {
+    transform: scale(1.1);
+    opacity: 1; /* Возвращаем непрозрачность на 100% */
+}
