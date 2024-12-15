@@ -1,11 +1,14 @@
 import styles from './Book.module.scss';
-import { useSelector } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 import Page from "../Page/Page";
 import { useEffect, useState } from 'react';
 import ChapterSwitcher from '../ChapterSwitcher/ChapterSwitcher';
+import {setView} from '../store';
 
 function Book() {
     const text = useSelector((state) => state.langReducer);
+    const view = useSelector((state) => state.app.mobileView)
+    const dispatch = useDispatch()
     const [chapter, setChapter] = useState('chapter1');
     const [chapterText, setChapterText] = useState('');
     const [background, setBackground] = useState('');
@@ -23,10 +26,34 @@ function Book() {
     const getBackgroundImage = (chapter) => {
         return `/BackGroundImages/${chapter}.png`;
     };
+    useEffect(() => {
+        const mediaQuery = window.matchMedia("(max-width: 1010px)");
+    
+        const handleMediaQueryChange = (e) => {
+          if (e.matches) {
+            dispatch(setView(true));
+          } else {
+            dispatch(setView(false));
+          }
+        };
+    
+        // Устанавливаем обработчик изменения размера экрана
+        mediaQuery.addListener(handleMediaQueryChange);
+    
+        // Вызываем функцию для начальной настройки
+        handleMediaQueryChange(mediaQuery);
+    
+        // Очищаем обработчик при размонтировании компонента
+        return () => mediaQuery.removeListener(handleMediaQueryChange);
+      }, []);
+      useEffect(()=>{
+        console.log(view)
+        console.log(chapter)
+      },[view])
 
     return (
         <div className={styles.book}>
-            <ChapterSwitcher setChapter={setChapter}/>
+            <ChapterSwitcher chapter={chapter} setChapter={setChapter}/>
             <Page text={chapterText} background={background} />
         </div>
     );

@@ -103,8 +103,121 @@ const de = {
       Aber leider sind wir nicht sofort in der Lage, eindeutig zu bestimmen, welche Handlungen zum gewünschten Ergebnis führen. 
       Dafür müssen wir unseren Verstand nutzen, um einige Probleme vorauszusehen.
     </p>
-
     `,
+    chapter3: `
+  <h1 className={styles.title}>Ehrlichkeit und Lügen</h1>
+  <blockquote className={styles.quote}>
+    Ein gewisser Sonderling kämpft immer noch für die Wahrheit,<br />
+    Die Wahrheit in seinen Worten ist nicht mehr wert als einen Pfennig:<br />
+    <em>— Reine Wahrheit wird mit der Zeit triumphieren —<br />
+    Wenn sie dasselbe tut wie die offensichtliche Lüge!</em><br />
+    <strong>— Wladimir Wyssozki</strong>
+  </blockquote>
+
+  <p className={styles.text}>
+    Jeder lügt. Das ist offensichtlich: Die Verzerrung von Informationen wird zu einem praktischen Werkzeug für den eigenen Vorteil.
+    Durch Lügen kann man Strafen für schlechte Taten vermeiden, sich weniger anstrengen und unverdiente Vorteile erlangen.
+    Die Menschheit ist heute so mächtig, dass sie die Faulheit von Hunderten Millionen fauler Lügner vollständig und teilweise
+    von Milliarden kompensieren kann. Lügen sind ein großartiges Werkzeug für ein einfaches Leben.
+  </p>
+
+  <h2 className={styles.subheading}>Die Kosten der Lüge</h2>
+  <p className={styles.text}>
+    Wer jedoch Informationen verzerrt, schafft ein Ungleichgewicht in der sozialen Struktur.
+    Ohne die Realität der Ressourcenerzeugung zu kennen und diese Ressourcen falsch auf die Verbraucher zu verteilen,
+    ist die Gesellschaft früher oder später zum Scheitern verurteilt. Historisch gesehen ist die Überwindung solcher Krisen oft
+    mit unangenehmen Formen der Aneignung fremder Arbeit verbunden, einschließlich Krieg in der einen oder anderen Form.
+  </p>
+
+  <h2 className={styles.subheading}>Was tun?</h2>
+  <p className={styles.text}>
+    Daher betrachte ich die Beseitigung des Ungleichgewichts, das durch allgegenwärtige Lügen verursacht wird,
+    als einen der Schritte zum Überleben. Aber ich plädiere nicht für ein absolutes Verbot der Lüge, denn wohlwollende
+    Lügen existieren tatsächlich, und man muss wissen, wie man sie verwendet und verstehen, wann das Gute zum Schaden wird.
+  </p>
+
+  <h2 className={styles.subheading}>Wahrheit oder Ehrlichkeit?</h2>
+  <p className={styles.text}>
+    Die Methode, die ich gewählt habe, um für das Überleben zu kämpfen, besteht darin, die Wahrheit zu erzählen. Nicht die absolute Wahrheit, denn nur Gott kennt sie.
+  </p>
+`,
+chapter4: `
+  <h1 className={styles.title}>Und wie habe ich Gott am Himmel gesehen?</h1>
+  <blockquote className={styles.quote}>
+    Und wie habe ich Gott am Himmel gesehen?<br />
+    Mein Herz muss sich geirrt haben?<br />
+    Bedeutet das, dass der Weg zum Paradies geschlossen ist?<br />
+    Ich sah mich nicht hinter Gott…<br />
+    <strong>— Pavel Plamenov</strong>
+  </blockquote>
+
+  <p className={styles.text}>
+    Wie sehr ich mir wünsche, dass Gott existiert. Stellen Sie sich vor, wie wunderbar das wäre:
+    Er würde sich sicherlich um uns kümmern, uns helfen, Nahrung zu bekommen, Wärme und Glück zu bieten.
+    Er würde die bösen Menschen bestrafen.
+    Es klingt wunderbar, oder? Es spielt keine Rolle, dass Sie Gott noch nie gesehen haben — wenn Sie auch nur etwas
+    von dem oben Genannten haben, dann arbeitet Er, richtig?
+    Sie haben keinen Beweis dafür gesehen, dass Er nicht existiert, also könnte Er existieren?
+  </p>
+
+  <p className={styles.text}>
+    Das ist alles wahr. Aber um die Frage nach der Existenz Gottes vollständig zu beantworten, müssen Sie verstehen, warum sie gestellt wird.
+    Diese Frage wird relevant, wenn Sie verwirrt sind. Sie verstehen nicht, warum Sie weitermachen sollen?
+    Sie wissen nicht, warum bei Ihnen alles schief läuft? Sie haben Angst, dass das Leben keinen Sinn hat? Sie möchten glauben,
+    dass am Ende alles gut wird?
+  </p>
+
+  <p className={styles.text}>
+    Wenn Sie zum Weiterleben und zur Nützlichkeit für die Gesellschaft an Gott glauben müssen — glauben Sie unbedingt.
+    Aber denken Sie daran: Alle Segnungen und all das Böse, alle Gerechtigkeit und Ungerechtigkeit kommen von den Menschen.
+    Es ist die Gesellschaft, die Ihnen alles geben kann, was Sie brauchen.
+    Und da die Gesellschaft Gottes Aufgaben übernimmt, stellt sich heraus, dass Gott oder zumindest sein Vertreter auf der Erde existiert.
+  </p>
+`,
+chapter5: `
+<h1 className={styles.title}>Hier ist es wie Demokratie, aber eigentlich ein Königreich!</h1>
+<blockquote className={styles.quote}>
+  Ich liebe mein Land... und hasse<br />
+  Der Staat, der Staat, der Staat!<br />
+  Ich hasse<br />
+  Der Staat, der Staat, der Staat!<br />
+  <strong>Lumen</strong>
+</blockquote>
+
+<p className={styles.text}>
+  Gesellschaft, Versammlung, Gruppe – in unserer Welt gibt es viele Wörter in allen Sprachen, 
+  die das Phänomen der Vereinigung von Menschen für gemeinsame Handlungen beschreiben. Aber wie unterscheiden sich diese Gesellschaften? 
+  Welche Handlungen führen sie aus? Der Unterschied scheint gering, 
+  aber jede Gesellschaft hat etwas Einzigartiges – für jede gute Handlung gegen alle negativen.
+</p>
+
+<h2 className={styles.subheading}>Warum brauchen wir Gesellschaft?</h2>
+<p className={styles.text}>
+  Warum brauchen Menschen Gesellschaft? Die Antwort liegt in einer einfachen Wahrheit – zusammen ist es einfacher zu überleben. 
+  Vor vielen Tausend Jahren erkannten die Menschen, dass sie ohne Gesellschaft dem Untergang geweiht sind. 
+  Es gibt Ausnahmen, aber sie bestätigen nur die Regel – ohne Gesellschaft wartet der Tod und das Vergessen. 
+  Dieses tiefe Bedürfnis nach Vereinigung führt die Menschen dazu, Gesellschaften zu bilden. 
+  Es kann verschiedene situative Abweichungen geben, die durch Manipulationen oder Traditionen verursacht werden, 
+  aber jede Gesellschaft, die sich nicht um ihre Mitglieder kümmert, ist zum Scheitern verurteilt.
+</p>
+
+<h2 className={styles.subheading}>Wie unterscheidet man die richtige Gesellschaft?</h2>
+<p className={styles.text}>
+  Um die richtige Richtung einer Gesellschaft von der falschen zu unterscheiden, müssen wir wieder auf das Konzept des Guten zurückkommen. 
+  Eine Gesellschaft, die die Überlebenschancen der Menschheit erhöht, handelt richtig. 
+  Wenn sie jedoch Handlungen vornimmt, die die Überlebenschancen der Menschheit verringern oder ihr diese Chancen nehmen, geht sie den falschen Weg.
+</p>
+
+<h2 className={styles.subheading}>Prinzipien der Gesellschaft</h2>
+<p className={styles.text}>
+  Aus allem, was gesagt wurde, folgt, dass jede Gesellschaft zwei Prinzipien folgen muss:
+</p>
+<ol className={styles.list}>
+  <li>Die Sorge um die Mitglieder der Gesellschaft (und damit die Erhöhung der Überlebenschancen der Menschheit insgesamt).</li>
+  <li>Der Schutz der Struktur der Gesellschaft (eine Gesellschaft ohne etablierte Hebel der Interaktion, mit anderen Worten Macht, ist ebenfalls zum Scheitern verurteilt).</li>
+</ol>
+`,
+
     chapter_title_1: "Güte",
     chapter_title_2: "Dilemma",
     chapter_title_3: "Wahrheit",

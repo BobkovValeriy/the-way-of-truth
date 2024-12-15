@@ -102,8 +102,121 @@ const en = {
       But unfortunately, we are not immediately able to definitively determine which actions lead to the desired result. 
       For that, we must use our reason to anticipate some problems.
     </p>
-
     `,
+    chapter3: `
+  <h1 className={styles.title}>Honesty and Lies</h1>
+  <blockquote className={styles.quote}>
+    A certain odd fellow still fights for the Truth,<br />
+    The Truth in his words is worth no more than a penny:<br />
+    <em>— Pure Truth will triumph over time —<br />
+    If it does the same as blatant Lies!</em><br />
+    <strong>— Vladimir Vysotsky</strong>
+  </blockquote>
+
+  <p className={styles.text}>
+    Everyone lies. This is obvious: distorting information becomes a convenient tool for personal gain.
+    Through lies, one can avoid punishment for bad deeds, make less effort, and reap undeserved benefits.
+    Humanity today is so powerful that it can fully compensate for the laziness of hundreds of millions of lazy liars
+    and partially for billions more. Lies are a great tool for an easy life.
+  </p>
+
+  <h2 className={styles.subheading}>The Cost of Lies</h2>
+  <p className={styles.text}>
+    However, anyone who distorts information creates an imbalance in the social structure.
+    Without knowing the real picture of resource production and misallocating these resources among consumers,
+    society is doomed to face a crisis sooner or later. Historically, overcoming such crises often involves unpleasant
+    forms of taking others' labor, including war in one form or another.
+  </p>
+
+  <h2 className={styles.subheading}>What to Do?</h2>
+  <p className={styles.text}>
+    Therefore, I see the elimination of the imbalance caused by pervasive lies as one of the steps toward survival.
+    But I do not advocate for an absolute ban on lies, as benevolent lies indeed exist, and one must know how to use them
+    and understand when good becomes harm.
+  </p>
+
+  <h2 className={styles.subheading}>Truth or Honesty?</h2>
+  <p className={styles.text}>
+    The method of fighting for survival that I have chosen is to tell the truth. Not the absolute truth, for only God knows that.
+  </p>
+`,
+chapter4: `
+  <h1 className={styles.title}>And How Did I See God in the Sky?</h1>
+  <blockquote className={styles.quote}>
+    And how did I see God in the sky?<br />
+    My heart must have been mistaken?<br />
+    Does that mean the road to heaven is closed?<br />
+    I didn’t see myself behind God…<br />
+    <strong>— Pavel Plamenov</strong>
+  </blockquote>
+
+  <p className={styles.text}>
+    How I wish God existed. Just imagine how wonderful that would be:
+    He would surely take care of us, help us get food, provide warmth and happiness.
+    He would punish bad people.
+    It sounds wonderful, doesn’t it? It doesn’t matter that you’ve never seen God — if you have even one of the above,
+    then He must be working, right?
+    You haven’t seen proof that He doesn’t exist, so maybe He does exist?
+  </p>
+
+  <p className={styles.text}>
+    This is all true. But to fully answer the question of God's existence, you need to understand why it is asked.
+    This question becomes relevant when you are confused. You don’t understand why to keep living?
+    You don’t know why things are going wrong? You fear that life may have no meaning? You want to believe that everything
+    will be fine in the end?
+  </p>
+
+  <p className={styles.text}>
+    If in order to live on and be useful to society, you need to believe in God — then believe.
+    But remember: all blessings and all evil, all justice and injustice come from people.
+    It is society that can give you everything you need.
+    And since society performs God's duties, it turns out that God, or at least His representative on earth, exists.
+  </p>
+`,
+chapter5: `
+<h1 className={styles.title}>Here it's like democracy, but actually a kingdom!</h1>
+<blockquote className={styles.quote}>
+  I love my country... and I hate<br />
+  The state, the state, the state!<br />
+  I hate<br />
+  The state, the state, the state!<br />
+  <strong>Lumen</strong>
+</blockquote>
+
+<p className={styles.text}>
+  Society, assembly, group — in our world, there are many words in all languages 
+  describing the phenomenon of people uniting for joint actions. But how do these societies differ? 
+  What actions do they take? The difference seems small, 
+  but each society has something unique — for every good action against all negative ones.
+</p>
+
+<h2 className={styles.subheading}>Why do we need society?</h2>
+<p className={styles.text}>
+  Why do people need society? The answer lies in the simple truth — it is easier to survive together. 
+  Many millennia ago, people realized that staying outside of society meant being doomed. 
+  There are exceptions, but they only prove the rule — without society, a person faces death and oblivion. 
+  This deep desire to unite leads people to form societies. 
+  There may be various situational deviations caused by manipulations or traditions, 
+  but any society that does not care for its members is doomed to die.
+</p>
+
+<h2 className={styles.subheading}>How to distinguish the right society?</h2>
+<p className={styles.text}>
+  To distinguish the right direction of society from the wrong one, we again have to turn to the concept of good. 
+  A society that increases the chances of humanity's survival is acting correctly. 
+  If it does actions that reduce or deprive humanity of survival chances, it is going the wrong way.
+</p>
+
+<h2 className={styles.subheading}>Principles of society</h2>
+<p className={styles.text}>
+  From all that has been said, it follows that every society must adhere to two principles:
+</p>
+<ol className={styles.list}>
+  <li>Caring for society's members (and thus increasing the chances for the survival of humanity as a whole).</li>
+  <li>Protecting the structure of society (a society without established levers of interaction, in other words, power, is also doomed).</li>
+</ol>
+`,
+
     chapter_title_1: "Goodness",
     chapter_title_2: "Dilemma",
     chapter_title_3: "Truth",

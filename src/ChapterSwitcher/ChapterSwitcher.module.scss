@@ -1,23 +1,32 @@
 .chapterSwitcher {
-    display: flex;
-    flex-direction: column;
-    padding: 20px;
-    background-color: rgba(0, 0, 0, 0.5);
-    color: white;
-  }
-  
-  .chapterItem {
-    padding: 10px;
-    cursor: pointer;
-    font-size: 18px;
-    transition: background-color 0.3s;
-  
-    &:hover {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  user-select: none !important;
+}
+
+.chapterItem {
+  padding: 10px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: background-color 0.3s;
+
+  &:hover {
       background-color: rgba(255, 255, 255, 0.1);
-    }
-  
-    &.active {
+  }
+
+  &.active {
       background-color: rgba(255, 255, 255, 0.3);
       font-weight: bold;
-    }
   }
+}
+
+.chapterList {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.7);
+}

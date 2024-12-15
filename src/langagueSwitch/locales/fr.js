@@ -105,6 +105,119 @@ const fr = {
     </p>
 
     `,
+    chapter3: `
+  <h1 className={styles.title}>Honnêteté et Mensonges</h1>
+  <blockquote className={styles.quote}>
+    Un certain original combat encore pour la Vérité,<br />
+    La Vérité dans ses mots ne vaut pas plus qu'un sou:<br />
+    <em>— La Vérité pure triomphera avec le temps —<br />
+    Si elle fait la même chose que le Mensonge manifeste!</em><br />
+    <strong>— Vladimir Vyssotski</strong>
+  </blockquote>
+
+  <p className={styles.text}>
+    Tout le monde ment. C'est évident : déformer l'information devient un outil pratique pour son propre intérêt.
+    Grâce au mensonge, on peut éviter la punition pour de mauvaises actions, faire moins d'efforts et obtenir des bénéfices immérités.
+    Aujourd'hui, l'humanité est si puissante qu'elle peut compenser la paresse de centaines de millions de menteurs paresseux
+    et partiellement celle de milliards d'autres. Le mensonge est un outil formidable pour une vie facile.
+  </p>
+
+  <h2 className={styles.subheading}>Le Coût du Mensonge</h2>
+  <p className={styles.text}>
+    Cependant, quiconque déforme l'information crée un déséquilibre dans la structure sociale.
+    Sans connaître la réalité de la production des ressources et en mal répartissant ces ressources entre les consommateurs,
+    la société est condamnée à une crise tôt ou tard. Historiquement, sortir d'une telle crise implique souvent des formes
+    désagréables d'appropriation du travail d'autrui, y compris la guerre sous une forme ou une autre.
+  </p>
+
+  <h2 className={styles.subheading}>Que Faire?</h2>
+  <p className={styles.text}>
+    Par conséquent, je considère l'élimination du déséquilibre causé par les mensonges omniprésents comme une étape vers la survie.
+    Mais je ne prône pas une interdiction absolue du mensonge, car le mensonge bénéfique existe vraiment, et il faut savoir l'utiliser
+    et comprendre quand le bien devient un mal.
+  </p>
+
+  <h2 className={styles.subheading}>Vérité ou Honnêteté?</h2>
+  <p className={styles.text}>
+    La méthode de lutte pour la survie que j'ai choisie est de dire la vérité. Pas la vérité absolue, car elle n'est connue que de Dieu.
+  </p>
+`,
+chapter4: `
+  <h1 className={styles.title}>Et comment ai-je vu Dieu dans le ciel ?</h1>
+  <blockquote className={styles.quote}>
+    Et comment ai-je vu Dieu dans le ciel ?<br />
+    Mon cœur a dû se tromper ?<br />
+    Cela signifie-t-il que le chemin du paradis est fermé ?<br />
+    Je ne me suis pas vu derrière Dieu…<br />
+    <strong>— Pavel Plamenov</strong>
+  </blockquote>
+
+  <p className={styles.text}>
+    Comme j'aimerais que Dieu existe. Imaginez un peu comme ce serait merveilleux :
+    Il s'occuperait sûrement de nous, nous aiderait à obtenir de la nourriture, fournirait de la chaleur et du bonheur.
+    Il punirait les mauvaises personnes.
+    Cela semble merveilleux, n'est-ce pas ? Peu importe que vous n'ayez jamais vu Dieu — si vous avez ne serait-ce qu'une partie
+    de ce qui précède, alors Il travaille, n'est-ce pas ?
+    Vous n'avez pas vu de preuve qu'Il n'existe pas, alors peut-être qu'Il existe ?
+  </p>
+
+  <p className={styles.text}>
+    Tout cela est vrai. Mais pour répondre pleinement à la question de l'existence de Dieu, il faut comprendre pourquoi elle est posée.
+    Cette question devient pertinente lorsque vous êtes perdu. Vous ne comprenez pas pourquoi continuer à vivre ?
+    Vous ne savez pas pourquoi tout va mal ? Vous avez peur que la vie n'ait aucun sens ? Vous voulez croire qu'à la fin tout ira bien ?
+  </p>
+
+  <p className={styles.text}>
+    Si, pour continuer à vivre et être utile à la société, vous devez croire en Dieu, croyez donc.
+    Mais souvenez-vous : tous les bienfaits et tous les maux, toute la justice et l'injustice proviennent des hommes.
+    C'est la société qui peut vous donner tout ce dont vous avez besoin.
+    Et puisque la société remplit les devoirs de Dieu, il s'avère que Dieu, ou du moins son représentant sur terre, existe.
+  </p>
+`,
+chapter5: `
+<h1 className={styles.title}>Ici c'est comme une démocratie, mais en réalité un royaume !</h1>
+<blockquote className={styles.quote}>
+  J'aime mon pays... et je déteste<br />
+  L'État, l'État, l'État !<br />
+  Je déteste<br />
+  L'État, l'État, l'État !<br />
+  <strong>Lumen</strong>
+</blockquote>
+
+<p className={styles.text}>
+  La société, l'assemblée, le groupe — dans notre monde, il existe de nombreux mots dans toutes les langues 
+  qui décrivent le phénomène de l'union des personnes pour des actions communes. Mais comment ces sociétés diffèrent-elles ? 
+  Quelles actions accomplissent-elles ? La différence semble minime, 
+  mais chaque société a quelque chose d'unique — pour chaque action positive contre toutes les négatives.
+</p>
+
+<h2 className={styles.subheading}>Pourquoi avons-nous besoin de la société ?</h2>
+<p className={styles.text}>
+  Pourquoi les gens ont-ils besoin de la société ? La réponse réside dans une vérité simple : il est plus facile de survivre ensemble. 
+  Il y a de nombreux millénaires, les gens ont compris qu'être à l'extérieur de la société signifiait être condamné. 
+  Il y a des exceptions, mais elles confirment la règle : sans société, une personne fait face à la mort et à l'oubli. 
+  Ce désir profond de s'unir pousse les gens à former des sociétés. 
+  Il peut y avoir diverses déviations situationnelles dues à des manipulations ou des traditions, 
+  mais toute société qui ne prend pas soin de ses membres est vouée à disparaître.
+</p>
+
+<h2 className={styles.subheading}>Comment distinguer la bonne société ?</h2>
+<p className={styles.text}>
+  Pour distinguer la bonne direction de la société de la mauvaise, il faut à nouveau revenir à la notion de bien. 
+  Une société qui augmente les chances de survie de l'humanité agit correctement. 
+  Si elle fait des actions qui réduisent ou privent l'humanité de chances de survie, elle prend le mauvais chemin.
+</p>
+
+<h2 className={styles.subheading}>Principes de la société</h2>
+<p className={styles.text}>
+  De tout ce qui a été dit, il découle que chaque société doit adhérer à deux principes :
+</p>
+<ol className={styles.list}>
+  <li>Prendre soin des membres de la société (et ainsi augmenter les chances de survie de l'humanité dans son ensemble).</li>
+  <li>Protéger la structure de la société (une société sans leviers établis d'interaction, autrement dit de pouvoir, est également vouée à l'échec).</li>
+</ol>
+`,
+
     chapter_title_1: "Bonté",
     chapter_title_2: "Dilemme",
     chapter_title_3: "Vérité",

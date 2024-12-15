@@ -10,10 +10,13 @@ const appSlice = createSlice({
     name: 'app',
     initialState,
     reducers: {
+        setView(state,action){
+            state.mobileView = action.payload;
+        }
     }
 });
 
-export const {} = appSlice.actions;
+export const {setView} = appSlice.actions;
 
 const store = configureStore({
     reducer: {
