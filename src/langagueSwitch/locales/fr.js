@@ -4,7 +4,7 @@ const fr = {
     <blockquote className={styles.quote}>
       Le petit fils est venu vers son père,<br />
       et le petit a demandé :<br />
-      <em>— Qu'est-ce qui est bon et qu'est-ce qui est mauvais ?</em><br />
+      <em>Qu'est-ce qui est bon et qu'est-ce qui est mauvais ?</em><br />
       <strong>— V.V. Maïakovski</strong>
     </blockquote>
 
@@ -110,7 +110,7 @@ const fr = {
   <blockquote className={styles.quote}>
     Un certain original combat encore pour la Vérité,<br />
     La Vérité dans ses mots ne vaut pas plus qu'un sou:<br />
-    <em>— La Vérité pure triomphera avec le temps —<br />
+    <em>La Vérité pure triomphera avec le temps —<br />
     Si elle fait la même chose que le Mensonge manifeste!</em><br />
     <strong>— Vladimir Vyssotski</strong>
   </blockquote>
@@ -149,7 +149,7 @@ chapter4: `
     Mon cœur a dû se tromper ?<br />
     Cela signifie-t-il que le chemin du paradis est fermé ?<br />
     Je ne me suis pas vu derrière Dieu…<br />
-    <strong>— Pavel Plamenov</strong>
+    <strong>— Pavel Plamenev</strong>
   </blockquote>
 
   <p className={styles.text}>
@@ -181,7 +181,7 @@ chapter5: `
   L'État, l'État, l'État !<br />
   Je déteste<br />
   L'État, l'État, l'État !<br />
-  <strong>Lumen</strong>
+  <strong>— Lumen</strong>
 </blockquote>
 
 <p className={styles.text}>
@@ -217,6 +217,147 @@ chapter5: `
   <li>Protéger la structure de la société (une société sans leviers établis d'interaction, autrement dit de pouvoir, est également vouée à l'échec).</li>
 </ol>
 `,
+chapter6: `
+  <h1 className={styles.title}>Le pouvoir ne vient pas du peuple !</h1>
+  <blockquote className={styles.quote}>
+    Ne répétez pas ces idées folles écrites dans la Constitution !<br />
+    Le pouvoir est maintenu par la force des guerriers, et non par les cris de la foule<br />
+    Et à travers ses exécutions !<br />
+    <strong>— Pavel Plamenyev</strong>
+  </blockquote>
+
+  <p className={styles.text}>
+    Pour qu'une société continue d'exister, il doit y avoir une structure à travers laquelle les individus 
+    qui composent la société peuvent interagir les uns avec les autres. Cette structure, dans notre langage, peut être appelée pouvoir. 
+    Le pouvoir est avant tout la capacité d'un individu à faire en sorte qu'un autre individu accomplisse son désir.
+  </p>
+
+  <p className={styles.text}>
+    Le pouvoir peut être considéré en fonction de son origine, mais dans tous les cas, peu importe son origine, 
+    son application dépend avant tout de la croyance des gouvernés qu'il est légitime.
+  </p>
+
+  <p className={styles.text}>
+    Si vous avez besoin d'argent, et que vous allez travailler pour l'obtenir, vous êtes amené à effectuer certaines actions nécessaires pour quelqu'un d'autre. 
+    L'argent est un moyen de transférer des impulsions de pouvoir. Une personne veut qu'une autre fasse quelque chose, et lui paie pour cela. 
+    Essentiellement, l'argent est l'un des moyens d'exercer le pouvoir.
+  </p>
+
+  <p className={styles.text}>
+    Une autre manière d'exercer le pouvoir est la croyance. Un leader spirituel croit que ses suiveurs doivent accomplir certaines actions. 
+    Peu importe ce que sont ces actions — ce qui compte, c'est qu'en fin de compte, un individu impose ses désirs à un autre.
+  </p>
+
+  <p className={styles.text}>
+    Et dans les cas de l'argent et de la croyance, le principal moteur est de faire croire aux gens qu'ils doivent agir 
+    selon la volonté de quelqu'un d'autre. Essentiellement, l'argent est autant une question de croyance que les religions chrétiennes, par exemple. 
+    Il y a de nombreux exemples comme celui-ci. Et avec chaque exemple, il devient de plus en plus évident que le pouvoir existe lorsque les gens y croient.
+  </p>
+
+  <p className={styles.text}>
+    Le pouvoir est impossible lorsqu'une personne sait qu'elle peut obtenir ce qu'elle veut sans lui.
+  </p>
+
+  <p className={styles.text}>
+    Le pouvoir est possible lorsqu'une personne croit qu'elle ne pourra pas obtenir ce dont elle a besoin sans lui.
+  </p>
+
+  <p className={styles.text}>
+    La question est, est-il bon ou mauvais que certaines personnes se soumettent à d'autres ? 
+    Chaque fois que cette question se pose, il vaut la peine de considérer ce qui l'a causée.
+  </p>
+
+  <p className={styles.text}>
+    Le problème est que le travail de groupe est beaucoup plus efficace que le travail individuel. Toute personne en bonne santé est capable de maîtriser 
+    n'importe quelle partie de n'importe quelle chaîne de production, mais personne n'est capable de tout faire, encore moins de tout fabriquer. Par exemple, 
+    pour chasser un mammouth, il doit être frappé 300 fois en 1 minute. Une seule personne ne pourrait pas le faire seule; un groupe de personnes est nécessaire pour frapper en même temps.
+  </p>
+
+  <p className={styles.text}>
+    Comment faire ? Nos ancêtres ont trouvé la solution en divisant les rôles entre les commandants et les subordonnés 
+    (quel que soit leur nom à l'époque) comme la solution la plus simple. Sur ordre de frapper, un groupe tue avec succès un mammouth. 
+    Ils ont de la nourriture — la fonction du pouvoir est accomplie, et le pouvoir peut se retirer jusqu'à ce que de nouveaux efforts organisationnels soient nécessaires. 
+    Mais cela n'a fonctionné que tant que les résultats du travail étaient connus de ceux qui l'exécutaient.
+  </p>
+
+  <p className={styles.text}>
+    Mais si, par exemple, la construction d'une maison nécessite 1000 briques, le responsable peut facilement convaincre les subordonnés 
+    qu'ils doivent en fabriquer 1100. En conséquence, plus de travail est effectué, le groupe obtient le même bénéfice (la maison), 
+    et le responsable conserve 100 briques pour en faire ce qu'il veut.
+  </p>
+
+  <p className={styles.text}>
+    Essentiellement, pour que le pouvoir demeure intact, il doit constamment remplir une fonction utile de gestion pour la survie 
+    de cette société (cet objectif est l'objectif principal de toute société). Tous les autres objectifs de la société sont imposés par son propre pouvoir.
+  </p>
+
+  <p className={styles.text}>
+    Pour satisfaire les désirs d'un individu, le pouvoir est appliqué dans la société.
+  </p>
+
+  <p className={styles.text}>
+    Ou, pour réaliser les désirs d'un individu, la société doit croire que ces désirs doivent être réalisés.
+  </p>
+
+  <p className={styles.text}>
+    Si la société n'a pas de problèmes avec les besoins de base, un individu peut utiliser la croyance de cette société pour atteindre des objectifs au-delà des 
+    désirs de cette société, selon ses propres points de vue personnels.
+  </p>
+
+  <p className={styles.text}>
+    La question de la légitimité du pouvoir se pose lorsque :
+    <br />
+    1. Les désirs de base de la société ne sont pas satisfaits
+    <br />
+    2. Les désirs des autres membres puissants de la société ne sont pas satisfaits.
+  </p>
+
+  <p className={styles.text}>
+    Dans le premier cas, l'individu qui détient le pouvoir l'a utilisé de manière imprudente, le gaspillant pour satisfaire ses propres désirs au détriment de la société.
+  </p>
+
+  <p className={styles.text}>
+    Dans le deuxième cas, un autre individu désire obtenir davantage de pouvoir pour satisfaire ses propres désirs.
+  </p>
+`,
+chapter7: `
+  <blockquote className={styles.quote}>
+    Un rêve réalisé — en imagine un autre,<br />
+    Un autre réalisé — en imagine un troisième.<br />
+    Rêve, pour que la vie ne passe pas en vain,<br />
+    Pour que la vie ne passe pas en vain — rêve…<br />
+    <strong>— Elena Kichol</strong>
+  </blockquote>
+
+  <p className={styles.text}>
+    Précédemment, nous avons abordé deux questions importantes sur la nature du pouvoir et des actions bienveillantes. Maintenant, il est temps de porter notre attention sur ce qui pousse les gens à agir de cette manière ou d'une autre.
+  </p>
+
+  <p className={styles.text}>
+    Le désir. Il y avait un certain Freud qui, dans les motifs des actions humaines, cherchait toujours l'aspect "animal". Il ne fait aucun doute que dans de nombreuses actions humaines, cet aspect est directement ou indirectement présent (par exemple, les courses matinales donnent à une personne le contrôle sur certains paramètres physiques, ce qui conduit à plus d'attention du sexe opposé, ce qui augmente les chances de satisfaire le désir de reproduction). Cependant, il existe des actions clairement orientées vers l'autodestruction de la société dans laquelle vit un individu ou son exclusion de la lutte concurrentielle au sein de cette société.
+  </p>
+
+  <p className={styles.text}>
+    Le plus souvent, ces désirs sont provoqués par des manipulations de la conscience humaine, dans laquelle une image "correcte" du comportement est imposée, souvent en contradiction avec les "instincts" de base. En fin de compte, un tel comportement destructeur sert à satisfaire les "instincts" animaux d'autres personnes, au détriment des individus manipulés qui se retirent volontairement de la lutte concurrentielle. Notre nature nous donne une idée de ce dont nous avons besoin à travers nos sens, et c'est dans la prise de conscience de ces sensations que naissent les Désirs.
+  </p>
+
+  <p className={styles.text}>
+    Finalement, chaque individu se forme une vision particulière de la situation et du désir de la transformer en un scénario où il serait mieux. Si une personne ne peut pas déterminer correctement ce qui se passe, elle ne pourra pas non plus comprendre ce qu'elle doit faire pour obtenir l'évolution désirée des événements. L'une des formes de pouvoir, et la plus habile de toutes, est le pouvoir sur les désirs. Si les manipulations sur la rémunération, les menaces de force, et les menaces d'un jugement sévère après la mort sont aujourd'hui plus ou moins claires pour la société, et que la manière dont une personne peut lutter contre ces manipulations est assez bien comprise (bien que nous n'ayons pas encore complètement résolu ce problème), la lutte contre les faux désirs n'a pas encore été initiée et même pas comprise par la masse de la société. Il est certain que l'on ne peut pas dire que la formation des Désirs dans la société soit l'une des pires formes possibles, mais si la société ne prend pas conscience du mensonge dans lequel elle vit, cela conduira tôt ou tard à un déséquilibre dans la distribution des ressources entre les individus, et comme l'humanité est très puissante et continue de se renforcer, le risque d'autodestruction augmente.
+  </p>
+
+  <p className={styles.text}>
+    Pour éviter l'extinction de notre espèce, la société doit se débarrasser des faux désirs. Pour créer des désirs viables, il faut la vérité, sur laquelle chaque personne pourra faire son propre choix. Et si une personne n'est pas malade mentalement, elle fera nécessairement le bon choix. Elle aura nécessairement de bons désirs.
+  </p>
+
+  <p className={styles.text}>
+    Comment distinguer un bon désir d'un mauvais ? Pour cela, on peut suivre la chaîne des relations jusqu'à ce qu'il devienne évident quel instinct sera satisfait en accomplissant ce désir. Si aucun de vos instincts n'est satisfait, cela signifie que le désir de quelqu'un d'autre est satisfait. Et alors vous pourrez décider si vous devez vraiment désirer ce que vous voulez maintenant.
+  </p>
+
+  <p className={styles.text}>
+    Après tout, les gens ont par nature cette caractéristique de la paresse et préfèrent ne rien faire de superflu plutôt que d'agir. Par conséquent, toute action doit être justifiée, ne serait-ce que par la paresse, sans parler de quelque bien personnel ou universel.
+  </p>
+`,
+
 
     chapter_title_1: "Bonté",
     chapter_title_2: "Dilemme",

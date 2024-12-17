@@ -4,7 +4,7 @@ const en = {
     <blockquote className={styles.quote}>
       The little son came to his father,<br />
       and the little one asked:<br />
-      <em>— What is good and what is bad?</em><br />
+      <em>What is good and what is bad?</em><br />
       <strong>— V.V. Mayakovsky</strong>
     </blockquote>
 
@@ -108,7 +108,7 @@ const en = {
   <blockquote className={styles.quote}>
     A certain odd fellow still fights for the Truth,<br />
     The Truth in his words is worth no more than a penny:<br />
-    <em>— Pure Truth will triumph over time —<br />
+    <em>Pure Truth will triumph over time —<br />
     If it does the same as blatant Lies!</em><br />
     <strong>— Vladimir Vysotsky</strong>
   </blockquote>
@@ -147,7 +147,7 @@ chapter4: `
     My heart must have been mistaken?<br />
     Does that mean the road to heaven is closed?<br />
     I didn’t see myself behind God…<br />
-    <strong>— Pavel Plamenov</strong>
+    <strong>— Pavel Plamenyev</strong>
   </blockquote>
 
   <p className={styles.text}>
@@ -180,7 +180,7 @@ chapter5: `
   The state, the state, the state!<br />
   I hate<br />
   The state, the state, the state!<br />
-  <strong>Lumen</strong>
+  <strong>— Lumen</strong>
 </blockquote>
 
 <p className={styles.text}>
@@ -216,6 +216,175 @@ chapter5: `
   <li>Protecting the structure of society (a society without established levers of interaction, in other words, power, is also doomed).</li>
 </ol>
 `,
+chapter6: `
+  <h1 className={styles.title}>Power doesn't come from the people!</h1>
+  <blockquote className={styles.quote}>
+    Don't repeat these foolish ideas written in the Constitution!<br />
+    Power is maintained by the strength of warriors, not the cries of the crowd<br />
+    And through its executions!<br />
+    <strong>— Pavel Plamenyev</strong>
+  </blockquote>
+
+  <p className={styles.text}>
+    For a society that wishes to continue its existence, there must be a structure through which the individuals 
+    who make up the society can interact with each other. This structure in our language can be called power. 
+    Power is primarily the ability of one individual to make another individual carry out their desire.
+  </p>
+
+  <p className={styles.text}>
+    Power can be considered by the nature of its origin, but in any case, regardless of its origin, its implementation 
+    depends primarily on the belief of those being governed that it is correct.
+  </p>
+
+  <p className={styles.text}>
+    If you need money, and you go to work for it, you are being made to perform certain actions necessary for someone else. 
+    Money is a way of transferring power impulses. One person wants another person to do something, and pays them for it. 
+    Essentially, money is one of the ways to exercise power.
+  </p>
+
+  <p className={styles.text}>
+    Another way of exercising power is belief. A faith leader believes their followers should perform certain actions. 
+    It doesn't matter what those actions are — what matters is that, in the end, one individual imposes their desires onto another.
+  </p>
+
+  <p className={styles.text}>
+    And in both the case of money and belief, the main motive is to make people believe that they need to act according 
+    to someone else's will. Essentially, money is as much a matter of belief as Christian religions, for example. 
+    There are many such examples. And with every example, the same fact becomes clear — power exists when people believe in it.
+  </p>
+
+  <p className={styles.text}>
+    Power is impossible when a person knows that they can get what they want without it.
+  </p>
+
+  <p className={styles.text}>
+    Power is possible when a person believes that without it they won't get what they need.
+  </p>
+
+  <p className={styles.text}>
+    The question is, is it good or bad that some people submit to others? 
+    Every time this question arises, it's worth considering what has caused it.
+  </p>
+
+  <p className={styles.text}>
+    The issue is that group labor is much more efficient than individual labor. Any healthy person is capable of mastering 
+    any part of any production chain, but no one is capable of doing everything, let alone making everything. For example, 
+    to hunt a mammoth, it needs to be struck 300 times in 1 minute. No single person could manage this alone; a group of people 
+    is needed to strike simultaneously.
+  </p>
+
+  <p className={styles.text}>
+    How do you do it? Our ancestors came up with dividing roles between commanders and subordinates 
+    (regardless of what they were called at the time) as the simplest solution. At the command to strike, 
+    a group successfully kills a mammoth. They have food — the function of power is complete, and power can retreat until new 
+    organizational efforts are needed. But this worked only as long as the results of the labor were known to those performing it.
+  </p>
+
+  <p className={styles.text}>
+    But if, for example, building a house requires 1000 bricks, the manager can easily convince subordinates 
+    that they need to make 1100 bricks. As a result, more labor is spent, the group gets the same benefit (the house), 
+    and the manager is left with 100 bricks to do whatever they want with.
+  </p>
+
+  <p className={styles.text}>
+    Essentially, for power to remain intact, it must constantly perform a useful societal function of management for the survival 
+    of that society (this goal is the primary goal of any society). All other goals of society are imposed by its own power.
+  </p>
+
+  <p className={styles.text}>
+    To fulfill the desires of an individual, power is applied in society.
+  </p>
+
+  <p className={styles.text}>
+    Or, to fulfill an individual's desires, society must believe that those desires should be fulfilled.
+  </p>
+
+  <p className={styles.text}>
+    If society has no issues with basic needs, an individual can use the belief of this society to achieve goals beyond the 
+    desires of that society, according to their own personal views.
+  </p>
+
+  <p className={styles.text}>
+    The question of the legitimacy of power arises when:
+    <br />
+    1. Basic desires of society are unmet
+    <br />
+    2. The desires of other powerful members of society are unmet.
+  </p>
+
+  <p className={styles.text}>
+    In the first case, the individual with power has used it unwisely, squandering it on their own desires at the expense of society.
+  </p>
+
+  <p className={styles.text}>
+    In the second case, another individual desires additional power to fulfill their own desires.
+  </p>
+`,
+chapter7: `
+  <blockquote className={styles.quote}>
+  A dream has come true — think of another,<br />
+  Another has come true — think of the third.<br />
+  Dream — so that life doesn't pass in vain,<br />
+  So that life doesn't pass empty — dream…<br />
+  <strong>— Elena Kichol</strong>
+  </blockquote>
+
+  <p className={styles.text}>
+    Previously, we discussed two important questions about the nature of power and virtuous actions.
+    Now it's time to focus on what drives people to act in one way or another.
+  </p>
+
+  <p className={styles.text}>
+    Desire. There was a comrade Freud, who always sought the "animal" component in the motivations of human
+    actions, and undoubtedly, this component is present directly or indirectly in many human actions (for
+    example, as a result of morning runs, a person gains control over certain physical parameters, which in
+    turn leads to increased attention from the opposite sex, which in turn increases the chances of satisfying
+    the desire for reproduction). However, there are actions that are explicitly directed at the self-destruction
+    of the society in which the specific person lives, or at the elimination of the person from the competitive
+    struggle within that society.
+  </p>
+
+  <p className={styles.text}>
+    Most often, such desires are caused by manipulations with human consciousness, where a "correct" behavior
+    is created in a person's mind in ways that contradict basic "instincts". Ultimately, such destructive behavior
+    serves to satisfy other people's "animal" instincts at the expense of individuals who voluntarily withdraw from
+    the competitive struggle after falling for manipulation. Our nature, through feelings, gives us an understanding
+    of what we need, and the awareness of these feelings is what gives rise to Desires.
+  </p>
+
+  <p className={styles.text}>
+    As a result, every person has their own vision of the situation and the desired transformation of it into
+    a sequence of events where the person will be better off. If a person cannot properly determine what is
+    happening, they will not be able to understand what needs to be done to get the desired outcome. One form
+    of power, and the most skillful among them all, is the power over desires. If manipulations with wages, 
+    intimidation with force, or fear of the afterlife judgment are more or less clear to society, and the method
+    of combating these manipulations is conceptually understood, though not yet fully resolved, the struggle with
+    false desires has not only not begun, but is also not recognized by society in its mass. Undoubtedly, we cannot
+    say that the formation of Desires in society is organized in the worst possible way, but if society's eyes
+    are not opened to the lie it lives by and for, it will eventually lead to an imbalance in resource distribution
+    among people, and since humanity is becoming more powerful, the risk of self-destruction is increasing.
+  </p>
+
+  <p className={styles.text}>
+    To prevent our extinction as a species, society must get rid of false desires. To form viable desires,
+    truth is needed — on the basis of which each person will make a choice for themselves. And if a person is not
+    mentally ill, they will certainly make the right choice. They will certainly have the right desires.
+  </p>
+
+  <p className={styles.text}>
+    How to distinguish a right desire from a wrong one? To do this, you can trace the chain of connections
+    until it becomes clear which of the instincts will be satisfied as a result of fulfilling a certain desire.
+    If one of your instincts is not satisfied, it means that someone else's desire is being fulfilled. And then
+    you can decide whether it is worth desiring what you currently want.
+  </p>
+
+  <p className={styles.text}>
+    After all, people by nature possess such a trait as laziness, and would rather not do something unnecessary
+    than do it. Therefore, any action must be justified at least from the position of laziness, not to mention
+    some personal or common good.
+  </p>
+`,
+
 
     chapter_title_1: "Goodness",
     chapter_title_2: "Dilemma",

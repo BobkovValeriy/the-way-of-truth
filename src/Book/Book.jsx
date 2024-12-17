@@ -7,7 +7,6 @@ import {setView} from '../store';
 
 function Book() {
     const text = useSelector((state) => state.langReducer);
-    const view = useSelector((state) => state.app.mobileView)
     const dispatch = useDispatch()
     const [chapter, setChapter] = useState('chapter1');
     const [chapterText, setChapterText] = useState('');
@@ -46,10 +45,6 @@ function Book() {
         // Очищаем обработчик при размонтировании компонента
         return () => mediaQuery.removeListener(handleMediaQueryChange);
       }, []);
-      useEffect(()=>{
-        console.log(view)
-        console.log(chapter)
-      },[view])
 
     return (
         <div className={styles.book}>

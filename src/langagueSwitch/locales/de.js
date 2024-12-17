@@ -4,7 +4,7 @@ const de = {
     <blockquote className={styles.quote}>
       Der kleine Sohn kam zu seinem Vater,<br />
       und der kleine fragte:<br />
-      <em>— Was ist gut und was ist schlecht?</em><br />
+      <em>Was ist gut und was ist schlecht?</em><br />
       <strong>— V.V. Majakowski</strong>
     </blockquote>
 
@@ -109,7 +109,7 @@ const de = {
   <blockquote className={styles.quote}>
     Ein gewisser Sonderling kämpft immer noch für die Wahrheit,<br />
     Die Wahrheit in seinen Worten ist nicht mehr wert als einen Pfennig:<br />
-    <em>— Reine Wahrheit wird mit der Zeit triumphieren —<br />
+    <em>Reine Wahrheit wird mit der Zeit triumphieren —<br />
     Wenn sie dasselbe tut wie die offensichtliche Lüge!</em><br />
     <strong>— Wladimir Wyssozki</strong>
   </blockquote>
@@ -148,7 +148,7 @@ chapter4: `
     Mein Herz muss sich geirrt haben?<br />
     Bedeutet das, dass der Weg zum Paradies geschlossen ist?<br />
     Ich sah mich nicht hinter Gott…<br />
-    <strong>— Pavel Plamenov</strong>
+    <strong>— Pavel Plamenev</strong>
   </blockquote>
 
   <p className={styles.text}>
@@ -181,7 +181,7 @@ chapter5: `
   Der Staat, der Staat, der Staat!<br />
   Ich hasse<br />
   Der Staat, der Staat, der Staat!<br />
-  <strong>Lumen</strong>
+  <strong>— Lumen</strong>
 </blockquote>
 
 <p className={styles.text}>
@@ -217,6 +217,146 @@ chapter5: `
   <li>Der Schutz der Struktur der Gesellschaft (eine Gesellschaft ohne etablierte Hebel der Interaktion, mit anderen Worten Macht, ist ebenfalls zum Scheitern verurteilt).</li>
 </ol>
 `,
+chapter6: `
+  <h1 className={styles.title}>Macht kommt nicht vom Volk!</h1>
+  <blockquote className={styles.quote}>
+    Wiederhole diese törichten Ideen, die in der Verfassung geschrieben stehen, nicht!<br />
+    Macht wird durch die Stärke der Krieger aufrechterhalten, nicht durch die Schreie der Menge<br />
+    Und durch ihre Exekutionen!<br />
+    <strong>— Pavel Plamenyev</strong>
+  </blockquote>
+
+  <p className={styles.text}>
+    Für eine Gesellschaft, die ihre Existenz fortsetzen möchte, muss es eine Struktur geben, durch die die Individuen 
+    der Gesellschaft miteinander interagieren können. Diese Struktur kann in unserer Sprache als Macht bezeichnet werden. 
+    Macht ist vor allem die Fähigkeit eines Individuums, ein anderes Individuum dazu zu bringen, seinen Wunsch zu erfüllen.
+  </p>
+
+  <p className={styles.text}>
+    Macht kann nach ihrer Herkunft betrachtet werden, aber in jedem Fall hängt ihre Umsetzung vor allem vom Glauben der Regierten ab, dass sie legitim ist.
+  </p>
+
+  <p className={styles.text}>
+    Wenn du Geld brauchst und zur Arbeit gehst, um es zu verdienen, wirst du dazu gebracht, bestimmte Handlungen auszuführen, die für jemand anderen notwendig sind. 
+    Geld ist eine Möglichkeit, Machtimpulse zu übertragen. Eine Person möchte, dass eine andere etwas tut, und bezahlt sie dafür. 
+    Im Wesentlichen ist Geld eine der Möglichkeiten, Macht auszuüben.
+  </p>
+
+  <p className={styles.text}>
+    Eine andere Möglichkeit, Macht auszuüben, ist der Glaube. Ein religiöser Führer glaubt, dass seine Anhänger bestimmte Handlungen ausführen sollten. 
+    Es spielt keine Rolle, was diese Handlungen sind — was zählt, ist, dass am Ende ein Individuum seine Wünsche auf ein anderes Individuum überträgt.
+  </p>
+
+  <p className={styles.text}>
+    Und sowohl im Fall von Geld als auch von Glauben ist das Hauptmotiv, die Menschen glauben zu machen, dass sie entsprechend 
+    dem Willen eines anderen handeln müssen. Im Wesentlichen ist Geld ebenso eine Glaubensfrage wie beispielsweise die christlichen Religionen. 
+    Es gibt viele solche Beispiele. Und bei jedem Beispiel wird immer deutlicher, dass Macht existiert, wenn die Menschen daran glauben.
+  </p>
+
+  <p className={styles.text}>
+    Macht ist unmöglich, wenn eine Person weiß, dass sie das bekommen kann, was sie will, ohne sie.
+  </p>
+
+  <p className={styles.text}>
+    Macht ist möglich, wenn eine Person glaubt, dass sie ohne sie nicht bekommt, was sie braucht.
+  </p>
+
+  <p className={styles.text}>
+    Die Frage ist, ob es gut oder schlecht ist, dass einige Menschen anderen untergeordnet sind? 
+    Jedes Mal, wenn diese Frage aufkommt, sollte man darüber nachdenken, was sie verursacht hat.
+  </p>
+
+  <p className={styles.text}>
+    Das Problem ist, dass Gruppenarbeit viel effizienter ist als Einzelarbeit. Jeder gesunde Mensch ist in der Lage, 
+    einen beliebigen Teil einer Produktionskette zu beherrschen, aber niemand ist in der Lage, alles zu tun, geschweige denn alles zu produzieren. 
+    Zum Beispiel, um ein Mammut zu jagen, muss es 300 Mal in einer Minute geschlagen werden. Niemand könnte dies alleine tun; eine Gruppe von Menschen ist erforderlich, die gleichzeitig zuschlagen.
+  </p>
+
+  <p className={styles.text}>
+    Wie macht man es? Unsere Vorfahren haben die Lösung gefunden, indem sie die Rollen zwischen Kommandanten und Untergebenen 
+    (unabhängig davon, wie sie damals genannt wurden) als die einfachste Lösung teilten. Auf Befehl zu schlagen, 
+    tötet eine Gruppe erfolgreich ein Mammut. Sie haben Nahrung — die Funktion der Macht ist erfüllt, und die Macht kann sich zurückziehen, bis neue 
+    organisatorische Anstrengungen erforderlich sind. Aber dies funktionierte nur, solange die Ergebnisse der Arbeit denjenigen bekannt waren, die sie ausführten.
+  </p>
+
+  <p className={styles.text}>
+    Aber wenn zum Beispiel der Bau eines Hauses 1000 Ziegelsteine erfordert, kann der Manager die Untergebenen leicht davon überzeugen, 
+    dass sie 1100 Ziegelsteine machen müssen. Infolgedessen wird mehr Arbeit aufgewendet, die Gruppe erhält den gleichen Nutzen (das Haus), 
+    und der Manager behält 100 Ziegelsteine für sich, um damit zu tun, was er will.
+  </p>
+
+  <p className={styles.text}>
+    Im Wesentlichen muss Macht, damit sie intakt bleibt, ständig eine nützliche gesellschaftliche Funktion der Verwaltung erfüllen, 
+    um das Überleben dieser Gesellschaft zu sichern (dieses Ziel ist das primäre Ziel jeder Gesellschaft). Alle anderen Ziele der Gesellschaft werden von ihrer eigenen Macht auferlegt.
+  </p>
+
+  <p className={styles.text}>
+    Um die Wünsche eines Individuums zu erfüllen, wird in der Gesellschaft Macht angewendet.
+  </p>
+
+  <p className={styles.text}>
+    Oder um die Wünsche eines Individuums zu erfüllen, muss die Gesellschaft glauben, dass diese Wünsche erfüllt werden sollten.
+  </p>
+
+  <p className={styles.text}>
+    Wenn die Gesellschaft keine Probleme mit den Grundbedürfnissen hat, kann ein Individuum den Glauben dieser Gesellschaft nutzen, um Ziele zu erreichen, 
+    die über die Wünsche dieser Gesellschaft hinausgehen, gemäß den eigenen persönlichen Ansichten.
+  </p>
+
+  <p className={styles.text}>
+    Die Frage der Legitimität der Macht stellt sich, wenn:
+    <br />
+    1. Die Grundbedürfnisse der Gesellschaft nicht erfüllt sind
+    <br />
+    2. Die Wünsche anderer mächtiger Mitglieder der Gesellschaft nicht erfüllt sind.
+  </p>
+
+  <p className={styles.text}>
+    Im ersten Fall hat das Individuum mit Macht sie unklug genutzt, sie verschwendet, um eigene Wünsche auf Kosten der Gesellschaft zu erfüllen.
+  </p>
+
+  <p className={styles.text}>
+    Im zweiten Fall möchte ein anderes Individuum mehr Macht erhalten, um seine eigenen Wünsche zu erfüllen.
+  </p>
+`,
+chapter7: `
+  <blockquote className={styles.quote}>
+    Ein Traum wurde wahr – träume einen anderen,<br />
+    Ein anderer wurde wahr – träume einen dritten.<br />
+    Träume, damit das Leben nicht vergeblich vergeht,<br />
+    Damit das Leben nicht vergeblich vergeht – träume…<br />
+    <strong>— Elena Kichol</strong>
+  </blockquote>
+
+  <p className={styles.text}>
+    Zuvor haben wir zwei wichtige Fragen zur Natur der Macht und wohlwollenden Handlungen behandelt. Jetzt ist es an der Zeit, unsere Aufmerksamkeit darauf zu richten, was Menschen dazu bewegt, auf diese oder jene Weise zu handeln.
+  </p>
+
+  <p className={styles.text}>
+    Der Wunsch. Es gab diesen Freud, der in den Beweggründen menschlicher Handlungen immer nach dem "tierischen" Element suchte. Es besteht kein Zweifel, dass dieses Element in vielen menschlichen Handlungen direkt oder indirekt vorhanden ist (zum Beispiel erhält eine Person durch morgendliches Joggen Kontrolle über einige ihrer physischen Parameter, was wiederum dazu führt, dass sie mehr Aufmerksamkeit vom anderen Geschlecht erhält, was wiederum die Chancen erhöht, das Fortpflanzungsziel zu erreichen). Es gibt jedoch auch Handlungen, die eindeutig auf die Selbstzerstörung der Gesellschaft abzielen, in der ein Individuum lebt, oder auf dessen Ausschluss aus dem inneren Wettbewerb dieser Gesellschaft.
+  </p>
+
+  <p className={styles.text}>
+    Diese Wünsche entstehen meist durch Manipulationen mit dem menschlichen Bewusstsein, bei denen dem Menschen auf verschiedene Weisen ein "richtiges" Verhalten aufgezwungen wird, das den grundlegenden "Instinkten" widerspricht. Letztendlich dient solches destruktives Verhalten dazu, die "tierischen" Instinkte anderer Menschen zu befriedigen, indem sich manipulierte Individuen freiwillig aus dem Wettbewerb zurückziehen. Unsere Natur gibt uns über unsere Sinne eine Vorstellung davon, was wir brauchen, und es sind diese Empfindungen, die die Wünsche hervorbringen.
+  </p>
+
+  <p className={styles.text}>
+    Am Ende bildet jeder Mensch seine eigene Vorstellung von der Situation und dem gewünschten Verlauf, in dem es ihm besser gehen wird. Wenn ein Mensch nicht richtig erkennen kann, was passiert, wird er auch nicht verstehen können, was er tun muss, um die gewünschte Entwicklung der Ereignisse zu erreichen. Eine der Machtformen, und die raffinierteste von allen, ist die Macht über die Wünsche. Wenn Manipulationen mit Löhnen, Drohungen mit Gewalt und Drohungen mit einem schrecklichen Gericht nach dem Tod derzeit mehr oder weniger der Gesellschaft bekannt sind und die Art und Weise, wie ein Mensch gegen diese Manipulationen kämpfen kann, grundsätzlich verstanden wird (obwohl wir damit noch nicht vollständig fertig sind), so ist der Kampf gegen falsche Wünsche noch nicht begonnen und wird von der Gesellschaft in ihrer Masse noch nicht erkannt. Es kann sicherlich nicht gesagt werden, dass die Bildung von Wünschen in der Gesellschaft in der schlimmsten aller möglichen Formen organisiert ist, aber wenn die Gesellschaft die Lügen, in denen sie lebt und für die sie lebt, nicht erkennt, wird dies früher oder später zu einer Verzerrung der Ressourcenteilung unter den Menschen führen. Und da die Menschheit sehr mächtig ist und immer stärker wird, steigt das Risiko der Selbstzerstörung.
+  </p>
+
+  <p className={styles.text}>
+    Um das Aussterben unserer Art zu verhindern, muss sich die Gesellschaft von falschen Wünschen befreien. Um lebensfähige Wünsche zu bilden, braucht es die Wahrheit, auf deren Grundlage jeder Mensch für sich selbst die richtige Wahl treffen kann. Und wenn eine Person nicht mental krank ist, wird sie auf jeden Fall die richtige Wahl treffen. Sie wird auf jeden Fall die richtigen Wünsche haben.
+  </p>
+
+  <p className={styles.text}>
+    Wie unterscheidet man einen richtigen Wunsch von einem falschen? Dafür kann man die Kette der Zusammenhänge verfolgen, bis deutlich wird, welcher Instinkt durch die Erfüllung dieses Wunsches befriedigt wird. Wenn kein Instinkt von Ihnen befriedigt wird, wird der Wunsch eines anderen befriedigt. Und dann können Sie entscheiden, ob es sich lohnt, wirklich zu wünschen, was Sie gerade wollen.
+  </p>
+
+  <p className={styles.text}>
+    Schließlich haben Menschen von Natur aus die Eigenschaft der Faulheit und ziehen es vor, nichts Überflüssiges zu tun, anstatt zu handeln. Daher muss jede Handlung zumindest durch Faulheit gerechtfertigt sein, ganz zu schweigen von persönlichem oder allgemeinem Wohl.
+  </p>
+`,
+
 
     chapter_title_1: "Güte",
     chapter_title_2: "Dilemma",
