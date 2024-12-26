@@ -1,34 +1,50 @@
 .page {
-    text-align: initial; 
-    justify-content: initial;
-    align-items: initial;
-    padding: 10px 20px;
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    color: whitesmoke;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
-    user-select: none !important;
+  text-align: initial;
+  justify-content: initial;
+  align-items: initial;
+  padding: 10px 20px;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: whitesmoke;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+  user-select: none !important;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.quote {
+  font-style: italic;
+  margin: 10px 0 20px;
+  padding: 10px;
+  border-left: 3px solid #ccc;
+}
+
+.text {
+  margin-bottom: 18px;
+}
+
+.subheading {
+  font-size: 16px;
+  margin: 20px 0 10px;
+  font-weight: bold;
+}
+
+.license {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #cccccc;
+  text-align: center;
+
+  a {
+    color: #ffcc00;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
-  
-  .title {
-    font-size: 22px;
-    font-weight: bold;
-    margin-bottom: 20px;
-  }
-  
-  .quote {
-    font-style: italic;
-    margin: 10px 0 20px;
-    padding: 10px;
-    border-left: 3px solid #ccc;
-  }
-  
-  .text {
-    margin-bottom: 18px;
-  }
-  
-  .subheading {
-    font-size: 16px;
-    margin: 20px 0 10px;
-    font-weight: bold;
-  }
+}
