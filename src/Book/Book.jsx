@@ -16,10 +16,10 @@ function Book() {
     useEffect(() => {
         if (text && text[chapter]) {
             setChapterText(text[chapter]); // Устанавливаем текст главы
+            setBackground(getBackgroundImage(chapter));  // Устанавливаем фон
         } else {
             setChapterText(''); // Если данных нет, устанавливаем пустую строку
         }
-        setBackground(getBackgroundImage(chapter)); // Устанавливаем фон
     }, [chapter, text]);
 
     const getBackgroundImage = (chapter) => {

@@ -175,46 +175,50 @@ chapter4: `
   </p>
 `,
 chapter5: `
-<h1 className={styles.title}>Hier ist es wie Demokratie, aber eigentlich ein Königreich!</h1>
+<h1 className={styles.title}>Hier ist es wie eine Demokratie, aber in Wirklichkeit ein Königreich!</h1>
 <blockquote className={styles.quote}>
-  Ich liebe mein Land... und hasse<br />
-  Der Staat, der Staat, der Staat!<br />
+  Ich liebe mein Land so sehr... und hasse<br />
+  den Staat, den Staat, den Staat!<br />
   Ich hasse<br />
-  Der Staat, der Staat, der Staat!<br />
+  den Staat, den Staat, den Staat!<br />
   <strong>— Lumen</strong>
 </blockquote>
 
 <p className={styles.text}>
-  Gesellschaft, Versammlung, Gruppe – in unserer Welt gibt es viele Wörter in allen Sprachen, 
-  die das Phänomen der Vereinigung von Menschen für gemeinsame Handlungen beschreiben. Aber wie unterscheiden sich diese Gesellschaften? 
+  Gesellschaft, Versammlung, Gruppe — in unserer Welt gibt es viele Wörter in allen Sprachen, 
+  die das Phänomen der Vereinigung von Menschen zum Zwecke des gemeinsamen Handelns beschreiben. 
+  Aber wie unterscheiden sich diese Gesellschaften? 
   Welche Handlungen führen sie aus? Der Unterschied scheint gering, 
-  aber jede Gesellschaft hat etwas Einzigartiges – für jede gute Handlung gegen alle negativen.
+  jede Gesellschaft hat etwas Einzigartiges, doch im Grunde geht es um alles Gute gegen alles Schlechte.
 </p>
 
-<h2 className={styles.subheading}>Warum brauchen wir Gesellschaft?</h2>
+<h2 className={styles.subheading}>Warum braucht man Gesellschaft?</h2>
 <p className={styles.text}>
-  Warum brauchen Menschen Gesellschaft? Die Antwort liegt in einer einfachen Wahrheit – zusammen ist es einfacher zu überleben. 
-  Vor vielen Tausend Jahren erkannten die Menschen, dass sie ohne Gesellschaft dem Untergang geweiht sind. 
-  Es gibt Ausnahmen, aber sie bestätigen nur die Regel – ohne Gesellschaft wartet der Tod und das Vergessen. 
-  Dieses tiefe Bedürfnis nach Vereinigung führt die Menschen dazu, Gesellschaften zu bilden. 
-  Es kann verschiedene situative Abweichungen geben, die durch Manipulationen oder Traditionen verursacht werden, 
-  aber jede Gesellschaft, die sich nicht um ihre Mitglieder kümmert, ist zum Scheitern verurteilt.
+  Warum brauchen Menschen eine Gesellschaft? Die Antwort liegt in einer einfachen Wahrheit — zusammen ist es einfacher zu überleben. 
+  Vor vielen Jahrtausenden erkannten die Menschen, dass sie außerhalb der Gesellschaft dem Untergang geweiht sind. 
+  Es gibt Ausnahmen, aber diese bestätigen nur die Regel — ohne Gesellschaft erwartet den Menschen Tod und Vergessen. 
+  Dieses tiefe Verlangen nach Vereinigung führt die Menschen dazu, Gesellschaften zu bilden. 
+  Es kann unterschiedliche situationsbedingte Abweichungen geben, die durch Manipulationen oder Traditionen verursacht werden, 
+  aber jede Gesellschaft, die sich nicht um ihre Mitglieder kümmert, ist dem Untergang geweiht.
 </p>
 
-<h2 className={styles.subheading}>Wie unterscheidet man die richtige Gesellschaft?</h2>
+<h2 className={styles.subheading}>Wie erkennt man die richtige Gesellschaft?</h2>
 <p className={styles.text}>
-  Um die richtige Richtung einer Gesellschaft von der falschen zu unterscheiden, müssen wir wieder auf das Konzept des Guten zurückkommen. 
+  Um die richtige Richtung der Gesellschaftsentwicklung von der falschen zu unterscheiden, 
+  muss man sich erneut dem Konzept des Guten zuwenden. 
   Eine Gesellschaft, die die Überlebenschancen der Menschheit erhöht, handelt richtig. 
-  Wenn sie jedoch Handlungen vornimmt, die die Überlebenschancen der Menschheit verringern oder ihr diese Chancen nehmen, geht sie den falschen Weg.
+  Wenn sie jedoch Handlungen ausführt, die die Chancen der Menschheit verringern oder sie ihrer Überlebenschancen berauben, 
+  geht sie in die falsche Richtung.
 </p>
 
 <h2 className={styles.subheading}>Prinzipien der Gesellschaft</h2>
 <p className={styles.text}>
-  Aus allem, was gesagt wurde, folgt, dass jede Gesellschaft zwei Prinzipien folgen muss:
+  Aus all dem folgt, dass jede Gesellschaft zwei Prinzipien folgen muss:
 </p>
 <ol className={styles.list}>
-  <li>Die Sorge um die Mitglieder der Gesellschaft (und damit die Erhöhung der Überlebenschancen der Menschheit insgesamt).</li>
-  <li>Der Schutz der Struktur der Gesellschaft (eine Gesellschaft ohne etablierte Hebel der Interaktion, mit anderen Worten Macht, ist ebenfalls zum Scheitern verurteilt).</li>
+  <li>Sorge um die Mitglieder der Gesellschaft (und folglich die Erhöhung der Überlebenschancen der Menschheit insgesamt).</li>
+  <li>Schutz der Struktur der Gesellschaft (eine Gesellschaft ohne festgelegte Interaktionsmechanismen, 
+  mit anderen Worten, Macht, ist ebenfalls dem Untergang geweiht).</li>
 </ol>
 `,
 chapter6: `
@@ -355,6 +359,48 @@ chapter7: `
   <p className={styles.text}>
     Schließlich haben Menschen von Natur aus die Eigenschaft der Faulheit und ziehen es vor, nichts Überflüssiges zu tun, anstatt zu handeln. Daher muss jede Handlung zumindest durch Faulheit gerechtfertigt sein, ganz zu schweigen von persönlichem oder allgemeinem Wohl.
   </p>
+`,
+chapter8:`
+<blockquote className={styles.quote}>
+  Regardez ! Regardez !<br />
+  Derrière le garçon, comme une ombre,<br />
+  La paresse avance à pas feutrés.<br />
+  <strong>— Davydova T.</strong>
+</blockquote>
+
+<p className={styles.text}>
+  Et voilà que nous abordons la paresse et l'oisiveté — dans l’immense quantité de réflexions sur la paresse 
+  générées par l’humanité, il y a de nombreux exemples utiles pour nous, mais je ne vais pas les énumérer ici...
+</p>
+
+<p className={styles.text}>
+  Je propose de réfléchir à ceci :
+  <ul>
+    <li>il y a mille cinq cents ans, de nombreux paysans utilisaient le travail manuel pour labourer les terres ;</li>
+    <li>il y a deux cents ans, de nombreux paysans utilisaient une charrue tirée par des chevaux pour labourer les terres ;</li>
+    <li>de nos jours, de nombreux paysans utilisent des tracteurs pour labourer les terres.</li>
+  </ul>
+</p>
+
+<p className={styles.text}>
+  On peut conclure que les paysans travaillent de moins en moins ! Mais ils produisent de plus en plus de nourriture. 
+  Alors, sont-ils paresseux ou non ? Le fait est que la paresse n’est pas un mal en soi. La paresse est un sentiment 
+  qui aide une personne dans son existence ; elle est destinée à nous aider à reconnaître les dépenses inutiles de 
+  notre énergie. Sans paresse, le progrès dans de nombreux domaines de notre économie aurait été impossible. 
+  Alors, cela signifie-t-il que des millions de personnes qui combattent la paresse perdent leur temps ? 
+  Pourrait-il se faire que perdre la bataille contre la paresse conduise à l'extinction de l’humanité ?
+</p>
+
+<p className={styles.text}>
+  La paresse doit être surmontée dans des cas spécifiques plutôt que complètement exclue de la vie. 
+  Et cette lutte ne doit pas se faire en déformant sa nature, en devenant un bourreau de travail incapable 
+  de distinguer un travail productif d’un travail inutile. Étant donné que la paresse est un sentiment, 
+  elle ne peut être vaincue que par des sentiments plus forts engendrés par vos désirs. La paresse devient 
+  en fait plus forte plus votre activité est éloignée de vos désirs. Mais dès que la paresse s’oppose à vos désirs, 
+  elle s’enfuira immédiatement de honte. Combattre la paresse consiste réellement à trouver des intérêts, 
+  et non à gonfler aveuglément sa volonté.
+</p>
+
 `,
 
 

@@ -8,11 +8,35 @@
     justify-content: space-evenly;
     border: 3px solid orange;
     border-radius: 11px;
-    margin: 10px 0;
+    margin: 0;
     overflow: hidden;
     position: relative;
     z-index: 1; /* Ensure it's above other elements */
     transition: all 0.3s ease;
+    &.mobile {
+        height: 60px;
+        max-width: 120px;
+        min-width: auto;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 0;
+    
+        .langague {
+          flex: 0 0 50px;
+    
+          img {
+            width: 40px;
+            height: 40px;
+          }
+        }
+    
+        .lang_button {
+          font-size: 150%;
+          line-height: 60px;
+          padding: 0 5px;
+        }
+      }
 }
 
 .langague_switcher.expanded {

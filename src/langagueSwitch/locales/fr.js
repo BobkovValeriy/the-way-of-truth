@@ -175,46 +175,50 @@ chapter4: `
   </p>
 `,
 chapter5: `
-<h1 className={styles.title}>Ici c'est comme une démocratie, mais en réalité un royaume !</h1>
+<h1 className={styles.title}>Ici, c'est comme une démocratie, mais en réalité un royaume!</h1>
 <blockquote className={styles.quote}>
-  J'aime mon pays... et je déteste<br />
-  L'État, l'État, l'État !<br />
+  J'aime tellement mon pays... et je déteste<br />
+  l'État, l'État, l'État!<br />
   Je déteste<br />
-  L'État, l'État, l'État !<br />
+  l'État, l'État, l'État!<br />
   <strong>— Lumen</strong>
 </blockquote>
 
 <p className={styles.text}>
-  La société, l'assemblée, le groupe — dans notre monde, il existe de nombreux mots dans toutes les langues 
-  qui décrivent le phénomène de l'union des personnes pour des actions communes. Mais comment ces sociétés diffèrent-elles ? 
-  Quelles actions accomplissent-elles ? La différence semble minime, 
-  mais chaque société a quelque chose d'unique — pour chaque action positive contre toutes les négatives.
+  Société, assemblée, groupe — dans notre monde, il existe de nombreux mots dans toutes les langues 
+  pour décrire le phénomène de regroupement des personnes dans le but d'actions communes. 
+  Mais comment ces sociétés diffèrent-elles? 
+  Quelles actions entreprennent-elles? La différence semble minime, 
+  chaque société a quelque chose d'unique, mais au fond, il s'agit de tout ce qui est bon contre tout ce qui est mauvais.
 </p>
 
-<h2 className={styles.subheading}>Pourquoi avons-nous besoin de la société ?</h2>
+<h2 className={styles.subheading}>Pourquoi avons-nous besoin de société?</h2>
 <p className={styles.text}>
-  Pourquoi les gens ont-ils besoin de la société ? La réponse réside dans une vérité simple : il est plus facile de survivre ensemble. 
-  Il y a de nombreux millénaires, les gens ont compris qu'être à l'extérieur de la société signifiait être condamné. 
-  Il y a des exceptions, mais elles confirment la règle : sans société, une personne fait face à la mort et à l'oubli. 
-  Ce désir profond de s'unir pousse les gens à former des sociétés. 
-  Il peut y avoir diverses déviations situationnelles dues à des manipulations ou des traditions, 
-  mais toute société qui ne prend pas soin de ses membres est vouée à disparaître.
+  Pourquoi les gens ont-ils besoin de société? La réponse réside dans une vérité simple — ensemble, il est plus facile de survivre. 
+  Il y a plusieurs milliers d'années, les gens ont compris qu'en restant en dehors de la société, ils étaient condamnés. 
+  Il y a des exceptions, mais elles confirment la règle — sans société, l'homme est voué à la mort et à l'oubli. 
+  Ce profond désir de s'unir pousse les gens à former des sociétés. 
+  Il peut y avoir des écarts situationnels différents, causés par des manipulations ou des traditions, 
+  mais toute société qui ne prend pas soin de ses membres est vouée à l'échec.
 </p>
 
-<h2 className={styles.subheading}>Comment distinguer la bonne société ?</h2>
+<h2 className={styles.subheading}>Comment distinguer la bonne société?</h2>
 <p className={styles.text}>
-  Pour distinguer la bonne direction de la société de la mauvaise, il faut à nouveau revenir à la notion de bien. 
+  Pour distinguer la bonne direction du développement de la société de la mauvaise, 
+  il faut encore se référer au concept du bien. 
   Une société qui augmente les chances de survie de l'humanité agit correctement. 
-  Si elle fait des actions qui réduisent ou privent l'humanité de chances de survie, elle prend le mauvais chemin.
+  Si elle effectue des actions qui diminuent ou privent l'humanité de ses chances de survie, 
+  elle emprunte la mauvaise voie.
 </p>
 
 <h2 className={styles.subheading}>Principes de la société</h2>
 <p className={styles.text}>
-  De tout ce qui a été dit, il découle que chaque société doit adhérer à deux principes :
+  De tout cela, il découle que toute société doit suivre deux principes :
 </p>
 <ol className={styles.list}>
-  <li>Prendre soin des membres de la société (et ainsi augmenter les chances de survie de l'humanité dans son ensemble).</li>
-  <li>Protéger la structure de la société (une société sans leviers établis d'interaction, autrement dit de pouvoir, est également vouée à l'échec).</li>
+  <li>Prendre soin des membres de la société (et donc augmenter les chances de survie de l'humanité dans son ensemble).</li>
+  <li>Protéger la structure de la société (une société sans mécanismes d'interaction établis, 
+  en d'autres termes, le pouvoir, est également vouée à l'échec).</li>
 </ol>
 `,
 chapter6: `
@@ -356,6 +360,48 @@ chapter7: `
   <p className={styles.text}>
     Après tout, les gens ont par nature cette caractéristique de la paresse et préfèrent ne rien faire de superflu plutôt que d'agir. Par conséquent, toute action doit être justifiée, ne serait-ce que par la paresse, sans parler de quelque bien personnel ou universel.
   </p>
+`,
+chapter8:`
+<blockquote className={styles.quote}>
+  Regardez ! Regardez !<br />
+  Derrière le garçon, comme une ombre,<br />
+  La paresse avance à pas feutrés.<br />
+  <strong>— Davydova T.</strong>
+</blockquote>
+
+<p className={styles.text}>
+  Et voilà que nous abordons la paresse et l'oisiveté — dans l’immense quantité de réflexions sur la paresse 
+  générées par l’humanité, il y a de nombreux exemples utiles pour nous, mais je ne vais pas les énumérer ici...
+</p>
+
+<p className={styles.text}>
+  Je propose de réfléchir à ceci :
+  <ul>
+    <li>il y a mille cinq cents ans, de nombreux paysans utilisaient le travail manuel pour labourer les terres ;</li>
+    <li>il y a deux cents ans, de nombreux paysans utilisaient une charrue tirée par des chevaux pour labourer les terres ;</li>
+    <li>de nos jours, de nombreux paysans utilisent des tracteurs pour labourer les terres.</li>
+  </ul>
+</p>
+
+<p className={styles.text}>
+  On peut conclure que les paysans travaillent de moins en moins ! Mais ils produisent de plus en plus de nourriture. 
+  Alors, sont-ils paresseux ou non ? Le fait est que la paresse n’est pas un mal en soi. La paresse est un sentiment 
+  qui aide une personne dans son existence ; elle est destinée à nous aider à reconnaître les dépenses inutiles de 
+  notre énergie. Sans paresse, le progrès dans de nombreux domaines de notre économie aurait été impossible. 
+  Alors, cela signifie-t-il que des millions de personnes qui combattent la paresse perdent leur temps ? 
+  Pourrait-il se faire que perdre la bataille contre la paresse conduise à l'extinction de l’humanité ?
+</p>
+
+<p className={styles.text}>
+  La paresse doit être surmontée dans des cas spécifiques plutôt que complètement exclue de la vie. 
+  Et cette lutte ne doit pas se faire en déformant sa nature, en devenant un bourreau de travail incapable 
+  de distinguer un travail productif d’un travail inutile. Étant donné que la paresse est un sentiment, 
+  elle ne peut être vaincue que par des sentiments plus forts engendrés par vos désirs. La paresse devient 
+  en fait plus forte plus votre activité est éloignée de vos désirs. Mais dès que la paresse s’oppose à vos désirs, 
+  elle s’enfuira immédiatement de honte. Combattre la paresse consiste réellement à trouver des intérêts, 
+  et non à gonfler aveuglément sa volonté.
+</p>
+
 `,
 
 

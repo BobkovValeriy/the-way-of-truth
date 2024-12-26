@@ -9,24 +9,23 @@ import UA from "./lang/ua96.png";
 import FR from "./lang/fra96.png"
 import DE from "./lang/ger96.png"
 
-const LangSwitch = () => {
+const LangSwitch = ({ mobileView = false }) => {
   const lang = useSelector((state) => state.langReducer.langague);
   const [index, setIndex] = useState(0);
   const dispatch = useDispatch();
   const [showAllLang, setShowAllLang] = useState(false);
-  
 
-  function showAll(e){
-    e.preventDefault()
-    e.stopPropagation()
-    setShowAllLang(!showAllLang)
+  function showAll(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    setShowAllLang(!showAllLang);
   }
 
-  function choseLang(e, lan){
-    e.preventDefault()
-    e.stopPropagation()
-    dispatch(textTranslate(lan))
-    setShowAllLang(false)
+  function choseLang(e, lan) {
+    e.preventDefault();
+    e.stopPropagation();
+    dispatch(textTranslate(lan));
+    setShowAllLang(false);
   }
 
   const langagueArr = [
@@ -37,33 +36,35 @@ const LangSwitch = () => {
     { code: "RU", src: RU },
   ];
 
-  const visibleLangs = langagueArr.filter(l => !(l.code === "RU" && lang === "UA"));
+  const visibleLangs = langagueArr.filter(
+    (l) => !(l.code === "RU" && lang === "UA")
+  );
 
   const handleNext = (e) => {
-    e.preventDefault()
-    e.stopPropagation()
+    e.preventDefault();
+    e.stopPropagation();
     setIndex((prevIndex) => (prevIndex + 1) % visibleLangs.length);
   };
 
   const handlePrev = (e) => {
-    e.preventDefault()
-    e.stopPropagation()
+    e.preventDefault();
+    e.stopPropagation();
     setIndex((prevIndex) =>
       prevIndex === 0 ? visibleLangs.length - 1 : prevIndex - 1
     );
   };
 
   const getDisplayedLangs = () => {
+    if (mobileView) {
+      return [visibleLangs[index]];
+    }
     if (showAllLang) {
       return visibleLangs;
-    } else if (visibleLangs.length === 1) {
-      return visibleLangs;
-    } else {
-      const firstLang = visibleLangs[index];
-      const secondLang = visibleLangs[(index + 1) % visibleLangs.length];
-      const thirdLang = visibleLangs[(index + 2) % visibleLangs.length];
-      return [firstLang, secondLang, thirdLang];
     }
+    const firstLang = visibleLangs[index];
+    const secondLang = visibleLangs[(index + 1) % visibleLangs.length];
+    const thirdLang = visibleLangs[(index + 2) % visibleLangs.length];
+    return [firstLang, secondLang, thirdLang];
   };
 
   const displayedLangs = getDisplayedLangs();
@@ -73,16 +74,25 @@ const LangSwitch = () => {
       const countryCode = await getCountryCode();
       dispatch(textTranslate(countryCode));
     }
-  
+
     fetchCountryCode();
   }, [dispatch]);
 
   return (
-    <div 
-      className={`${styles.langague_switcher} ${showAllLang ? styles.expanded : ''}`} 
-      onClick={(e)=>showAll(e)}
+    <div
+      className={`${styles.langague_switcher} ${
+        showAllLang ? styles.expanded : ""
+      } ${mobileView ? styles.mobile : ""}`}
+      onClick={(e) => !mobileView && showAll(e)}
     >
-      {!showAllLang && <div onClick={(e)=>handlePrev(e)} className={styles.lang_button}>←</div>}
+      {!showAllLang && (
+        <div
+          onClick={(e) => handlePrev(e)}
+          className={styles.lang_button}
+        >
+          ←
+        </div>
+      )}
       {displayedLangs.map((lan) => (
         <div key={lan.code} className={styles.langague}>
           <img
@@ -94,9 +104,17 @@ const LangSwitch = () => {
           />
         </div>
       ))}
-      {!showAllLang && <div onClick={(e)=>handleNext(e)} className={styles.lang_button}>→</div>}
+      {!showAllLang && (
+        <div
+          onClick={(e) => handleNext(e)}
+          className={styles.lang_button}
+        >
+          →
+        </div>
+      )}
     </div>
   );
 };
+
 
 export default LangSwitch;

@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import styles from './ChapterSwitcher.module.scss';
 import { useSelector } from 'react-redux';
+import LangSwitch from '../langagueSwitch/langSwitch';
 
 const ChapterSwitcher = ({ chapter, setChapter }) => {
   const text = useSelector((state) => state.langReducer);
-  const view = useSelector((state) => state.mobileView);
+  const view = useSelector((state) => state.app.mobileView);
   const [isExpanded, setIsExpanded] = useState(false);
   const [currentTitle, setCurrentTitle] = useState('');
 
@@ -25,21 +26,19 @@ const ChapterSwitcher = ({ chapter, setChapter }) => {
     if (view) setIsExpanded(false); // Сворачиваем список в мобильной версии
   };
 
-  useEffect(()=>{
-    console.log(isExpanded)
-    console.log(currentTitle)
-  },[isExpanded])
-
   return (
     <div className={styles.chapterSwitcher}>
       {view ? (
         <>
           {/* Мобильная версия */}
           <div
-            className={styles.chapterItem}
-            onClick={() => setIsExpanded(!isExpanded)} // Переключение между раскрытым и свернутым состоянием
+            className={styles.mobileHeading}
           >
-            {currentTitle} {/* Отображение текущей главы */}
+            <div
+              className={styles.mobileHeader}
+              onClick={() => setIsExpanded(!isExpanded)}
+            >{currentTitle}</div>
+            <LangSwitch mobileView={view}/>
           </div>
           {isExpanded && (
             <div className={styles.chapterList}>

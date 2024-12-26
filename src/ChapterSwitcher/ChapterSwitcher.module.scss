@@ -2,9 +2,12 @@
   display: flex;
   flex-direction: column;
   padding: 20px;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(20, 29, 158, 0.8);
   color: white;
   user-select: none !important;
+  top: 0; /* Располагаем у верхнего края */
+  position: sticky; /* Прилепляем к верхнему краю страницы */
+  z-index: 10; /* Устанавливаем приоритет по отображению над другими элементами */
 
   .chapterItem {
     padding: 10px;
@@ -21,4 +24,13 @@
       font-weight: bold;
     }
   }
+}
+.mobileHeading{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  justify-items: center;
+}
+.mobileHeader{
+  font-size: 300%;
 }
