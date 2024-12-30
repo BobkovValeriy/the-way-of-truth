@@ -425,6 +425,149 @@ chapter8:`
 </p>
 
 `,
+chapter9: `
+    <h1 className={styles.title}>Willpower: Tool or Trap?</h1>
+
+    <blockquote className={styles.quote}>
+      A strong-willed person sets a goal, and strives for it,<br />
+      Seeks the way and method to achieve it.<br />
+      If difficulties arise on the way, they are not afraid,<br />
+      And not taking someone else's, they will find their own.<br />
+      <br />
+      But the weak, desiring something,<br />
+      Prays to God and curses their fate.<br />
+      They steal, knowing no other way,<br />
+      And find justification in their weakness.<br />
+      <strong>— Unknown author</strong>
+    </blockquote>
+
+    <p className={styles.text}>
+      We are constantly told that willpower helps in achieving goals. But there's a question — remember, what kind of feeling does using this force give you? It's quite pleasant, right? It's like going to the bathroom when there's nothing to use. Here's the catch — you have to apply willpower when your actions go against your desires. And when does that happen? When your intended actions are imposed not by your desires.
+    </p>
+
+    <p className={styles.text}>
+      Therefore, a person who, by their own will, for example, climbs Everest, has not demonstrated willpower. Willpower was more likely demonstrated by those who helped carry the equipment. Although they did this, guided by their desire to earn money. Willpower can be trained by forcing yourself to do things that are uninteresting, undesirable, and so on. But if we recall our reasoning about desires, it turns out that willpower is a tool for exercising power over you. Therefore, any application of this force is a litmus test by which the influence exerted on you can be determined.
+    </p>
+
+    <p className={styles.text}>
+      But don't rush to give up everything and indulge in laziness. This is just one of the signals for reflection: do you need the action imposed by society, or perhaps it's better to focus on what really matters to you? As soon as you understand the benefit of this action and feel the desire to act, the need to overcome yourself will disappear. Or you will realize that it's simply not needed.
+    </p>
+
+    <h2 className={styles.subheading}>Psychological Consequences</h2>
+    <p className={styles.text}>
+      Using willpower, you need to understand that what you are striving for by using it is unlikely to bring you joy. Most likely, as a result of willful efforts, you will acquire something that is necessary for survival. Your feelings may be compensated by the rewards you gain from the effort, but you will only live like this out of desperation, and there's a risk of falling into the destructive process that is now commonly called depression.
+    </p>
+
+    <p className={styles.text}>
+      Depression is a state where you don't want to do anything because you have lost your direction (your desires, caused by your feelings). Unfortunately, I am neither a specialist nor an experienced person in the matter of overcoming depression, but I explain how people fall into it. If you constantly use willpower, you are not following your desires. You stop wanting anything and, accordingly, you do not experience positive feelings. And the best source of energy is your feelings. As soon as you run out of energy for your activities, you will likely have to change them.
+    </p>
+
+    <h2 className={styles.subheading}>Conclusion</h2>
+    <p className={styles.text}>
+      Depression is like the body's protective mechanism against excessive use of willpower. Therefore, when using willpower, you need to understand that it is a signal to reflect: have you become too engrossed in imposed goals? Try to find a balance between willful efforts and your true desires to live in harmony with yourself.
+    </p>
+`,
+chapter10: `
+  <h1 className={styles.title}>Colors of Emotions: Manipulations and the Power of Perception</h1>
+
+  <blockquote className={styles.quote}>
+    I can't even name them simply<br />
+    All of them — from tenderness to harsh shocks.<br />
+    Probably, as many feelings in the world,<br />
+    As many colors on earth and hues.<br />
+    <br />
+    My destiny! We of all people know,<br />
+    That I don’t stagger under the snowstorms.<br />
+    You can give me any feelings,<br />
+    I’m ready to accept them all without blinking<br />
+    And I won't be afraid of even the darkest.<br />
+    <br />
+    But if you even command,<br />
+    One, though kill me, I will reject! It's<br />
+    A feeling, tiny as a mouse,<br />
+    The color of insignificant gray!<br />
+    <strong>— Eduard Asadov — Colors of Emotions.</strong>
+  </blockquote>
+
+  <p className={styles.text}>
+    The power over desires is the most sophisticated of all the powers I know. Let's break down how it works. Earlier, we partially touched on this issue and also made a small detour talking about things like laziness and will. Thus, we arrived at the source of all desires — emotions. Laziness, joy, sorrow, anger, and other feelings are necessary for everyone. In fact, feelings act as instruments by which we navigate through our lives.
+  </p>
+
+  <p className={styles.text}>
+    Each of us desires to experience positive emotions and does not wish to experience negative ones. As soon as we start feeling negative emotions, it signals us to think: what is wrong? What needs to be changed in our lives so that we do not experience these "unpleasant, terrible" emotions? When experiencing positive emotions, we understand that everything is going right from our perspective. But there is a small nuance: we are not born with a clear list of "event — emotion" connections. I am not mistaken in mentioning personal perspective. Like any instrument, our emotions need to undergo periodic calibration. I can’t name the exact intervals for this, but they are undoubtedly necessary.
+  </p>
+
+  <p className={styles.text}>
+    And it is precisely at the moment of calibration of our emotions that external influences can creep into our consciousness. It is not always absolutely negative; often, it even helps to define what is good and what is bad. However, modern technologies now allow the distortion of instrument readings. For instance, you are subtly convinced through the media that your ancestors did something bad, causing feelings of guilt, and immediately the desire to redeem that guilt is formulated.
+  </p>
+
+  <p className={styles.text}>
+    Or they tell you that you must raise your children in a certain way, and then they will be happy — covering this with your own childhood feelings when the world seemed incomprehensible and frightening, and your parents' behavior seemed illogical (feelings of distrust, doubt). There are many examples like this. To form the desired actions in a leader, they need to manipulate through feelings, through the substitution of emotional responses to events. For a while, people can be made to act against their true nature.
+  </p>
+
+  <p className={styles.text}>
+    But our bodies are very wise: we have many emotions, and none of them has been fully controlled by any manipulator so far. Discrepancy between various emotional states creates inner conflict, which forces people to reflect on the correctness of their emotional settings. Is it right to feel joy from the death of your enemy’s child? After all, they will grow up and possibly take revenge... Is it right not to punish your child for bullying the weak? After all, they may also take revenge...
+  </p>
+
+  <p className={styles.text}>
+    Is it right to do everything for your child? After all, they are so special... You are being controlled through your emotions, but you can also control yourself using this vulnerability. If desires are distinguished from imposed ones by the effort you put into realizing them, the more effort you put into realizing a desire, the further it is from your true goals and aspirations.
+  </p>
+
+  <p className={styles.text}>
+    How to distinguish imposed emotions from personal ones? In each case, it is necessary to consider all nuances. However, the universal key to solving this task I have already mentioned, though not entirely explicitly. Since survival at this stage of development requires society, which undoubtedly has to care about the survival of its components (people), the emotional settings that allow people to live harmoniously within this society and with themselves will be correct.
+  </p>
+
+  <h2 className={styles.subheading}>Manipulation through Emotions</h2>
+  <p className={styles.text}>
+    But when contradictions in people’s emotions begin to emerge widely in society, this is a clear sign of manipulation aimed at their feelings. If such manipulations exist, it means there are discrepancies between the official course of the society's leaders and the real desires of the people under their rule. It means that either there is a group of leaders trying to achieve their desires by redistributing power, or the current rulers have misused their power and failed to achieve the result their authority justified.
+  </p>
+
+  <p className={styles.text}>
+    Everything that triggers emotions in you can be used against you. Emotions triggered by children are among the strongest, which is why manipulation through children is highly effective.
+  </p>
+`,
+chapter11: `
+  <h1 className={styles.title}>On the Influence of Parenting</h1>
+
+  <blockquote className={styles.quote}>
+    What is the sweetest sweetness in the world?<br />
+    Sugar – I could have answered once.<br />
+    Honey, marmalade, pastille... and sherbet..<br />
+    Only now do I understand the answer<br />
+    <br />
+    -The smell of a child – the scent of the crown,<br />
+    That remains on our pillow,<br />
+    Tender little fingers... and nails–<br />
+    The bottom, the knees... and elbows…<br />
+    <br />
+    What is the bitterest bitterness in the world?<br />
+    Mustard – I could have answered once...<br />
+    Horseradish and vinegar... wormwood and quinine..<br />
+    But now – my answer is only one:<br />
+    <br />
+    Trembling lips – crying on the way<br />
+    That is what makes my heart ache<br />
+    The bitterest bitterness – a child's pain –<br />
+    Eyes full of tears and resentment<br />
+    <strong>probably Agnia Barto.</strong>
+  </blockquote>
+
+  <h2 className={styles.subheading}>The Impact of Parenting on Future Generations</h2>
+  <p className={styles.text}>
+    Besides what we discussed earlier, the way we raise children shapes the future of society by creating leverages for influential structures. Not only are you, as parents, frightened by the distorted fates of unfortunate children whose upbringing was poor and who are forced to follow self-proclaimed parenting experts, but over time, the authorities gain more obedient citizens in the spheres they need. And I am not talking about the commonly recognized authorities of states. I’m talking about those who truly control, whether it's a country's president or an unknown oligarch.
+  </p>
+  
+  <h2 className={styles.subheading}>The Illusion of Protection from Violence</h2>
+  <p className={styles.text}>
+    We are endlessly told that violence is bad, and if children are exposed to violence, it’s a catastrophe for society, and we must immediately consult a psychologist. But let’s think for a moment: have people not faced violence for thousands of years? And children? Did it stop humanity from going to space? Did violence prevent the industrial revolution? Or perhaps the ancestors of those trying to abolish violence didn’t rob or kill their enemies? Violence is one of the tools of human interaction. And we need to know how to use it. By shielding children from violence, you make them defenseless against it. Like any tool, violence has certain rules for use. Breaking those rules creates imbalance and leads society toward extinction. When several healthy men cannot stop an unarmed criminal assaulting a woman in front of them, that’s a very worrying sign. A child who faces violence is certainly scared because they don’t know what to do. But they will be just as scared at 30 if they haven’t learned how to use violence as a tool.
+  </p>
+  
+  <h2 className={styles.subheading}>Contradictions in Society: Family as the Enemy</h2>
+  <p className={styles.text}>
+    We are told not to impose our worldview on children, not to control them, and that we should create a golden cage for them, allowing them to develop into a person. But in reality, we are made to feel incapable of raising children by our own “personal” rules, leaving the upbringing to others. Should we then be surprised when our children go in the wrong direction? Should we be surprised by low birth rates in countries where parents must become professors before having children? A few hundred years ago, children were seen as investments (as harsh as that sounds), but today it becomes harder and harder to look at children as anything but a bundle of problems and stress. Despite all the declarations, family is the enemy for most modern ruling circles.
+  </p>
+`,
+
 
     chapter_title_1: "Goodness",
     chapter_title_2: "Dilemma",

@@ -4,40 +4,39 @@
   align-items: initial;
   padding: 10px 20px;
   font-family: Arial, sans-serif;
+  min-width: 360px;
+  min-height: 1400px;
   line-height: 1.6;
   color: whitesmoke;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
   user-select: none !important;
+  position: relative; /* Для позиционирования вложенных элементов */
 }
 
-.title {
-  font-size: 22px;
-  font-weight: bold;
-  margin-bottom: 20px;
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.2); /* Полупрозрачный черный фон */
+  z-index: 1; /* Обеспечиваем, чтобы плашка была ниже текста */
 }
 
-.quote {
-  font-style: italic;
-  margin: 10px 0 20px;
-  padding: 10px;
-  border-left: 3px solid #ccc;
-}
-
-.text {
-  margin-bottom: 18px;
-}
-
-.subheading {
-  font-size: 16px;
-  margin: 20px 0 10px;
-  font-weight: bold;
+.content {
+  position: relative; /* Делаем так, чтобы контент отображался выше плашки */
+  z-index: 2; /* Текст будет поверх плашки */
+  padding-bottom: 100px; /* Оставляем место для лицензии */
 }
 
 .license {
-  margin-top: 20px;
+  position: absolute; /* Закрепляем лицензию внизу страницы */
+  bottom: 20px; /* Отступ от нижнего края */
+  left: 0;
+  right: 0;
+  text-align: center;
   font-size: 14px;
   color: #cccccc;
-  text-align: center;
 
   a {
     color: #ffcc00;

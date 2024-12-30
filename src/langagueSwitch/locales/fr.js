@@ -403,6 +403,150 @@ chapter8:`
 </p>
 
 `,
+chapter9: `
+    <h1 className={styles.title}>La volonté : outil ou piège ?</h1>
+
+    <blockquote className={styles.quote}>
+      Une personne forte d'esprit se fixe un objectif, et s'efforce de l'atteindre,<br />
+      Cherche le chemin et la méthode pour y parvenir.<br />
+      Si des difficultés se présentent sur le chemin, elle n'a pas peur,<br />
+      Et sans prendre ce qui appartient aux autres, elle trouvera ce qui lui est propre.<br />
+      <br />
+      Mais le faible, désirant quelque chose,<br />
+      Prie Dieu et maudit son destin.<br />
+      Il vole, ne connaissant aucun autre chemin,<br />
+      Trouve des excuses dans sa faiblesse.<br />
+      <strong>— Auteur inconnu</strong>
+    </blockquote>
+
+    <p className={styles.text}>
+      On nous dit sans cesse que la volonté aide à atteindre nos objectifs. Mais il y a une question — rappelez-vous, quel sentiment l'utilisation de cette force vous procure-t-elle ? C'est plutôt agréable, n'est-ce pas ? C'est comme aller aux toilettes quand on n'a rien. Voici où réside toute la difficulté : il faut faire appel à la volonté lorsque vos actions vont à l'encontre de vos désirs. Et quand cela arrive-t-il ? Lorsque vos actions prévues ne sont pas dictées par vos désirs.
+    </p>
+
+    <p className={styles.text}>
+      Ainsi, une personne qui, par choix, par exemple, gravissant l'Everest, ne démontre pas de volonté. Ce sont plutôt ceux qui l'ont aidée à porter son équipement qui ont montré de la volonté. Bien qu'ils l'aient fait en suivant leur propre désir de gagner de l'argent. On peut entraîner la volonté en se forçant à faire des choses qui ne nous intéressent pas, qui sont indésirables, etc. Mais si l'on se souvient de notre réflexion sur les désirs, il s'avère que la volonté est un outil de domination sur vous. Ainsi, toute utilisation de cette force devient un test décisif pour déterminer l'influence exercée sur vous.
+    </p>
+
+    <p className={styles.text}>
+      Mais il ne faut pas tout abandonner immédiatement et se laisser aller à la paresse. C'est simplement un signal de réflexion : avez-vous besoin de l'action imposée par la société, ou peut-être vaut-il mieux se concentrer sur ce qui est réellement important pour vous ? Dès que vous comprendrez les avantages de cette action et ressentirez le désir d'agir, vous n'aurez plus besoin de vous surmonter. Ou vous comprendrez que cela ne vous est tout simplement pas nécessaire.
+    </p>
+
+    <h2 className={styles.subheading}>Conséquences psychologiques</h2>
+    <p className={styles.text}>
+      En utilisant la volonté, il faut comprendre que ce vers quoi vous vous dirigez en l'utilisant ne vous apportera probablement pas de joie. Très probablement, grâce aux efforts volontaires, vous obtiendrez quelque chose qui est nécessaire uniquement pour survivre. Vos sentiments peuvent être compensés par les bienfaits que vous obtiendrez des efforts fournis, mais vous ne vivrez ainsi que par désespoir, et vous risquez de tomber dans le processus destructeur que l'on appelle aujourd'hui dépression.
+    </p>
+
+    <p className={styles.text}>
+      La dépression est un état où vous n'avez envie de rien faire parce que vous avez perdu votre repère (vos désirs, issus de vos sentiments). Malheureusement, je ne suis ni spécialiste ni quelqu'un d'expérimenté dans la question de sortir de la dépression, mais j'explique comment les gens y tombent. Si vous utilisez constamment la volonté, vous ne suivez pas vos désirs. Vous cessez de désirer quelque chose et, par conséquent, vous ne ressentez plus de sentiments positifs. Et la meilleure source d'énergie, ce sont vos sentiments. Dès que vous n'avez plus l'énergie nécessaire pour votre activité, vous devrez probablement la changer.
+    </p>
+
+    <h2 className={styles.subheading}>Conclusion</h2>
+    <p className={styles.text}>
+      La dépression est comme un mécanisme de défense du corps contre une utilisation excessive de la volonté. Par conséquent, en utilisant la volonté, il faut comprendre qu'il s'agit d'un signal de réflexion : êtes-vous allé trop loin dans la recherche d'objectifs imposés ? Essayez de trouver un équilibre entre les efforts volontaires et vos véritables désirs pour vivre en harmonie avec vous-même.
+    </p>
+`,
+chapter10: `
+  <h1 className={styles.title}>Les couleurs des émotions: Manipulations et pouvoir de la perception</h1>
+
+  <blockquote className={styles.quote}>
+    Je n'ose même pas les nommer simplement<br />
+    Toutes, de la tendresse aux chocs violents.<br />
+    Probablement, autant de sentiments dans le monde,<br />
+    Autant de couleurs sur terre et de nuances.<br />
+    <br />
+    Mon destin! Nous de tous les gens savons,<br />
+    Que je ne vacille pas sous les tempêtes de neige.<br />
+    Tu peux me donner tous les sentiments,<br />
+    Je suis prêt à les accepter tous sans cligner des yeux<br />
+    Et je n'aurai pas peur, même du plus sombre.<br />
+    <br />
+    Mais si tu ordonnes,<br />
+    Un seul, même en me tuant, je le rejette! C'est<br />
+    Un sentiment, aussi petit qu'une souris,<br />
+    La couleur d'un gris insignifiant!<br />
+    <strong>— Eduard Asadov — Les couleurs des émotions.</strong>
+  </blockquote>
+
+  <p className={styles.text}>
+    Le pouvoir sur les désirs est le plus sophistiqué de tous les pouvoirs que je connaisse. Voyons comment il fonctionne. Plus tôt, nous avons en partie abordé cette question et fait une petite digression en parlant de choses comme la paresse et la volonté. Ainsi, nous sommes arrivés à la source de tous les désirs : les émotions. La paresse, la joie, la tristesse, la colère et d'autres sentiments sont nécessaires à tout le monde. En fait, les émotions agissent comme des instruments par lesquels nous naviguons dans notre vie.
+  </p>
+
+  <p className={styles.text}>
+    Chacun de nous veut éprouver des émotions positives et ne souhaite pas éprouver des émotions négatives. Dès que nous commençons à ressentir des émotions négatives, cela nous signale de réfléchir : qu'est-ce qui ne va pas? Que faut-il changer dans nos vies pour ne pas éprouver ces « émotions désagréables et terribles »? Lorsque nous ressentons des émotions positives, nous comprenons que tout va bien de notre point de vue. Mais il y a une petite nuance : nous ne naissons pas avec une liste claire de relations "événement - émotion". Je ne me trompe pas en mentionnant le point de vue personnel. Comme tout instrument, nos émotions doivent subir un étalonnage périodique. Je ne peux pas nommer les intervalles exacts pour cela, mais ils sont sans aucun doute nécessaires.
+  </p>
+
+  <p className={styles.text}>
+    Et c'est précisément au moment du calibrage de nos émotions que des influences extérieures peuvent se glisser en nous. Ce n'est pas toujours totalement négatif; souvent, cela aide même à définir ce qui est bien et ce qui est mal. Cependant, les technologies modernes permettent désormais de déformer les lectures des instruments. Par exemple, on vous persuade subtilement à travers les médias que vos ancêtres ont fait quelque chose de mal, ce qui provoque des sentiments de culpabilité, et immédiatement se forme le désir de racheter cette culpabilité.
+  </p>
+
+  <p className={styles.text}>
+    Ou on vous dit que vous devez élever vos enfants d'une certaine manière, et alors ils seront heureux — en couvrant cela avec vos propres sentiments d'enfance, quand le monde semblait incompréhensible et effrayant, et le comportement de vos parents semblait illogique (sentiments de méfiance, de doute). Il y a beaucoup d'exemples comme celui-ci. Pour former les actions souhaitées chez un dirigeant, on doit manipuler à travers les émotions, par le biais du remplacement des réponses émotionnelles aux événements. Pendant un certain temps, on peut amener les gens à agir contre leur propre nature.
+  </p>
+
+  <p className={styles.text}>
+    Mais nos corps sont très sages : nous avons de nombreuses émotions, et aucune d'entre elles n'a été entièrement contrôlée par aucun manipulateur jusqu'à présent. Les divergences entre divers états émotionnels créent des conflits intérieurs, ce qui oblige les gens à réfléchir à la justesse de leurs réglages émotionnels. Est-il juste de ressentir de la joie à la mort de l'enfant de votre ennemi ? Après tout, ils grandiront et se vengeront peut-être... Est-il juste de ne pas punir votre enfant pour avoir harcelé les plus faibles ? Après tout, ils peuvent aussi se venger...
+  </p>
+
+  <p className={styles.text}>
+    Est-il juste de tout faire pour votre enfant ? Après tout, il est si spécial... Vous êtes contrôlé par vos émotions, mais vous pouvez aussi vous contrôler vous-même en utilisant cette vulnérabilité. Si les désirs sont distingués des imposés par l'effort que vous mettez à les réaliser, plus vous mettez d'efforts pour réaliser un désir, plus il s'éloigne de vos véritables objectifs et aspirations.
+  </p>
+
+  <p className={styles.text}>
+    Comment distinguer les émotions imposées de celles personnelles ? Dans chaque cas, il est nécessaire de prendre en compte toutes les nuances. Cependant, la clé universelle pour résoudre cette tâche a déjà été mentionnée, bien qu'elle ne soit pas totalement explicite. Puisque pour survivre à ce stade de développement, nous avons besoin d'une société, qui doit sans aucun doute prendre soin de la survie de ses composants (les gens), les réglages émotionnels qui permettent aux gens de vivre harmonieusement au sein de cette société et avec eux-mêmes seront corrects.
+  </p>
+
+  <h2 className={styles.subheading}>Manipulation à travers les émotions</h2>
+  <p className={styles.text}>
+    Mais lorsque des contradictions dans les émotions des gens commencent à émerger largement dans la société, c'est un signe clair de manipulation dirigée contre leurs émotions. Si de telles manipulations existent, cela signifie qu'il y a des divergences entre le cours officiel des dirigeants de la société et les véritables désirs des gens sous leur domination. Cela signifie qu'il y a soit un groupe de dirigeants cherchant à réaliser leurs désirs par une redistribution du pouvoir, soit que les dirigeants actuels ont mal utilisé leur pouvoir et n'ont pas atteint le résultat pour lequel leur autorité se justifiait.
+  </p>
+
+  <p className={styles.text}>
+    Tout ce qui provoque des émotions en vous peut être utilisé contre vous. Les émotions déclenchées par les enfants sont parmi les plus puissantes, c'est pourquoi la manipulation à travers les enfants est très efficace.
+  </p>
+`,
+chapter11: `
+  <h1 className={styles.title}>Sur l'Influence de l'Éducation</h1>
+
+  <blockquote className={styles.quote}>
+    Quelle est la douceur la plus sucrée du monde ?<br />
+    Le sucre – j'aurais pu répondre autrefois.<br />
+    Le miel, la marmelade, la pastille... et le sorbet..<br />
+    Ce n'est que maintenant que je comprends la réponse<br />
+    <br />
+    -L'odeur d'un enfant – le parfum du sommet,<br />
+    Qui reste sur notre oreiller,<br />
+    Les petits doigts tendres... et les ongles–<br />
+    Le bas du dos, les genoux... et les coudes…<br />
+    <br />
+    Quelle est la plus amère des amertumes dans le monde ?<br />
+    La moutarde – j'aurais pu répondre autrefois...<br />
+    Le raifort et le vinaigre... l'absinthe et la quinine..<br />
+    Mais maintenant – ma réponse est une seule:<br />
+    <br />
+    Les lèvres tremblantes – des pleurs en approche<br />
+    Voilà ce qui fait souffrir mon cœur<br />
+    L'amertume la plus douloureuse – celle d'un enfant –<br />
+    Des yeux pleins de larmes et de ressentiment<br />
+    <strong>probablement Agnia Barto.</strong>
+  </blockquote>
+
+  <h2 className={styles.subheading}>L'Impact de l'Éducation sur les Générations Futures</h2>
+  <p className={styles.text}>
+    En plus de ce que nous avons abordé plus tôt, l'éducation des enfants forme déjà des leviers d'influence pour les structures de pouvoir dans le futur. Non seulement vous, en tant que parents, êtes effrayés par les vies brisées d'enfants mal élevés et forcés de suivre des experts en éducation autoproclamés, mais avec le temps, les autorités obtiennent des citoyens plus obéissants dans les domaines dont elles ont besoin. Et je ne parle pas des autorités officiellement reconnues des États. Je parle de ceux qui contrôlent vraiment, qu'il s'agisse du président d'un pays ou d'un oligarque inconnu.
+  </p>
+  
+  <h2 className={styles.subheading}>L'Illusion de Protection Contre la Violence</h2>
+  <p className={styles.text}>
+    On nous dit sans cesse que la violence est mauvaise, et que si les enfants sont exposés à la violence, c'est une catastrophe pour la société, qu'il faut immédiatement consulter un psychologue. Mais réfléchissons un instant : les gens ont-ils jamais été à l'abri de la violence pendant des milliers d'années ? Et les enfants ? Cela a-t-il empêché l'humanité de conquérir l'espace ? La violence a-t-elle empêché la révolution industrielle ? Ou peut-être les ancêtres de ceux qui veulent abolir la violence ne volaient-ils pas ou ne tuaient-ils pas leurs ennemis ? La violence est un outil de l'interaction humaine. Et il faut savoir l'utiliser. En protégeant vos enfants de la violence, vous les rendez sans défense face à elle. Comme tout outil, la violence a des règles d'utilisation. Les violer crée un déséquilibre et mène la société à l'extinction. Lorsque plusieurs hommes en bonne santé ne peuvent pas arrêter un criminel sans armes qui agresse une femme devant eux, c'est un signe très inquiétant. Un enfant confronté à la violence est évidemment effrayé, car il ne sait pas quoi faire. Mais il sera tout aussi effrayé à 30 ans s'il n'a pas appris à utiliser la violence comme un outil.
+  </p>
+  
+  <h2 className={styles.subheading}>Les Contradictions de la Société: La Famille comme Ennemi</h2>
+  <p className={styles.text}>
+    On nous dit de ne pas imposer notre vision du monde à nos enfants, de ne pas les contrôler, de créer une cage dorée pour eux, où ils pourront se développer en tant qu'individus. Mais en réalité, on nous fait sentir incapables de les élever selon nos propres règles, et on confie leur éducation à d'autres. Devons-nous être surpris quand nos enfants s'égarent ? Devons-nous être surpris par la faible natalité dans les pays où les parents doivent devenir professeurs avant d'avoir des enfants ? Il y a quelques centaines d'années, les enfants étaient vus comme un investissement (aussi dur que cela puisse paraître), mais aujourd'hui, il devient de plus en plus difficile de voir les enfants comme autre chose qu'un fardeau de problèmes et de stress. Malgré toutes les déclarations, la famille est l'ennemi pour la plupart des cercles dirigeants modernes.
+  </p>
+`,
+
+
 
 
     chapter_title_1: "Bonté",

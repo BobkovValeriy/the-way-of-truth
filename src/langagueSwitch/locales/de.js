@@ -402,6 +402,150 @@ chapter8:`
 </p>
 
 `,
+chapter9: `
+    <h1 className={styles.title}>Der Wille: Werkzeug oder Falle?</h1>
+
+    <blockquote className={styles.quote}>
+      Der Starke, der ein Ziel gesetzt hat, strebt danach,<br />
+      Er sucht den Weg und das Mittel, es zu erreichen.<br />
+      Wenn Hindernisse auf dem Weg sind, fürchtet er sich nicht,<br />
+      Und er wird sein eigenes finden, ohne etwas zu stehlen.<br />
+      <br />
+      Der Schwache aber, der etwas begehrt,<br />
+      Bittet Gott und verflucht das Schicksal.<br />
+      Er stiehlt, ohne einen anderen Weg zu kennen,<br />
+      Und findet eine Entschuldigung in seiner Schwäche.<br />
+      <strong>— Unbekannter Autor</strong>
+    </blockquote>
+
+    <p className={styles.text}>
+      Aus allen Richtungen hören wir, dass der Wille uns beim Erreichen von Zielen hilft. Aber es gibt eine Frage: Erinnert euch, welches Gefühl ihr beim Einsatz dieses Willens habt. Es ist doch sehr angenehm, oder? Es ist wie auf die Toilette zu gehen, wenn man nichts hat. Das ist der ganze Haken – den Willen muss man dann aufbringen, wenn eure Handlungen gegen eure Wünsche gehen. Und wann passiert das? Wenn eure vermeintlichen Handlungen nicht von euren Wünschen, sondern von anderen erzwungen werden.
+    </p>
+
+    <p className={styles.text}>
+      Das bedeutet, dass der Mensch, der freiwillig den Mount Everest erklimmt, keine Willenskraft demonstriert hat. Die Willenskraft zeigten eher diejenigen, die ihm beim Tragen der Ausrüstung geholfen haben. Obwohl auch sie dies aus ihrem Wunsch heraus taten, Geld zu verdienen. Willenskraft kann man trainieren, indem man sich zu Dingen zwingt, die einem nicht interessieren, die unerwünscht sind und so weiter. Aber wenn wir an unsere Überlegungen zu den Wünschen zurückdenken, stellt sich heraus, dass der Wille ein Instrument der Macht über uns ist. Jede Anwendung dieser Kraft ist also ein Test, anhand dessen man den Einfluss erkennen kann, der auf uns ausgeübt wird.
+    </p>
+
+    <p className={styles.text}>
+      Aber man sollte nicht gleich alles aufgeben und der Faulheit verfallen. Es ist nur ein Signal zum Nachdenken: Brauchen wir wirklich die von der Gesellschaft auferlegten Handlungen, oder sollten wir vielleicht etwas tun, das für uns wirklich wichtig ist? Sobald ihr den Nutzen dieser Handlung für euch versteht und der Wunsch entsteht, handelt ihr ohne den Zwang, euch selbst zu überwinden. Oder ihr erkennt, dass ihr das einfach nicht braucht.
+    </p>
+
+    <h2 className={styles.subheading}>Psychologische Folgen</h2>
+    <p className={styles.text}>
+      Wenn man den Willen anwendet, sollte man verstehen, dass das, was man damit erreichen will, wahrscheinlich nicht zu Freude führen wird. Wahrscheinlich wird man etwas erreichen, das nur aus der Sicht des Überlebens notwendig ist. Eure Gefühle könnten durch die Vorteile kompensiert werden, die ihr durch die Anstrengungen erlangt, aber so lebt man nur aus der Not heraus, und es besteht die Gefahr, in einen zerstörerischen Prozess zu geraten, den wir heutzutage als Depression bezeichnen.
+    </p>
+
+    <p className={styles.text}>
+      Depression ist ein Zustand, in dem man nichts tun möchte, weil man den Orientierungspunkt (seine Wünsche, die durch die Gefühle entstehen) verloren hat. Leider bin ich kein Spezialist oder besonders erfahrener Mensch im Bereich der Depressionsbewältigung, aber ich erkläre, wie Menschen in diese Lage geraten. Wenn man ständig seinen Willen anwendet, folgt man seinen Wünschen nicht mehr. Man hört auf zu wünschen und erfährt somit keine positiven Gefühle. Und die beste Energiequelle sind unsere Gefühle. Sobald es euch an Energie für eure Tätigkeit mangelt, müsst ihr sie wahrscheinlich ändern.
+    </p>
+
+    <h2 className={styles.subheading}>Fazit</h2>
+    <p className={styles.text}>
+      Depression ist wie ein Schutzmechanismus des Körpers vor übermäßigem Einsatz von Willenskraft. Daher sollte man, wenn man den Willen anwendet, verstehen, dass dies ein Signal zum Nachdenken ist: Hast du dich nicht zu sehr in den auferlegten Zielen verfangen? Versuche, ein Gleichgewicht zwischen dem Einsatz des Willens und deinen wahren Wünschen zu finden, um in Harmonie mit dir selbst zu leben.
+    </p>
+  `,
+  chapter10: `
+  <h1 className={styles.title}>Die Farben der Emotionen: Manipulationen und die Macht der Wahrnehmung</h1>
+
+  <blockquote className={styles.quote}>
+    Ich wage es nicht, sie nur zu benennen<br />
+    Alle, von der Zärtlichkeit bis zu den gewalttätigen Schocks.<br />
+    Wahrscheinlich gibt es so viele Gefühle auf der Welt,<br />
+    So viele Farben auf der Erde und Nuancen.<br />
+    <br />
+    Mein Schicksal! Wir alle wissen,<br />
+    Dass ich nicht unter den Schneestürmen schwanke.<br />
+    Du kannst mir alle Gefühle geben,<br />
+    Ich bin bereit, sie alle ohne zu blinzeln zu akzeptieren<br />
+    Und ich werde nicht einmal vor dem Dunkelsten Angst haben.<br />
+    <br />
+    Aber wenn du befiehlst,<br />
+    Ein einziges, selbst wenn du mich tötest, lehne ich es ab! Es ist<br />
+    Ein Gefühl, so klein wie eine Maus,<br />
+    Die Farbe von bedeutungslosem Grau!<br />
+    <strong>— Eduard Asadov — Die Farben der Emotionen.</strong>
+  </blockquote>
+
+  <p className={styles.text}>
+    Die Macht über Wünsche ist die raffinierteste aller Mächte, die ich kenne. Lassen Sie uns sehen, wie sie funktioniert. Früher haben wir dieses Thema teilweise angesprochen und einen kleinen Exkurs gemacht, indem wir über Dinge wie Faulheit und Willenskraft gesprochen haben. So kamen wir zur Quelle aller Wünsche: den Emotionen. Faulheit, Freude, Traurigkeit, Wut und andere Gefühle sind für jeden notwendig. Tatsächlich fungieren Emotionen als Instrumente, mit denen wir unser Leben navigieren.
+  </p>
+
+  <p className={styles.text}>
+    Jeder von uns möchte positive Emotionen erleben und möchte keine negativen Emotionen erleben. Sobald wir anfangen, negative Emotionen zu fühlen, ist das ein Signal für uns, nachzudenken: Was stimmt nicht? Was muss sich in unserem Leben ändern, damit wir diese „unangenehmen und furchtbaren“ Emotionen nicht erleben? Wenn wir positive Emotionen fühlen, verstehen wir, dass alles aus unserer Sicht gut ist. Aber es gibt einen kleinen Unterschied: Wir kommen nicht mit einer klaren Liste von „Ereignis - Emotion“-Beziehungen zur Welt. Ich täusche mich nicht, wenn ich den persönlichen Standpunkt erwähne. Wie jedes Instrument müssen auch unsere Emotionen regelmäßig kalibriert werden. Ich kann die genauen Intervalle dafür nicht nennen, aber sie sind sicherlich notwendig.
+  </p>
+
+  <p className={styles.text}>
+    Und es ist genau während der Kalibrierung unserer Emotionen, dass äußere Einflüsse sich in uns einschleichen können. Das ist nicht immer völlig negativ; oft hilft es sogar, zu definieren, was gut und was schlecht ist. Moderne Technologien ermöglichen es jedoch, die Messwerte von Instrumenten zu verzerren. Zum Beispiel wird man durch die Medien subtil davon überzeugt, dass die eigenen Vorfahren etwas Schlechtes getan haben, was Schuldgefühle hervorruft, und sofort bildet sich der Wunsch, diese Schuld zu sühnen.
+  </p>
+
+  <p className={styles.text}>
+    Oder man sagt dir, dass du deine Kinder auf eine bestimmte Weise erziehen musst, damit sie glücklich sind — und deckt das mit deinen eigenen Kindheitsgefühlen zu, als die Welt unverständlich und beängstigend schien und das Verhalten deiner Eltern unlogisch erschien (Gefühle von Misstrauen, Zweifeln). Es gibt viele Beispiele wie dieses. Um die gewünschten Handlungen in einem Führer zu bilden, muss man durch Emotionen manipulieren, indem man die emotionalen Reaktionen auf Ereignisse ersetzt. Eine Zeit lang kann man die Menschen dazu bringen, gegen ihre wahre Natur zu handeln.
+  </p>
+
+  <p className={styles.text}>
+    Aber unsere Körper sind sehr weise: Wir haben viele Emotionen, und keine von ihnen wurde bisher vollständig von irgendeinem Manipulator kontrolliert. Diskrepanzen zwischen verschiedenen emotionalen Zuständen erzeugen einen inneren Konflikt, der die Menschen dazu zwingt, über die Richtigkeit ihrer emotionalen Einstellungen nachzudenken. Ist es richtig, sich über den Tod des Kindes deines Feindes zu freuen? Schließlich wird es aufwachsen und möglicherweise Rache nehmen... Ist es richtig, dein Kind nicht für das Mobbing von Schwächeren zu bestrafen? Schließlich könnte es auch Rache nehmen...
+  </p>
+
+  <p className={styles.text}>
+    Ist es richtig, alles für dein Kind zu tun? Schließlich ist es so besonders... Du wirst durch deine Emotionen kontrolliert, aber du kannst dich auch selbst kontrollieren, indem du diese Verletzlichkeit nutzt. Wenn Wünsche von den auferlegten Wünschen durch die Anstrengung unterschieden werden, die du in deren Verwirklichung steckst, desto mehr Anstrengung du in die Verwirklichung eines Wunsches steckst, desto weiter entfernt er sich von deinen wahren Zielen und Bestrebungen.
+  </p>
+
+  <p className={styles.text}>
+    Wie unterscheidet man aufgedrückte Emotionen von persönlichen? In jedem Fall müssen alle Nuancen berücksichtigt werden. Der universelle Schlüssel zur Lösung dieser Aufgabe wurde jedoch bereits erwähnt, wenn auch nicht ganz explizit. Da wir zum Überleben in diesem Entwicklungsstadium eine Gesellschaft benötigen, die zweifellos für das Überleben ihrer Bestandteile (Menschen) sorgen muss, werden die emotionalen Einstellungen, die es den Menschen ermöglichen, harmonisch innerhalb dieser Gesellschaft und mit sich selbst zu leben, korrekt sein.
+  </p>
+
+  <h2 className={styles.subheading}>Manipulation durch Emotionen</h2>
+  <p className={styles.text}>
+    Wenn jedoch Widersprüche in den Emotionen der Menschen weit verbreitet werden, ist dies ein klares Zeichen für eine Manipulation, die gegen ihre Gefühle gerichtet ist. Wenn solche Manipulationen existieren, bedeutet dies, dass es Diskrepanzen zwischen dem offiziellen Kurs der Gesellschaftsführer und den wahren Wünschen der Menschen unter ihrer Herrschaft gibt. Das bedeutet, dass entweder eine Gruppe von Führern versucht, ihre Wünsche durch eine Umverteilung der Macht zu verwirklichen, oder dass die derzeitigen Herrscher ihre Macht missbraucht haben und das Ergebnis, das ihre Autorität gerechtfertigt hätte, nicht erreicht haben.
+  </p>
+
+  <p className={styles.text}>
+    Alles, was Emotionen in dir hervorruft, kann gegen dich verwendet werden. Die durch Kinder ausgelösten Emotionen gehören zu den stärksten, weshalb die Manipulation durch Kinder besonders effektiv ist.
+  </p>
+`,
+chapter11: `
+  <h1 className={styles.title}>Über den Einfluss der Erziehung</h1>
+
+  <blockquote className={styles.quote}>
+    Was ist die süßeste Süße der Welt?<br />
+    Zucker – ich hätte es früher beantworten können.<br />
+    Honig, Marmelade, Pastille... und Sorbet..<br />
+    Jetzt verstehe ich die Antwort erst<br />
+    <br />
+    -Der Geruch eines Kindes – der Duft des Scheitels,<br />
+    Der auf unserem Kissen bleibt,<br />
+    Zarte kleine Finger... und Nägel–<br />
+    Der Po, die Knie... und die Ellbogen…<br />
+    <br />
+    Was ist die bitterste Bitterkeit der Welt?<br />
+    Senf – ich hätte es früher beantworten können...<br />
+    Meerrettich und Essig... Wermut und Chinin..<br />
+    Aber jetzt – meine Antwort ist nur eine:<br />
+    <br />
+    Zitternde Lippen – Weinen auf dem Weg<br />
+    Das ist, was mein Herz schmerzt<br />
+    Die bitterste Bitterkeit – das Leid eines Kindes –<br />
+    Augen voller Tränen und Bitterkeit<br />
+    <strong>wahrscheinlich Agnia Barto.</strong>
+  </blockquote>
+
+  <h2 className={styles.subheading}>Der Einfluss der Erziehung auf zukünftige Generationen</h2>
+  <p className={styles.text}>
+    Abgesehen von dem, was wir zuvor besprochen haben, beeinflusst die Art und Weise, wie wir Kinder erziehen, die Zukunft der Gesellschaft und schafft Hebelwirkungen für die Machtstrukturen. Nicht nur, dass Sie als Eltern von den verzerrten Schicksalen von unglücklichen Kindern, deren Erziehung schlecht war, verängstigt werden, die gezwungen sind, selbsternannten Erziehungsexperten zu folgen, sondern im Laufe der Zeit erhalten die Behörden gehorsamere Bürger in den Bereichen, die sie benötigen. Und ich spreche nicht von den allgemein anerkannten Autoritäten der Staaten. Ich spreche von denen, die wirklich die Kontrolle ausüben, sei es der Präsident eines Landes oder ein unbekannter Oligarch.
+  </p>
+  
+  <h2 className={styles.subheading}>Die Illusion des Schutzes vor Gewalt</h2>
+  <p className={styles.text}>
+    Uns wird ständig gesagt, dass Gewalt schlecht ist, und dass, wenn Kinder mit Gewalt konfrontiert werden, es eine Katastrophe für die Gesellschaft ist und sofort ein Psychologe konsultiert werden muss. Aber denken wir mal nach: Haben Menschen nicht Tausende von Jahren mit Gewalt zu tun gehabt? Und Kinder? Hat es die Menschheit davon abgehalten, ins All zu reisen? Hat Gewalt die industrielle Revolution verhindert? Oder vielleicht haben die Vorfahren derjenigen, die Gewalt abschaffen wollen, ihre Feinde nicht bestohlen oder getötet? Gewalt ist ein Werkzeug der menschlichen Interaktion. Und man muss wissen, wie man es einsetzt. Wenn Sie Ihre Kinder vor Gewalt schützen, machen Sie sie wehrlos gegen sie. Wie jedes Werkzeug hat Gewalt bestimmte Regeln für die Anwendung. Wenn diese Regeln gebrochen werden, entsteht ein Ungleichgewicht, und die Gesellschaft wird in Richtung Aussterben geführt. Wenn mehrere gesunde Männer einen unbewaffneten Kriminellen nicht daran hindern können, eine Frau vor ihren Augen anzugreifen, ist das ein sehr besorgniserregendes Zeichen. Ein Kind, das mit Gewalt konfrontiert wird, ist sicherlich verängstigt, weil es nicht weiß, was zu tun ist. Aber es wird auch mit 30 Jahren genauso verängstigt sein, wenn es nicht gelernt hat, Gewalt als Werkzeug zu nutzen.
+  </p>
+  
+  <h2 className={styles.subheading}>Widersprüche in der Gesellschaft: Familie als Feind</h2>
+  <p className={styles.text}>
+    Es wird uns gesagt, dass wir unseren Kindern unsere Weltanschauung nicht aufzwingen dürfen, dass wir sie nicht kontrollieren sollen, dass wir für sie einen goldenen Käfig schaffen müssen, in dem sie sich zu einem Individuum entwickeln können. Aber in Wirklichkeit wird uns eingeredet, dass wir nicht in der Lage sind, Kinder nach unseren eigenen "persönlichen" Regeln zu erziehen und dass wir die Erziehung anderen überlassen sollen. Sollten wir dann überrascht sein, wenn unsere Kinder in die falsche Richtung gehen? Sollten wir überrascht sein über niedrige Geburtenraten in Ländern, in denen Eltern Professoren werden müssen, bevor sie Kinder haben? Vor ein paar hundert Jahren wurden Kinder als Investition betrachtet (so hart es auch klingt), aber heute fällt es immer schwerer, Kinder als etwas anderes zu sehen als ein Bündel von Problemen und Stress. Trotz aller Erklärungen ist die Familie für die meisten modernen Machtstrukturen der Feind.
+  </p>
+`,
+
+
 
 
     chapter_title_1: "Güte",
