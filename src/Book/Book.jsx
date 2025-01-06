@@ -7,6 +7,8 @@ import {setView} from '../store';
 
 function Book() {
     const text = useSelector((state) => state.langReducer);
+    const licenseText = text.licenseText
+    const licenseLink = text.licenseLink
     const dispatch = useDispatch()
     const [chapter, setChapter] = useState('chapter1');
     const [chapterText, setChapterText] = useState('');
@@ -49,7 +51,11 @@ function Book() {
     return (
         <div className={styles.book}>
             <ChapterSwitcher chapter={chapter} setChapter={setChapter}/>
-            <Page text={chapterText} background={background} />
+            <Page text={chapterText}
+            background={background}
+            licenseText={licenseText}
+            licenseLink={licenseLink}
+            />
         </div>
     );
 }

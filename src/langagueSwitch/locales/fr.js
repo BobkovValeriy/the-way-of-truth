@@ -1,6 +1,5 @@
 const fr = {
     chapter1: `
-    <h1 className={styles.title}>Qu'est-ce qui est bon et qu'est-ce qui est mauvais ?</h1>
     <blockquote className={styles.quote}>
       Le petit fils est venu vers son père,<br />
       et le petit a demandé :<br />
@@ -52,7 +51,6 @@ const fr = {
   `,
 
     chapter2:`
-    <h2 className={styles.subheading}>Dilemmes moraux</h2>
     <blockquote className={styles.quote}>
       Seigneur, donne-moi la force de surmonter ce qui doit l'être,<br />
       Seigneur, donne-moi l'humilité d'accepter l'inévitable,<br />
@@ -106,7 +104,6 @@ const fr = {
 
     `,
     chapter3: `
-  <h1 className={styles.title}>Honnêteté et Mensonges</h1>
   <blockquote className={styles.quote}>
     Un certain original combat encore pour la Vérité,<br />
     La Vérité dans ses mots ne vaut pas plus qu'un sou:<br />
@@ -143,7 +140,6 @@ const fr = {
   </p>
 `,
 chapter4: `
-  <h1 className={styles.title}>Et comment ai-je vu Dieu dans le ciel ?</h1>
   <blockquote className={styles.quote}>
     Et comment ai-je vu Dieu dans le ciel ?<br />
     Mon cœur a dû se tromper ?<br />
@@ -175,8 +171,8 @@ chapter4: `
   </p>
 `,
 chapter5: `
-<h1 className={styles.title}>Ici, c'est comme une démocratie, mais en réalité un royaume!</h1>
 <blockquote className={styles.quote}>
+Ici, c'est comme une démocratie, mais en réalité un royaume!<br />
   J'aime tellement mon pays... et je déteste<br />
   l'État, l'État, l'État!<br />
   Je déteste<br />
@@ -222,9 +218,9 @@ chapter5: `
 </ol>
 `,
 chapter6: `
-  <h1 className={styles.title}>Le pouvoir ne vient pas du peuple !</h1>
   <blockquote className={styles.quote}>
-    Ne répétez pas ces idées folles écrites dans la Constitution !<br />
+    Le pouvoir ne vient pas du peuple!<br />
+    Ne répétez pas ces idées folles écrites dans la Constitution!<br />
     Le pouvoir est maintenu par la force des guerriers, et non par les cris de la foule<br />
     Et à travers ses exécutions !<br />
     <strong>— Pavel Plamenyev</strong>
@@ -404,8 +400,6 @@ chapter8:`
 
 `,
 chapter9: `
-    <h1 className={styles.title}>La volonté : outil ou piège ?</h1>
-
     <blockquote className={styles.quote}>
       Une personne forte d'esprit se fixe un objectif, et s'efforce de l'atteindre,<br />
       Cherche le chemin et la méthode pour y parvenir.<br />
@@ -446,7 +440,6 @@ chapter9: `
     </p>
 `,
 chapter10: `
-  <h1 className={styles.title}>Les couleurs des émotions: Manipulations et pouvoir de la perception</h1>
 
   <blockquote className={styles.quote}>
     Je n'ose même pas les nommer simplement<br />
@@ -505,7 +498,6 @@ chapter10: `
   </p>
 `,
 chapter11: `
-  <h1 className={styles.title}>Sur l'Influence de l'Éducation</h1>
 
   <blockquote className={styles.quote}>
     Quelle est la douceur la plus sucrée du monde ?<br />
@@ -545,9 +537,138 @@ chapter11: `
     On nous dit de ne pas imposer notre vision du monde à nos enfants, de ne pas les contrôler, de créer une cage dorée pour eux, où ils pourront se développer en tant qu'individus. Mais en réalité, on nous fait sentir incapables de les élever selon nos propres règles, et on confie leur éducation à d'autres. Devons-nous être surpris quand nos enfants s'égarent ? Devons-nous être surpris par la faible natalité dans les pays où les parents doivent devenir professeurs avant d'avoir des enfants ? Il y a quelques centaines d'années, les enfants étaient vus comme un investissement (aussi dur que cela puisse paraître), mais aujourd'hui, il devient de plus en plus difficile de voir les enfants comme autre chose qu'un fardeau de problèmes et de stress. Malgré toutes les déclarations, la famille est l'ennemi pour la plupart des cercles dirigeants modernes.
   </p>
 `,
+chapter12: `
+<blockquote className={styles.quote}>
+  La famille est forte,<br />
+  Où la croix repose sur le mot «Je»,<br />
+  Où seul le mot «NOUS» domine,<br />
+  Où il y a des rêves communs.<br />
+  Où il y a de l'abondance et du confort,<br />
+  Où les enfants courent joyeusement,<br />
+  Où l'amour brûle éternellement.<br />
+  <strong>Auteur inconnu</strong>
+</blockquote>
 
+<h2 className={styles.subheading}>La famille comme base</h2>
+<p className={styles.text}>
+  La famille est l'unité fondamentale de l'union des êtres humains. Depuis les temps anciens, c'est au sein de la famille que se produisent les processus les plus importants pour la survie de l'homme et de l'humanité en tant qu'espèce. L'accumulation et la distribution des ressources, la reproduction de l'espèce, la transmission des connaissances acquises par les ancêtres.
+</p>
 
+<h2 className={styles.subheading}>La famille comme ennemi des puissants</h2>
+<p className={styles.text}>
+  Pourquoi la famille est-elle un ennemi des puissants ? Quelle que soit la structure de la société, qu'elle soit socialiste ou capitaliste, elle n'est qu'une forme de gouvernance des hommes. Ce qui est important pour votre gouvernement, c'est que vous remplissiez vos fonctions. Pour cela, vous devez soit croire que vous agissez correctement, soit être incapable de vous opposer aux impulsions de la gouvernance. Dans tous les cas, la famille mine le monopole du pouvoir. En réalité, les familles constituent une branche parallèle du pouvoir, et plus les gens sont unis au sein de leurs familles, plus il devient difficile de les gouverner. Il est facile de contraindre une personne à exécuter vos désirs si vous êtes le seul à pouvoir la nourrir. Mais si une deuxième source apparaît, votre pouvoir devient relatif.
+</p>
 
+<h2 className={styles.subheading}>Les sociétés modernes et le pouvoir</h2>
+<p className={styles.text}>
+  Aujourd'hui, nous avons l'habitude de diviser les sociétés en socialistes, capitalistes, dictatures, mais finalement dans toutes les sociétés mentionnées, le pouvoir essaie de se maintenir au sein des familles. Ainsi, ceux qui parviennent au pouvoir suprême commenceront tôt ou tard à l'utiliser pour accorder des privilèges injustes aux membres de leur propre famille. Là où il y a suffisamment de ressources, les gens se multiplient, et plus la famille est grande, plus ses besoins en ressources sont importants, et plus le pouvoir est utilisé pour une distribution injuste des ressources. Dans ce cas, les gens s'opposeront de plus en plus à cette famille. Mais si les familles sont fragmentées, l'opposition sera beaucoup plus faible.
+</p>
+
+<h2 className={styles.subheading}>La destruction de la famille : Bien ou mal ?</h2>
+<p className={styles.text}>
+  La destruction de la famille est-elle une bonne ou une mauvaise chose pour l'humanité ? En détruisant l'idée de la famille, les gens deviennent plus vulnérables face aux abus du pouvoir, mais en même temps, ils deviennent plus difficiles à contrôler sous d'autres aspects. Beaucoup de gens, pour être heureux, n'ont pas besoin de grandes richesses, il devient donc beaucoup plus difficile de les contraindre à travailler sans se soucier de leur famille. C'est ainsi que les élites mondiales oscillent entre ces deux extrêmes. La destruction totale de la famille signifie retirer un moteur important du bien-être de millions de personnes, mais permettre aux familles de conserver trop de pouvoir sur leurs membres revient à créer des concurrents. Ainsi, tout se referme dans un cercle, et tout recommence.
+</p>
+
+<h2 className={styles.subheading}>Les problèmes de l'hérédité du pouvoir</h2>
+<p className={styles.text}>
+  Il y a aussi un autre problème dans les sociétés où le pouvoir se transmet par héritage : les héritiers du pouvoir deviennent de plus en plus faibles. La concurrence entraîne le développement, tandis que les héritiers des dirigeants bénéficient de bien moins de concurrence que dans des conditions normales, et leur pouvoir se déplace vers des domaines éloignés des véritables besoins des gens.
+</p>
+
+<h2 className={styles.subheading}>Le socialisme comme solution</h2>
+<p className={styles.text}>
+  Pour résoudre ces problèmes, le socialisme a été conçu. Dans ce système, les individus sont séparés de leurs familles de différentes manières, et chacun, en fonction de ses talents, devrait gérer la société pour le bien de tous. Cependant, un groupe de personnes unies par des liens familiaux finira par l'emporter sur n'importe quel individu brillant dans la lutte pour le pouvoir. Par conséquent, le cercle se referme, et tout recommence.
+</p>
+
+<h2 className={styles.subheading}>Une famille inexistante ?</h2>
+<p className={styles.text}>
+  Imaginons maintenant une société sans famille :
+</p>
+<ul>
+  <li>la gestion de la production et de la distribution des ressources pour la survie des nouveau-nés serait assurée par des personnes choisies par l'État</li>
+  <li>les nouveau-nés grandiraient dans des institutions spéciales, dédiées à leur éducation</li>
+  <li>le processus de reproduction humaine serait limité à l'association de partenaires sexuels selon des critères génétiques, sans révéler aux individus qu'ils sont des proches</li>
+  <li>dans une telle société, les individus occuperaient des postes en fonction de leurs capacités</li>
+  <li>cette société serait protégée de la transmission du pouvoir par héritage : tout ce que chaque individu aurait acquis durant sa vie reviendrait à la société, sans pouvoir influencer les autres individus</li>
+  <li>bien que l'absence de famille résolve un problème d'unification des individus, il en naîtrait d'autres, notamment la formation de groupes comme les "ouvriers aux yeux bleus" qui utiliseraient leur pouvoir pour accaparer les ressources au détriment des autres</li>
+  <li>ce type de société exigerait de nombreuses ressources pour suivre les nouvelles formations de groupes, créant ainsi des conditions favorables pour l'émergence de nouveaux "superviseurs"</li>
+</ul>
+
+<h2 className={styles.subheading}>Retour à la famille</h2>
+<p className={styles.text}>
+  Imaginons maintenant que l'idée de la famille (la lignée) revienne dans la société avec une hiérarchie de pouvoir au sein même de la famille.
+</p>
+<ul>
+  <li>la distribution des ressources serait probablement plus équitable au sein des familles</li>
+  <li>les cercles de pouvoir proviendraient toujours des familles, mais leur pouvoir ne serait pas aussi absolu qu'il l'est dans l'ordre mondial actuel</li>
+  <li>la probabilité d'un changement de pouvoir au sein de la société augmenterait, avec des révolutions et des réajustements constants</li>
+  <li>telles des sociétés ont existé par le passé et existent encore dans certaines structures de pouvoir aujourd'hui</li>
+</ul>
+
+<h2 className={styles.subheading}>Conclusion</h2>
+<p className={styles.text}>
+  Comme nous le voyons, la famille est une question très complexe pour la société. Aucune solution à cette question n'est parfaite. Cependant, tant que nous existons en tant qu'espèce, nous avons la capacité de maintenir différents types de sociétés, et pour cela, un travail constant est nécessaire pour éduquer chaque membre de la société, y compris ceux qui détiennent le pouvoir. Ce travail s'appelle l'éducation.
+</p>
+`,
+chapter13:`
+  <h2 className={styles.subheading}>Ce que tu sèmes, tu le récoltes...</h2>
+  <p className={styles.text}>
+    Le Nouveau Testament.
+  </p>
+  <p className={styles.text}>
+    L'éducation permet de se réconcilier avec l'imperfection du modèle de chaque société particulière. Lorsque les gens sont confrontés à une distribution injuste des ressources, ils peuvent cultiver certaines qualités dans les générations futures qui peuvent les amener à accepter cette situation. Et l'éducation fonctionnera tant que l'individu, au minimum, aura de quoi se nourrir. Cependant, en réduisant constamment certaines parties de la société pour assurer le bien-être d'autres, tôt ou tard, les élites commettront des erreurs fatales dans la répartition des ressources. Comment les gens ont-ils l'habitude de résoudre ces problèmes? Les élites, comprenant qu'elles ne peuvent pas satisfaire les désirs des masses, reconnaissent que les ressources sont insuffisantes, mais blâmeront quelqu'un d'autre. La guerre commence, et tous les problèmes sont attribués à celle-ci. Des siècles auparavant, la situation était la même, mais sans une telle manipulation subtile, les leaders de certaines sociétés appelaient simplement leur peuple à piller les voisins pour leur propre bien-être. Alors, quel type d'éducation parlons-nous si toutes les formes d'éducation passées poussaient, d'une manière ou d'une autre, à ignorer les injustices qui se déroulaient autour? Je propose une éducation fondée sur la vérité. Bien sûr, personne ne peut connaître toute la vérité, mais chacun possède une part de celle-ci. L'éducation devrait poser les bases de la survie de l'individu dans la société, tandis que la société, en fin de compte, doit veiller à la survie de ses membres, les humains. En tout cas, les ressources disponibles pour l'individu ou la société sont limitées, et tôt ou tard, soit nous découvrirons les principes permettant l'immortalité de l'humanité en tant qu'espèce, soit nous disparaîtrons. C'est précisément dans l'éducation des générations futures que réside notre immortalité ou notre oubli.
+  </p>
+
+  <h2 className={styles.subheading}>Quelles qualités sont nécessaires pour nos successeurs ?</h2>
+  <ul>
+    <li><strong>La logique de la pensée</strong> : C'est la qualité la plus importante à mon avis. Sans un outil efficace pour comprendre le monde qui nous entoure, aucune autre qualité positive de la personnalité ne peut être développée.</li>
+    <li><strong>La flexibilité de la pensée</strong> : Ce que j'entends par là, c'est que l'individu doit être conscient de la finitude de ses connaissances. Posséder des connaissances dans un domaine particulier ne fait pas de lui un expert dans tous les aspects de la vie (ce que la Bible appelle l'orgueil). Une personne doit comprendre qu'elle ne sait pas tout, et qu'elle peut se tromper dans ses jugements. Il ne faut pas immédiatement rejeter un autre avis sur une situation. Il est nécessaire d'utiliser la logique.</li>
+    <li><strong>La capacité de défendre son opinion</strong> : Lorsque vous avez suffisamment de connaissances pour comprendre les chaînes de causes à effets, et que de nouvelles informations vont à l'encontre des précédentes, il ne faut pas accepter aveuglément l'opinion des autres. Il faut utiliser la logique.</li>
+    <li><strong>La définition des objectifs</strong> : La capacité de définir ses objectifs et les étapes nécessaires pour les atteindre, en utilisant la logique.</li>
+    <li><strong>La bienveillance</strong> : La capacité de poursuivre ses objectifs personnels en accord avec le bien-être général. C'est-à-dire que les objectifs qu'une personne se fixe ne doivent pas être en contradiction avec le principe fondamental de la survie de l'humanité. Toutes les actions menant à l'extinction de l'humanité doivent être perçues négativement.</li>
+  </ul>
+`,
+chapter14: `
+  <blockquote className={styles.quote}>
+    Pas à pas, l'escouade marche au loin.<br />
+    Année après année, le forgeron forge le métal.<br />
+    De génération en génération, le peuple grandit.<br />
+    Chacun a son destin, chacun a sa propre rédemption.<br />
+    Et les épreuves deviennent de plus en plus terrifiantes. Où nous mène la Providence ?<br />
+    <strong>— Je</strong>
+  </blockquote>
+
+  <p className={styles.text}>
+    D'après mes réflexions, il semble que fonder la société sur les valeurs familiales conduira presque inévitablement à 
+    un déséquilibre dans la distribution des ressources au sein de la société. Pendant un certain temps, il est possible 
+    d'éteindre le mécontentement des gens face aux injustices, mais tôt ou tard cela conduira à la guerre.
+  </p>
+
+  <h3 className={styles.subheading}>Solutions possibles</h3>
+  <p className={styles.text}>
+    Une des solutions que je vois est la transformation progressive de l'institution de la famille privée en une institution 
+    de tutelle étatique pour l'éducation. Les ressources n'augmenteront sans doute pas, mais leur distribution ne sera plus aussi 
+    criante d'injustice.
+  </p>
+
+  <p className={styles.text}>
+    Cependant, un autre danger surgit : l'efficacité de notre structure familiale moderne a été prouvée pendant des millénaires. 
+    Nos sociétés ont été construites sur cette structure.
+  </p>
+
+  <h3 className={styles.subheading}>Difficultés et risques</h3>
+  <p className={styles.text}>
+    Une autre solution serait de tenter d'éduquer les générations suivantes selon les principes que j'ai décrits dans le chapitre précédent, 
+    au sein des familles. Cependant, il serait trop naïf de croire que ce type d'éducation garantit une gestion correcte des ressources 
+    dans la société. Les familles au pouvoir ne seront probablement pas intéressées à élever leurs descendants de cette manière.
+  </p>
+
+  <h3 className={styles.subheading}>Nouveaux défis</h3>
+  <p className={styles.text}>
+    En franchissant une nouvelle époque, nous rencontrerons de nouveaux défis auxquels nous n'avons jamais été confrontés. 
+    L'humanité survivra-t-elle à cela ? Il est impossible de le dire. On dit que le critère de vérité est l'expérimentation, 
+    et probablement, seule la confrontation de deux approches de la reproduction humaine pourra nous dire laquelle est la plus viable.
+  </p>
+`,
 
     chapter_title_1: "Bonté",
     chapter_title_2: "Dilemme",
@@ -562,7 +683,11 @@ chapter11: `
     chapter_title_11: "Enfants",
     chapter_title_12: "Famille",
     chapter_title_13: "Éducation",
-    chapter_title_14: "Nouvelle époque"
+    chapter_title_14: "Nouvelle époque",
+
+    //license
+    licenseText: `Droits d'auteur © 2024 Valeriy Vladimirovich Bobkov. Ce travail est licencié sous une - `,
+    licenseLink: `Licence Internationale Creative Commons Attribution-NonCommercial-NoDerivatives 4.0`,
   
 };
 

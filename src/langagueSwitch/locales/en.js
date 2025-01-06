@@ -1,6 +1,5 @@
 const en = {
     chapter1: `
-    <h1 className={styles.title}>What is good and what is bad?</h1>
     <blockquote className={styles.quote}>
       The little son came to his father,<br />
       and the little one asked:<br />
@@ -52,7 +51,6 @@ const en = {
   `,
 
     chapter2:`
-    <h2 className={styles.subheading}>Moral Dilemmas</h2>
     <blockquote className={styles.quote}>
       God, grant me the strength to overcome what is necessary,<br />
       God, grant me the humility to accept the inevitable,<br />
@@ -104,7 +102,6 @@ const en = {
     </p>
     `,
     chapter3: `
-  <h1 className={styles.title}>Honesty and Lies</h1>
   <blockquote className={styles.quote}>
     A certain odd fellow still fights for the Truth,<br />
     The Truth in his words is worth no more than a penny:<br />
@@ -141,7 +138,6 @@ const en = {
   </p>
 `,
 chapter4: `
-  <h1 className={styles.title}>And How Did I See God in the Sky?</h1>
   <blockquote className={styles.quote}>
     And how did I see God in the sky?<br />
     My heart must have been mistaken?<br />
@@ -174,8 +170,8 @@ chapter4: `
   </p>
 `,
 chapter5: `
-<h1 className={styles.title}>It seems like democracy, but it's actually a kingdom!</h1>
 <blockquote className={styles.quote}>
+  It seems like democracy, but it's actually a kingdom!<br />
   I love my country so much... and hate<br />
   The state, the state, the state!<br />
   I hate<br />
@@ -217,8 +213,9 @@ chapter5: `
 </ol>
     `,
 chapter6: `
-  <h1 className={styles.title}>Power doesn't come from the people!</h1>
+
   <blockquote className={styles.quote}>
+    Power doesn't come from the people!<br />
     Don't repeat these foolish ideas written in the Constitution!<br />
     Power is maintained by the strength of warriors, not the cries of the crowd<br />
     And through its executions!<br />
@@ -426,7 +423,6 @@ chapter8:`
 
 `,
 chapter9: `
-    <h1 className={styles.title}>Willpower: Tool or Trap?</h1>
 
     <blockquote className={styles.quote}>
       A strong-willed person sets a goal, and strives for it,<br />
@@ -468,7 +464,6 @@ chapter9: `
     </p>
 `,
 chapter10: `
-  <h1 className={styles.title}>Colors of Emotions: Manipulations and the Power of Perception</h1>
 
   <blockquote className={styles.quote}>
     I can't even name them simply<br />
@@ -527,7 +522,6 @@ chapter10: `
   </p>
 `,
 chapter11: `
-  <h1 className={styles.title}>On the Influence of Parenting</h1>
 
   <blockquote className={styles.quote}>
     What is the sweetest sweetness in the world?<br />
@@ -567,7 +561,165 @@ chapter11: `
     We are told not to impose our worldview on children, not to control them, and that we should create a golden cage for them, allowing them to develop into a person. But in reality, we are made to feel incapable of raising children by our own “personal” rules, leaving the upbringing to others. Should we then be surprised when our children go in the wrong direction? Should we be surprised by low birth rates in countries where parents must become professors before having children? A few hundred years ago, children were seen as investments (as harsh as that sounds), but today it becomes harder and harder to look at children as anything but a bundle of problems and stress. Despite all the declarations, family is the enemy for most modern ruling circles.
   </p>
 `,
+chapter12: `
+      <blockquote className={styles.quote}>
+        A strong family is one where the cross stands on the word “I”,
+        Where the word “WE” reigns,
+        Where there are shared dreams,
+        Where there is wealth and comfort,
+        Where children run joyfully,
+        Where love always sparks again,
+        A passionate LOVE!!!<br />
+        <strong>Author unknown</strong>
+      </blockquote>
 
+      <h2 className={styles.subheading}>Family as a Foundation</h2>
+      <p className={styles.text}>
+        The family is the most fundamental unit of human unification. Since ancient times, the most important processes for 
+        human survival and the survival of the human race have taken place within the family: accumulation and distribution of 
+        resources, reproduction of the species, and the transmission of knowledge passed down by ancestors.
+      </p>
+
+      <h2 className={styles.subheading}>Family as the Enemy of the Ruling Circles</h2>
+      <p className={styles.text}>
+        So why is the family the enemy of the ruling circles? Regardless of whether the society is socialist or capitalist, 
+        these are simply forms of control over people. For your government, it is important that you perform the duties 
+        assigned to you. For this, you must either believe that you are doing the right thing, or have no ability to resist the 
+        impulses of the ruling power. In both cases, the family undermines the monopoly of power. Families act as a parallel 
+        power branch, and the more united people are within their families, the harder it is to govern them.
+      </p>
+
+      <h2 className={styles.subheading}>Modern Societies and Power</h2>
+      <p className={styles.text}>
+        Nowadays, societies are divided into socialist, capitalist, and dictatorial regimes, but in all of them, power 
+        is still maintained within families. This means that those who have reached the highest power will eventually 
+        use it to deceitfully ensure that benefits are available to the ruling family members. And where resources are plentiful, 
+        people multiply, and the larger the family, the greater its need for resources. The more power is misused to 
+        unjustly redistribute resources, the more people will oppose such a family. However, if families are broken up, 
+        people's resistance will be much weaker.
+      </p>
+
+      <h2 className={styles.subheading}>Destruction of the Family: Is It Good or Bad?</h2>
+      <p className={styles.text}>
+        Is the destruction of the family good or bad for humanity? By diluting the concept of family, people become more 
+        defenseless against the arbitrary actions of the government, but at the same time, they become harder to control 
+        in another sense. Many people do not need excessive wealth for happiness, and it is much harder to force them to work 
+        while neglecting their families. This is why global elites are caught between two fires: destroying the family completely 
+        means eliminating a huge source of motivation for millions of people, but allowing families to hold too much power over 
+        their members creates competition. Hence the many contradictory laws, like "you must give everything to your children, 
+        but they owe you nothing."
+      </p>
+
+      <h2 className={styles.subheading}>Problems with Inherited Power</h2>
+      <p className={styles.text}>
+        Also, in societies where power is inherited, successors tend to be weaker. Competition fosters development, but 
+        in the case of heirs to rulers, competition is much lower than in regular conditions and shifts to other planes, 
+        disconnected from the real needs of people.
+      </p>
+
+      <h2 className={styles.subheading}>Socialism as a Solution</h2>
+      <p className={styles.text}>
+        To solve these problems, socialism was developed by wise people. In it, individuals are separated from their families 
+        in various ways, and they are supposed to use their talents to manage society for its benefit. But a group of people, 
+        united by family ties, will eventually defeat even the most genius individual in the competition for power. Thus, the cycle 
+        will close, and everything will begin anew.
+      </p>
+
+      <h2 className={styles.subheading}>What Is the Way Out?</h2>
+      <p className={styles.text}>
+        So what is the way out of this endless cycle of power?
+      </p>
+      <p className={styles.text}>
+        Let's imagine that families do not exist at all:
+      </p>
+      <ul>
+        <li>The management of resource extraction and distribution for the survival of newborns is handled by government officials.</li>
+        <li>Newborns grow up in organizations dedicated to their upbringing.</li>
+        <li>The process of human reproduction is limited to DNA combinations, excluding undesirable mutations (people do not even need to know that they are relatives - sex is possible, but without conception, decisions are based on DNA chips embedded under the skin).</li>
+        <li>In such a society, people will likely hold positions based on their abilities.</li>
+        <li>This society is protected from the transmission of power through inheritance, as whatever an individual takes from others will eventually either return to society or be lost and cease to affect others.</li>
+        <li>Since family is an association of people based on kinship, its absence does not solve the issue of people uniting in groups, such as “blue-eyed locksmiths” who will use their power to redistribute resources for their benefit. Therefore, there will still be an imbalance and irresponsible consumption of resources where possible.</li>
+        <li>In such a society, great effort would be spent tracking constantly forming human groups, which in turn would create fertile ground for the emergence of groups like “chief overseers.”</li>
+        <li>As for the emergence of a society of “common children,” it must be fueled by people's awareness of its "potential usefulness" and then legislatively approved. However, such a society must remain closed to foreign elements; otherwise, it will inevitably lose the battle for resources by admitting advocates of hereditary power. Therefore, the emergence of such a society is extremely difficult, as it requires many coincidences to happen for it to form.</li>
+      </ul>
+
+      <h2 className={styles.subheading}>Return to the Family</h2>
+      <p className={styles.text}>
+        Now imagine that the concept of family (or clan) with a clear vertical structure of power inside it returns to society.
+      </p>
+      <ul>
+        <li>Resource distribution will likely be more loyal within these families.</li>
+        <li>The ruling circles will still emerge from families, but their power will not be as absolute as it is under the current world order.</li>
+        <li>The probability of power redistribution within society will increase, and various coups will happen, so legislation will be needed to maintain balance between families.</li>
+        <li>Such societies already existed in the past and are preserved in governing structures today. As a result of such societies, it is inevitable that one family, after being in power for a long time, will start a war with other families to seize their resources, and if they succeed, all resources of society will be again subordinated to the ruling circles, which will eventually lead to another revolution.</li>
+      </ul>
+
+      <h2 className={styles.subheading}>Conclusion</h2>
+      <p className={styles.text}>
+        As we can see, the family is a very complex issue for society, and no solution to the family question is perfect. But as long as we exist as a species, it is within our power to maintain any type of society, and for that, constant work must be done on every member of society, including those in power. This work is called education.
+      </p>
+    `,
+chapter13:`
+  <h2 className={styles.subheading}>You reap what you sow...</h2>
+  <p className={styles.text}>
+    The New Testament.
+  </p>
+  <p className={styles.text}>
+    Education helps to reconcile with the imperfections of each specific societal model. When people are faced with an unfair distribution of resources, they can cultivate qualities in future generations that help them accept this situation. And education will work as long as the person is at least not hungry. However, by endlessly oppressing some parts of society to ensure prosperity in others, sooner or later the ruling circles will make fatal mistakes in resource distribution. How do people typically solve these problems? The elites, realizing they cannot fulfill the masses’ desires, admit that resources are lacking, but blame someone else. War begins, and all problems are blamed on it. Centuries ago, the same thing happened, but without such refined manipulation, as leaders of certain societies simply called their people to plunder neighbors for their own well-being. So, what kind of education are we talking about if all forms of education previously pushed people to ignore the injustices happening around them? I propose education through truth. Of course, no one can know the entire truth, but everyone possesses a part of it. Education should lay the foundation for an individual’s survival in society, while society itself must ensure the survival of its members. In any case, resources are limited, and sooner or later either we will discover the principles granting humanity immortality, or humanity will perish. It is in the education of future generations that our immortality or oblivion lies.
+  </p>
+
+  <h2 className={styles.subheading}>What qualities are needed for our successors?</h2>
+  <ul>
+    <li><strong>Logical thinking</strong>: This is, in my opinion, the most important quality of a person. Without an effective tool for understanding the world around us, no other positive traits can be developed.</li>
+    <li><strong>Flexibility of thought</strong>: What I mean is that a person should understand the limitations of their knowledge. Having knowledge in one area does not make someone an expert in all aspects of life. They must understand that they do not know everything and may be wrong in their judgments. One should not immediately reject another opinion on a situation. It is necessary to use logic.</li>
+    <li><strong>Ability to defend one's opinion</strong>: When the volume of one's knowledge is sufficient to understand cause-and-effect relationships, and new data contradict previous knowledge, one should not blindly agree with others’ opinions. One should use logic.</li>
+    <li><strong>Goal setting</strong>: The ability of a person to use logic to determine their own goals and the necessary steps to achieve them.</li>
+    <li><strong>Charity</strong>: The ability to pursue personal goals in alignment with the greater good. A person's goals should not contradict the principle of humanity's survival. Any actions leading to humanity's extinction should be seen negatively.</li>
+  </ul>
+  `,
+  chapter14: `
+  <blockquote className={styles.quote}>
+    Step by step, the squad marches into the distance.<br />
+    Year by year, the blacksmith forges the metal.<br />
+    With each passing year, the farmer sows and reaps.<br />
+    From generation to generation, the people grow.<br />
+    Everyone has their own fate, everyone has their own redemption.<br />
+    And the trials get ever more terrifying. Where is destiny leading us?<br />
+    <strong>— I</strong>
+  </blockquote>
+
+  <p className={styles.text}>
+    Based on my reasoning, it seems that building society on the foundation of family values almost inevitably leads to 
+    a skewed distribution of resources within society. For a time, various methods may be used to quench people's discontent 
+    with injustices, but sooner or later, this will lead to war.
+  </p>
+
+  <h3 className={styles.subheading}>Possible Solutions</h3>
+  <p className={styles.text}>
+    One solution I see is the gradual transformation of the institution of private families into the institution of state 
+    guardianship in education. This will not increase the available resources, but their distribution will no longer be as 
+    glaringly unfair.
+  </p>
+
+  <p className={styles.text}>
+    However, another danger arises: the effectiveness of our modern family structure has been proven for millennia. Our societies 
+    have been built upon this structure.
+  </p>
+
+  <h3 className={styles.subheading}>Difficulties and Risks</h3>
+  <p className={styles.text}>
+    Another solution would be to attempt to educate the next generations within the principles I described in the previous chapter, 
+    inside families. However, it would be overly naive to believe that such education guarantees correct resource management in society.
+    The families in power are unlikely to be interested in raising their descendants in such a way.
+  </p>
+
+  <h3 className={styles.subheading}>New Challenges</h3>
+  <p className={styles.text}>
+    Moving into a new era, we will face new challenges that we have never encountered before. Whether humanity will survive this is unknown.
+    They say that the criterion of truth is experimentation, and most likely only by clashing two approaches to human reproduction 
+    will we be able to determine which one is more viable.
+  </p>
+`,
 
     chapter_title_1: "Goodness",
     chapter_title_2: "Dilemma",

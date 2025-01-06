@@ -1,6 +1,5 @@
 const de = {
     chapter1: `
-    <h1 className={styles.title}>Was ist gut und was ist schlecht?</h1>
     <blockquote className={styles.quote}>
       Der kleine Sohn kam zu seinem Vater,<br />
       und der kleine fragte:<br />
@@ -52,7 +51,6 @@ const de = {
   `,
 
     chapter2: `
-    <h2 className={styles.subheading}>Moralische Dilemmata</h2>
     <blockquote className={styles.quote}>
       Gott, gib mir die Kraft, das zu überwinden, was notwendig ist,<br />
       Gott, gib mir die Demut, das Unvermeidliche zu akzeptieren,<br />
@@ -104,8 +102,7 @@ const de = {
       Dafür müssen wir unseren Verstand nutzen, um einige Probleme vorauszusehen.
     </p>
     `,
-    chapter3: `
-  <h1 className={styles.title}>Ehrlichkeit und Lügen</h1>
+chapter3: `
   <blockquote className={styles.quote}>
     Ein gewisser Sonderling kämpft immer noch für die Wahrheit,<br />
     Die Wahrheit in seinen Worten ist nicht mehr wert als einen Pfennig:<br />
@@ -142,7 +139,6 @@ const de = {
   </p>
 `,
 chapter4: `
-  <h1 className={styles.title}>Und wie habe ich Gott am Himmel gesehen?</h1>
   <blockquote className={styles.quote}>
     Und wie habe ich Gott am Himmel gesehen?<br />
     Mein Herz muss sich geirrt haben?<br />
@@ -175,8 +171,8 @@ chapter4: `
   </p>
 `,
 chapter5: `
-<h1 className={styles.title}>Hier ist es wie eine Demokratie, aber in Wirklichkeit ein Königreich!</h1>
 <blockquote className={styles.quote}>
+  Hier ist es wie eine Demokratie, aber in Wirklichkeit ein Königreich!<br />
   Ich liebe mein Land so sehr... und hasse<br />
   den Staat, den Staat, den Staat!<br />
   Ich hasse<br />
@@ -222,8 +218,8 @@ chapter5: `
 </ol>
 `,
 chapter6: `
-  <h1 className={styles.title}>Macht kommt nicht vom Volk!</h1>
   <blockquote className={styles.quote}>
+    Macht kommt nicht vom Volk!
     Wiederhole diese törichten Ideen, die in der Verfassung geschrieben stehen, nicht!<br />
     Macht wird durch die Stärke der Krieger aufrechterhalten, nicht durch die Schreie der Menge<br />
     Und durch ihre Exekutionen!<br />
@@ -403,8 +399,6 @@ chapter8:`
 
 `,
 chapter9: `
-    <h1 className={styles.title}>Der Wille: Werkzeug oder Falle?</h1>
-
     <blockquote className={styles.quote}>
       Der Starke, der ein Ziel gesetzt hat, strebt danach,<br />
       Er sucht den Weg und das Mittel, es zu erreichen.<br />
@@ -445,7 +439,6 @@ chapter9: `
     </p>
   `,
   chapter10: `
-  <h1 className={styles.title}>Die Farben der Emotionen: Manipulationen und die Macht der Wahrnehmung</h1>
 
   <blockquote className={styles.quote}>
     Ich wage es nicht, sie nur zu benennen<br />
@@ -544,7 +537,141 @@ chapter11: `
     Es wird uns gesagt, dass wir unseren Kindern unsere Weltanschauung nicht aufzwingen dürfen, dass wir sie nicht kontrollieren sollen, dass wir für sie einen goldenen Käfig schaffen müssen, in dem sie sich zu einem Individuum entwickeln können. Aber in Wirklichkeit wird uns eingeredet, dass wir nicht in der Lage sind, Kinder nach unseren eigenen "persönlichen" Regeln zu erziehen und dass wir die Erziehung anderen überlassen sollen. Sollten wir dann überrascht sein, wenn unsere Kinder in die falsche Richtung gehen? Sollten wir überrascht sein über niedrige Geburtenraten in Ländern, in denen Eltern Professoren werden müssen, bevor sie Kinder haben? Vor ein paar hundert Jahren wurden Kinder als Investition betrachtet (so hart es auch klingt), aber heute fällt es immer schwerer, Kinder als etwas anderes zu sehen als ein Bündel von Problemen und Stress. Trotz aller Erklärungen ist die Familie für die meisten modernen Machtstrukturen der Feind.
   </p>
 `,
+chapter12: `
+<blockquote className={styles.quote}>
+  Die Familie ist stark,<br />
+  Wo das Kreuz auf dem Wort „Ich“ ruht,<br />
+  Wo nur das Wort „WIR“ regiert,<br />
+  Wo es gemeinsame Träume gibt.<br />
+  Wo es Wohlstand und Komfort gibt,<br />
+  Wo die Kinder fröhlich rennen,<br />
+  Wo die Liebe ewig brennt.<br />
+  <strong>Autor unbekannt</strong>
+</blockquote>
 
+<h2 className={styles.subheading}>Die Familie als Grundlage</h2>
+<p className={styles.text}>
+  Die Familie ist die grundlegendste Einheit der menschlichen Vereinigung. Seit den alten Zeiten finden die wichtigsten Prozesse für das Überleben des Menschen und der Menschheit als Spezies innerhalb der Familie statt. Die Ansammlung und Verteilung von Ressourcen, die Fortpflanzung der Spezies, die Weitergabe von Wissen, das von den Vorfahren erworben wurde.
+</p>
+
+<h2 className={styles.subheading}>Die Familie als Feind der Mächtigen</h2>
+<p className={styles.text}>
+  Warum ist die Familie der Feind der Mächtigen? Unabhängig von der Struktur der Gesellschaft, ob sozialistisch oder kapitalistisch, ist sie nur eine Form der Herrschaft über die Menschen. Was für Ihre Regierung wichtig ist, ist, dass Sie Ihre Aufgaben erfüllen. Dafür müssen Sie entweder glauben, dass Sie richtig handeln, oder unfähig sein, sich den Impulsen der Macht zu widersetzen. In jedem Fall untergräbt die Familie das Monopol der Macht. Tatsächlich stellen Familien eine parallele Machtstruktur dar, und je mehr Menschen innerhalb ihrer Familien vereint sind, desto schwieriger wird es, sie zu regieren. Es ist einfach, eine Person dazu zu bringen, all Ihre Wünsche zu erfüllen, wenn Sie die einzige Person sind, die sie ernähren kann. Aber wenn eine zweite Quelle auftaucht, wird Ihre Macht relativ.
+</p>
+
+<h2 className={styles.subheading}>Moderne Gesellschaften und Macht</h2>
+<p className={styles.text}>
+  Heute sind wir gewohnt, Gesellschaften in sozialistische, kapitalistische und diktatorische zu unterteilen, aber letztlich versucht in allen genannten Gesellschaften die Macht, sich innerhalb der Familien zu erhalten. Diejenigen, die die höchste Macht erlangen, werden sie früher oder später nutzen, um Privilegien an die Mitglieder ihrer eigenen Familie zu vergeben. Dort, wo genügend Ressourcen vorhanden sind, vermehren sich die Menschen, und je größer die Familie ist, desto mehr Ressourcen benötigt sie, und je mehr Macht wird zur ungerechten Verteilung der Ressourcen verwendet. In diesem Fall werden die Menschen sich immer mehr gegen diese Familie stellen. Aber wenn Familien aufgelöst werden, wird der Widerstand viel schwächer sein.
+</p>
+
+<h2 className={styles.subheading}>Die Zerstörung der Familie: Gut oder schlecht?</h2>
+<p className={styles.text}>
+  Ist die Zerstörung der Familie für die Menschheit gut oder schlecht? Indem man das Konzept der Familie zerstört, werden die Menschen verletzlicher gegenüber dem Missbrauch von Macht, aber gleichzeitig wird es schwieriger, sie auf anderen Ebenen zu kontrollieren. Viele Menschen benötigen für ihr Glück keinen großen Reichtum, sodass es viel schwieriger wird, sie zu zwingen, zu arbeiten, ohne sich um ihre Familie zu kümmern. So pendeln die globalen Eliten zwischen diesen beiden Extremen. Die vollständige Zerstörung der Familie bedeutet, einen wichtigen Motor für das Wohl von Millionen von Menschen zu entziehen, aber den Familien zu viel Macht über ihre Mitglieder zu lassen, führt zu Konkurrenten. Daher schließt sich der Kreis, und alles beginnt von neuem.
+</p>
+
+<h2 className={styles.subheading}>Das Problem der Erblichkeit der Macht</h2>
+<p className={styles.text}>
+  In Gesellschaften, in denen Macht durch Erbe übertragen wird, gibt es ein weiteres Problem: Die Erben der Macht werden immer schwächer. Wettbewerb führt zur Entwicklung, während Erben der Macht viel weniger Wettbewerb haben als unter normalen Bedingungen, und ihre Macht bewegt sich in Bereiche, die weit entfernt von den tatsächlichen Bedürfnissen der Menschen sind.
+</p>
+
+<h2 className={styles.subheading}>Sozialismus als Lösung</h2>
+<p className={styles.text}>
+  Um diese Probleme zu lösen, wurde der Sozialismus entwickelt. In diesem System sind die Individuen auf verschiedene Weisen von ihren Familien getrennt, und jeder sollte entsprechend seiner Fähigkeiten die Gesellschaft im Interesse aller verwalten. Aber eine Gruppe von Menschen, die durch familiäre Bande verbunden sind, wird immer letztendlich die Oberhand gewinnen über jeden brillanten Einzelnen im Kampf um die Macht. Daher schließt sich der Kreis, und alles beginnt von neuem.
+</p>
+
+<h2 className={styles.subheading}>Eine nicht existierende Familie?</h2>
+<p className={styles.text}>
+  Stellen wir uns nun eine Gesellschaft ohne Familie vor:
+</p>
+<ul>
+  <li>Die Verwaltung der Produktion und Verteilung der Ressourcen für das Überleben von Neugeborenen würde von vom Staat gewählten Personen übernommen</li>
+  <li>Die Neugeborenen würden in speziellen Institutionen aufgezogen, die auf ihre Erziehung ausgerichtet sind</li>
+  <li>Der Fortpflanzungsprozess des Menschen würde auf die sexuelle Vereinigung von Partnern nach genetischen Kriterien beschränkt sein, ohne dass den Individuen bekannt wäre, dass sie Verwandte sind</li>
+  <li>In einer solchen Gesellschaft würden Individuen je nach ihren Fähigkeiten Positionen einnehmen</li>
+  <li>Diese Gesellschaft wäre vor der Machtvererbung geschützt: Alles, was jedes Individuum während seines Lebens erworben hätte, würde an die Gesellschaft zurückgegeben, ohne die anderen Individuen zu beeinflussen</li>
+  <li>Obwohl die Abwesenheit von Familie ein Problem der Vereinheitlichung der Individuen löst, entstehen dabei andere Probleme, insbesondere die Bildung von Gruppen wie den „Blauen Augen Arbeitern“, die ihre Macht nutzen würden, um Ressourcen auf Kosten anderer zu beanspruchen</li>
+  <li>Dieser Gesellschaftsstatus würde große Ressourcen erfordern, um die neuen Gruppenbildungen zu verfolgen, was Bedingungen schafft, die für das Auftreten neuer „Aufseher“ günstig wären</li>
+</ul>
+
+<h2 className={styles.subheading}>Zurück zur Familie</h2>
+<p className={styles.text}>
+  Stellen wir uns nun vor, dass die Idee der Familie (die Linie) mit einer Machtstruktur innerhalb der Familie in die Gesellschaft zurückkehrt.
+</p>
+<ul>
+  <li>Die Ressourcenverteilung innerhalb der Familien wäre wahrscheinlich gerechter</li>
+  <li>Die Machtstrukturen würden immer noch aus den Familien stammen, aber ihre Macht wäre nicht so absolut wie in der gegenwärtigen globalen Ordnung</li>
+  <li>Die Wahrscheinlichkeit eines Machtwechsels innerhalb der Gesellschaft würde steigen, mit Revolutionen und ständigen Anpassungen</li>
+  <li>Solche Gesellschaften existierten in der Vergangenheit und existieren noch in einigen Machtstrukturen heute</li>
+</ul>
+
+<h2 className={styles.subheading}>Schlussfolgerung</h2>
+<p className={styles.text}>
+  Wie wir sehen, ist die Familie eine sehr komplexe Frage für die Gesellschaft. Keine Lösung für diese Frage ist perfekt. Aber solange wir als Spezies existieren, haben wir die Fähigkeit, verschiedene Arten von Gesellschaften zu erhalten, und dafür ist eine konstante Arbeit notwendig, um jedes Mitglied der Gesellschaft zu erziehen, einschließlich derjenigen, die die Macht innehaben. Diese Arbeit wird als Erziehung bezeichnet.
+</p>
+`,
+chapter13:`
+<h2 className={styles.subheading}>Was du säst, wirst du ernten...</h2>
+<p className={styles.text}>
+  Das Neue Testament.
+</p>
+<p className={styles.text}>
+  Erziehung ermöglicht es, sich mit der Unvollkommenheit des Modells jeder einzelnen Gesellschaft zu versöhnen. Wenn Menschen mit einer ungerechten Ressourcenteilung konfrontiert sind, können sie bestimmte Eigenschaften in den folgenden Generationen entwickeln, die es ihnen ermöglichen, mit dieser Situation Frieden zu schließen. Und Erziehung wird so lange funktionieren, wie der Mensch zumindest satt ist. Doch durch die ständige Benachteiligung bestimmter Teile der Gesellschaft zugunsten des Wohlstands anderer wird es früher oder später zu fatalen Fehlern bei der Ressourcenverteilung kommen. Wie haben die Menschen solche Probleme in der Vergangenheit gelöst? Die Eliten, die erkennen, dass sie die Wünsche der Massen nicht erfüllen können, geben zu, dass Ressourcen fehlen, aber sie machen jemand anderen für die Knappheit verantwortlich. Es beginnt ein Krieg, und alle Probleme werden ihm zugeschrieben. Vor Jahrhunderten war es das gleiche, jedoch ohne solch ausgeklügelte Manipulationen. Der Führer einer Gesellschaft rief sein Volk einfach dazu auf, die Nachbarn zu plündern, um das eigene Wohl zu sichern. Also, von welcher Erziehung sprechen wir, wenn alle früheren Erziehungsformen in irgendeiner Weise darauf abzielten, die Ungerechtigkeiten, die um uns herum geschahen, zu ignorieren? Ich schlage eine Erziehung durch Wahrheit vor. Natürlich kann niemand die ganze Wahrheit kennen, aber jeder besitzt einen Teil davon. Die Erziehung sollte die Grundlage für das Überleben des Individuums in der Gesellschaft legen, während die Gesellschaft letztlich für das Überleben ihrer Mitglieder – der Menschen – verantwortlich sein muss. Jedenfalls sind die verfügbaren Ressourcen für den Menschen oder die Gesellschaft begrenzt, und früher oder später wird entweder das Prinzip entdeckt, das der Menschheit als Spezies Unsterblichkeit verleiht, oder wir werden aussterben. Es ist gerade in der Erziehung der nächsten Generationen, dass unser Überleben oder unser Vergessen liegt.
+</p>
+
+<h2 className={styles.subheading}>Welche Eigenschaften benötigen unsere Nachfolger?</h2>
+<ul>
+  <li><strong>Logik im Denken</strong>: Dies ist meiner Meinung nach die wichtigste Eigenschaft des Menschen. Ohne ein effektives Werkzeug, um die Welt um uns herum zu verstehen, können keine anderen positiven Eigenschaften der Persönlichkeit entwickelt werden.</li>
+  <li><strong>Flexibilität im Denken</strong>: Was ich damit meine, ist, dass der Mensch sich der Begrenztheit seines Wissens bewusst sein muss. Das Besitzen von Wissen in einem bestimmten Bereich macht ihn nicht zum Experten in allen Aspekten des Lebens (was in der Bibel als Stolz bezeichnet wird). Ein Mensch muss verstehen, dass er nicht alles weiß und sich in seinen Urteilen irren kann. Man sollte die Meinung anderer über eine Situation nicht sofort ablehnen. Es ist notwendig, Logik zu verwenden.</li>
+  <li><strong>Die Fähigkeit, die eigene Meinung zu verteidigen</strong>: Wenn das Wissen ausreicht, um Kausalzusammenhänge zu verstehen und neue Informationen den vorherigen widersprechen, sollte man nicht blind der Meinung anderer zustimmen. Es ist wichtig, Logik zu nutzen.</li>
+  <li><strong>Zielsetzung</strong>: Die Fähigkeit, seine eigenen Ziele zu definieren und die notwendigen Schritte zu ihrer Erreichung festzulegen, unter Verwendung von Logik.</li>
+  <li><strong>Wohltätigkeit</strong>: Die Fähigkeit, seine persönlichen Ziele im Einklang mit dem allgemeinen Wohl zu verfolgen. Das bedeutet, dass die Ziele, die sich ein Mensch setzt, nicht im Widerspruch zum grundlegenden Prinzip des Überlebens der Menschheit stehen sollten. Alle Handlungen, die zum Aussterben der Menschheit führen, sollten negativ wahrgenommen werden.</li>
+</ul>
+`,
+chapter14: `
+  <blockquote className={styles.quote}>
+    Schritt für Schritt marschiert die Truppe in die Ferne.<br />
+    Jahr für Jahr schmiedet der Schmied das Metall.<br />
+    Von Generation zu Generation wächst das Volk.<br />
+    Jeder hat sein eigenes Schicksal, jeder seine eigene Erlösung.<br />
+    Und die Prüfungen werden immer beängstigender. Wohin führt uns das Schicksal?<br />
+    <strong>— Ich</strong>
+  </blockquote>
+
+  <p className={styles.text}>
+    Aus meinen Überlegungen geht hervor, dass der Aufbau einer Gesellschaft auf der Grundlage von Familienwerten fast 
+    zwangsläufig zu einer Verzerrung der Ressourcenverteilung innerhalb der Gesellschaft führen wird. Mit verschiedenen 
+    Methoden kann für eine Weile der Unmut der Menschen über Ungerechtigkeiten beruhigt werden, aber früher oder später wird 
+    dies zu Krieg führen.
+  </p>
+
+  <h3 className={styles.subheading}>Mögliche Lösungen</h3>
+  <p className={styles.text}>
+    Eine der Lösungen, die ich sehe, ist die schrittweise Umwandlung des Instituts der privaten Familien in ein Institut 
+    staatlicher Vormundschaft für Erziehung. Ressourcen werden dadurch sicherlich nicht mehr, aber ihre Verteilung wird nicht 
+    mehr so offensichtlich ungerecht sein.
+  </p>
+
+  <p className={styles.text}>
+    Es entsteht jedoch eine andere Gefahr: Die Wirksamkeit unserer modernen Familienstruktur ist seit Jahrtausenden bewiesen. 
+    Unsere Gesellschaften wurden auf dieser Struktur aufgebaut.
+  </p>
+
+  <h3 className={styles.subheading}>Schwierigkeiten und Risiken</h3>
+  <p className={styles.text}>
+    Eine andere Lösung wäre, zu versuchen, die nächsten Generationen nach den Prinzipien zu erziehen, die ich im letzten Kapitel 
+    beschrieben habe, innerhalb der Familien. Es wäre jedoch zu naiv zu glauben, dass eine solche Erziehung eine richtige 
+    Verwaltung der Ressourcen der Gesellschaft garantiert. Die Familien, die an der Macht sind, werden wahrscheinlich nicht daran 
+    interessiert sein, ihre Nachkommen in dieser Weise zu erziehen.
+  </p>
+
+  <h3 className={styles.subheading}>Neue Herausforderungen</h3>
+  <p className={styles.text}>
+    Wenn wir in eine neue Ära eintreten, werden wir auf neue Herausforderungen stoßen, mit denen wir zuvor nicht konfrontiert waren. 
+    Wird die Menschheit das überleben? Es ist unbekannt. Es heißt, dass das Kriterium der Wahrheit das Experiment ist, 
+    und wahrscheinlich werden wir nur durch den Zusammenstoß zweier Ansätze zur Fortpflanzung von Menschen herausfinden, 
+    welcher von ihnen lebensfähiger ist.
+  </p>
+`,
 
 
 
@@ -561,7 +688,11 @@ chapter11: `
     chapter_title_11: "Kinder",
     chapter_title_12: "Familie",
     chapter_title_13: "Erziehung",
-    chapter_title_14: "Neue Zeit"
+    chapter_title_14: "Neue Zeit",
+
+    //License
+    licenseText: `Urheberrecht © 2024 Valeriy Vladimirovich Bobkov. Diese Arbeit ist lizenziert unter einer - `,
+    licenseLink: `Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Internationale Lizenz`,
   
 };
 

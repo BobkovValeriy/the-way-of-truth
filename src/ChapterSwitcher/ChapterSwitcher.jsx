@@ -25,6 +25,23 @@ const ChapterSwitcher = ({ chapter, setChapter }) => {
     setChapter(chapterKey); // Устанавливаем новую главу
     if (view) setIsExpanded(false); // Сворачиваем список в мобильной версии
   };
+  function chapterRunner(){
+    return(
+      <div className={styles.chapterList}>
+      {chapterTitles.map(({ key, title }) => (
+        <div
+          key={key}
+          className={`${styles.chapterItem} ${
+            `chapter${key.replace('chapter_title_', '')}` === chapter ? styles.active : ''
+          }`}
+          onClick={() => handleChapterClick(key)} // Устанавливаем выбранную главу
+        >
+          {title}
+        </div>
+      ))}
+    </div>
+    )
+  }
 
   return (
     <div className={styles.chapterSwitcher}>
@@ -41,36 +58,11 @@ const ChapterSwitcher = ({ chapter, setChapter }) => {
             <LangSwitch mobileView={view}/>
           </div>
           {isExpanded && (
-            <div className={styles.chapterList}>
-              {chapterTitles.map(({ key, title }) => (
-                <div
-                  key={key}
-                  className={`${styles.chapterItem} ${
-                    `chapter${key.replace('chapter_title_', '')}` === chapter ? styles.active : ''
-                  }`}
-                  onClick={() => handleChapterClick(key)} // Устанавливаем выбранную главу
-                >
-                  {title}
-                </div>
-              ))}
-            </div>
+            chapterRunner()
           )}
         </>
       ) : (
-        // Десктопная версия
-        <div className={styles.chapterList}>
-          {chapterTitles.map(({ key, title }) => (
-            <div
-              key={key}
-              className={`${styles.chapterItem} ${
-                `chapter${key.replace('chapter_title_', '')}` === chapter ? styles.active : ''
-              }`}
-              onClick={() => handleChapterClick(key)}
-            >
-              {title}
-            </div>
-          ))}
-        </div>
+        chapterRunner()
       )}
     </div>
   );

@@ -1,6 +1,6 @@
 import styles from "./Page.module.scss";
 
-const Page = ({ text, background }) => {
+const Page = ({ text, background, licenseText, licenseLink }) => {
   return (
       <div
         className={styles.page}
@@ -18,15 +18,13 @@ const Page = ({ text, background }) => {
           className={styles.content}
         />
         <div className={styles.license}>
-          Copyright © 2024 Valeriy Vladimirovich Bobkov<br />
-          This work is licensed under a{" "}
+          {licenseText}
           <a
             href="https://creativecommons.org/licenses/by-nc-nd/4.0/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
-            International License
+            {licenseLink}
           </a>.
         </div>
       </div>
