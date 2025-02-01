@@ -664,9 +664,11 @@ chapter14: `
 
   <h3 className={styles.subheading}>Nouveaux défis</h3>
   <p className={styles.text}>
-    En franchissant une nouvelle époque, nous rencontrerons de nouveaux défis auxquels nous n'avons jamais été confrontés. 
-    L'humanité survivra-t-elle à cela ? Il est impossible de le dire. On dit que le critère de vérité est l'expérimentation, 
-    et probablement, seule la confrontation de deux approches de la reproduction humaine pourra nous dire laquelle est la plus viable.
+    En entrant dans une nouvelle époque, nous ferons face à de nouveaux défis auxquels nous 
+    n’avons jamais été confrontés auparavant. La survie de l’humanité après cela est incertaine. 
+    On dit que le critère de vérité est l’expérimentation, et il est probable que seule la 
+    confrontation entre deux approches de la 
+    reproduction humaine pourra nous donner la réponse quant à laquelle est la plus viable.
   </p>
 `,
 

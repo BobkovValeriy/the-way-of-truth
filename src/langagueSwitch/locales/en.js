@@ -715,9 +715,9 @@ chapter13:`
 
   <h3 className={styles.subheading}>New Challenges</h3>
   <p className={styles.text}>
-    Moving into a new era, we will face new challenges that we have never encountered before. Whether humanity will survive this is unknown.
-    They say that the criterion of truth is experimentation, and most likely only by clashing two approaches to human reproduction 
-    will we be able to determine which one is more viable.
+    Stepping into a new era, we will face new challenges we have never encountered before. 
+    Whether humanity will survive this is unknown. They say the criterion of truth is experiment, and most likely, 
+    only the confrontation of two approaches to human reproduction will give us the answer to which one is more viable.
   </p>
 `,
 

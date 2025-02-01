@@ -666,10 +666,10 @@ chapter14: `
 
   <h3 className={styles.subheading}>Neue Herausforderungen</h3>
   <p className={styles.text}>
-    Wenn wir in eine neue Ära eintreten, werden wir auf neue Herausforderungen stoßen, mit denen wir zuvor nicht konfrontiert waren. 
-    Wird die Menschheit das überleben? Es ist unbekannt. Es heißt, dass das Kriterium der Wahrheit das Experiment ist, 
-    und wahrscheinlich werden wir nur durch den Zusammenstoß zweier Ansätze zur Fortpflanzung von Menschen herausfinden, 
-    welcher von ihnen lebensfähiger ist.
+    Beim Eintritt in eine neue Epoche werden wir mit neuen Herausforderungen konfrontiert, 
+    denen wir zuvor noch nicht begegnet sind. Ob die Menschheit dies überleben wird, ist unbekannt. 
+    Man sagt, das Kriterium der Wahrheit sei das Experiment, und höchstwahrscheinlich kann nur die Konfrontation zweier 
+    Ansätze zur menschlichen Fortpflanzung uns die Antwort darauf geben, welcher lebensfähiger ist.
   </p>
 `,
 
