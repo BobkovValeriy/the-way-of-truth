@@ -671,6 +671,67 @@ chapter14: `
     reproduction humaine pourra nous donner la réponse quant à laquelle est la plus viable.
   </p>
 `,
+chapter15: `
+<blockquote className={styles.quote}>
+    Fais ce que tu dois, advienne que pourra.<br />
+    <strong>— Marc Aurèle</strong>
+</blockquote>
+
+<p className={styles.text}>
+    Même après avoir examiné un petit nombre de questions, le lecteur peut déjà avoir l'impression que 
+    l'éventail des tâches et des domaines d'activité est immense. De plus, cette liste de tâches n'est 
+    jamais complètement définie. Comment alors atteindre un équilibre stable dans la société, la famille et, 
+    surtout, dans ses propres pensées ?
+</p>
+
+<p className={styles.text}>
+    Dans ce livre, en tant qu’auteur, j’ai tenté d’exposer le principe fondamental de la coexistence, du 
+    développement et de la survie de l’humanité, en illustrant mes réflexions par des exemples. Chacun de 
+    nous, confronté à une nouvelle connaissance, ne doit pas la copier aveuglément, mais la passer au crible 
+    de sa propre conscience et l'utiliser pour construire sa propre vision de la réalité. Toute personne qui 
+    lira ce livre et comprendra son message principal – que le bien est ce qui augmente les chances de survie 
+    de l'humanité – pourra appliquer ce principe dans sa vie quotidienne.
+</p>
+
+<p className={styles.text}>
+    Il n'est pas nécessaire de calculer immédiatement toutes les bonnes actions possibles. Il suffit de vivre 
+    avec cette pensée, et elle aidera d'elle-même à façonner vos convictions. Car les gens changent. Il fut 
+    un temps où l’organisation sociale actuelle semblait impensable. Mais avec chaque opinion exprimée, 
+    avec chaque fait reconnu, les gens ont progressé vers la situation actuelle. Elle n'est toujours pas 
+    parfaite, mais chacun de nous modifie sa perception du bien et du mal au fil de sa vie – dans sa propre 
+    tête et chez ceux qui l'entourent.
+</p>
+
+<h2 className={styles.subheading}>L'impact de chacun</h2>
+<p className={styles.text}>
+    Chaque fois que vous accomplissez une action juste, vous changez le monde. Même un peu, même sans vous en 
+    rendre compte, mais ces changements existent. Même les puissants de ce monde en dépendent, car ils ne 
+    peuvent pas complètement ignorer les normes morales et culturelles des sociétés sur lesquelles ils 
+    exercent leur pouvoir.
+</p>
+
+<p className={styles.text}>
+    Ce livre est également écrit pour eux, car le pouvoir est donné pour le bien de l’humanité. En agissant 
+    dans la bonne direction, ils remplissent leur devoir envers les générations futures, et leur gloire 
+    posthume ne s’éteindra jamais. Et il ne s'agit pas seulement des dirigeants de grandes structures sociales – 
+    chaque individu change le monde autour de nous. Nous sommes tous ensemble créateurs. Et le plus important 
+    est de comprendre ce qu’est le bien.
+</p>
+
+<h2 className={styles.subheading}>Créer une communauté</h2>
+<p className={styles.text}>
+    À l'avenir, je prévois de créer une communauté pour discuter de diverses questions, en me basant sur le 
+    principe du bien que j'ai élaboré. Je ne suis pas un dieu et ne peux pas embrasser toutes les questions 
+    possibles. Mais ensemble, nous sommes littéralement égaux à un créateur, et avec le temps, ces discussions 
+    amélioreront inévitablement notre monde.
+</p>
+
+<p className={styles.text}>
+    Je vous remercie de votre attention, ensemble nous rendrons le monde meilleur. Je ne vous dis pas adieu, 
+    car vos pensées feront avancer ce projet.
+</p>
+`,
+
 
     chapter_title_1: "Bonté",
     chapter_title_2: "Dilemme",
@@ -686,6 +747,7 @@ chapter14: `
     chapter_title_12: "Famille",
     chapter_title_13: "Éducation",
     chapter_title_14: "Nouvelle époque",
+    chapter_title_15: "Fais",
 
     //license
     licenseText: `Droits d'auteur © 2024 Valeriy Vladimirovich Bobkov. Ce travail est licencié sous une - `,

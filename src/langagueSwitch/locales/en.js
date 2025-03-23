@@ -719,7 +719,76 @@ chapter13:`
     Whether humanity will survive this is unknown. They say the criterion of truth is experiment, and most likely, 
     only the confrontation of two approaches to human reproduction will give us the answer to which one is more viable.
   </p>
+`,  
+chapter15: `
+<blockquote className={styles.quote}>
+    Do what you must, and let happen what may.<br />
+    <strong>— Marcus Aurelius</strong>
+</blockquote>
+
+<p className={styles.text}>
+    Even after considering just a few questions, the reader may already have the impression that the range of tasks and areas of activity is vast. Moreover, this list of tasks remains indefinite. 
+    So how can one achieve sustainable balance in society, in family, and, most importantly, in one’s own thoughts?
+</p>
+
+<p className={styles.text}>
+    In this book, as the author, I have tried to uncover the fundamental principle of coexistence, development, and survival of humanity by illustrating my reasoning with examples. When encountering new knowledge, 
+    none of us should blindly copy it; rather, we should filter it through our own consciousness and use it to shape our own vision of reality. 
+    Anyone who reads this book and understands its core message—that good is what increases humanity’s chances of survival—will be able to apply this principle in everyday life.
+</p>
+
+<p className={styles.text}>
+    There is no need to immediately identify all possible good deeds. Simply live with this idea, and it will naturally help shape your beliefs. 
+    After all, people change. Long ago, the current social structure of society seemed unimaginable. But with every voiced opinion and every realized fact, 
+    people moved toward the present state of affairs. It is still far from perfect, but each of us reshapes our understanding of good and evil throughout life—both in our own minds and in those around us.
+</p>
+
+<h2 className={styles.subheading}>The Impact of Each of Us</h2>
+<p className={styles.text}>
+    Every time you perform an action that is right from the perspective of good, you change the world. 
+    Even if just a little, even if imperceptibly to yourself, these changes exist. 
+    Even those in power are influenced by them, as they cannot completely ignore the moral and cultural values of the societies they govern.
+</p>
+
+<p className={styles.text}>
+    Ultimately, this book is also written for them, because power is granted for the benefit of humanity. 
+    By making choices in the right direction, they fulfill their duty to future generations, and their posthumous legacy will never fade. 
+    And this applies not only to leaders of large social structures—every person changes the world around them. 
+    Together, we are the creators. And the most important thing is to realize what is good.
+</p>
+
+<h2 className={styles.subheading}>Creating a Community</h2>
+<p className={styles.text}>
+    In the future, I plan to create a community to discuss various issues based on the principle of good that I have formulated. 
+    I am not a god and cannot comprehend all possible questions. But together, we are equal to a creator, and over time, these discussions will undoubtedly improve our world.
+</p>
+
+<h2 className={styles.subheading}>Useful Tools</h2>
+<p className={styles.text}>
+    One of the key tasks I see is compiling a list of useful applications for life, since I am a programmer and involved in this field. 
+    For example, here is a budgeting program I created:
+</p>
+
+<p className={styles.link}>
+    <a href="https://budget-sigma-sable.vercel.app" target="_blank" rel="noopener noreferrer">
+        budget-sigma-sable.vercel.app
+    </a>
+</p>
+
+<p className={styles.text}>
+    What is the essence of this program in relation to the principle of good? 
+    We often wonder why our life turns out the way it does, why we fail to afford certain things. 
+    By using this program or a similar one, you can determine where your resources are going. 
+    After all, the results of your efforts always depend on the effort invested. 
+    By tracking expenses, you will see what is not aligning with your expectations.
+</p>
+
+<p className={styles.text}>
+    Thank you for your attention. Together, we will make the world a better place. I won’t say goodbye, 
+    as your thoughts will surely continue to develop this project.
+</p>
 `,
+
 
     chapter_title_1: "Goodness",
     chapter_title_2: "Dilemma",
@@ -734,8 +803,11 @@ chapter13:`
     chapter_title_11: "Children",
     chapter_title_12: "Family",
     chapter_title_13: "Upbringing",
-    chapter_title_14: "New Era"
+    chapter_title_14: "New Era",
+    chapter_title_15: "Do",
   
+    licenseText: `Copyright © 2024 Valery Vladimirovich Bobkov. This work is licensed under - `,
+    licenseLink: `the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License`,
 };
 
 export default en;

@@ -672,6 +672,87 @@ chapter14: `
     Ansätze zur menschlichen Fortpflanzung uns die Antwort darauf geben, welcher lebensfähiger ist.
   </p>
 `,
+chapter15: `
+<blockquote className={styles.quote}>
+    Tue, was du tun musst, und lasse geschehen, was geschehen wird.<br />
+    <strong>— Mark Aurel</strong>
+</blockquote>
+
+<p className={styles.text}>
+    Auch wenn man nur eine kleine Anzahl von Fragen betrachtet, kann man den Eindruck gewinnen, dass das 
+    Spektrum der Aufgaben und Tätigkeitsbereiche riesig ist. Mehr noch, diese Liste ist nicht endgültig 
+    festgelegt. Wie kann man also ein stabiles Gleichgewicht in der Gesellschaft, der Familie und vor allem 
+    in den eigenen Gedanken erreichen?
+</p>
+
+<p className={styles.text}>
+    In diesem Buch habe ich als Autor versucht, das Grundprinzip des gemeinsamen Lebens, der Entwicklung und 
+    des Überlebens der Menschheit darzustellen, indem ich meine Überlegungen als Beispiele anführe. Jeder, 
+    der mit neuem Wissen konfrontiert wird, sollte es nicht blind kopieren, sondern durch sein Bewusstsein 
+    filtern und für die Gestaltung seiner eigenen Sicht auf die Realität nutzen. Jeder, der dieses Buch liest 
+    und seine zentrale Botschaft versteht – dass das Gute das ist, was die Überlebenschancen der Menschheit 
+    erhöht –, wird in der Lage sein, dieses Prinzip im Alltag anzuwenden.
+</p>
+
+<p className={styles.text}>
+    Es ist nicht notwendig, sofort alle möglichen guten Taten zu berechnen. Lebe einfach mit diesem Gedanken, 
+    und er wird dir helfen, deine Überzeugungen zu formen. Denn Menschen verändern sich. Vor langer Zeit war 
+    unsere heutige soziale Ordnung undenkbar. Doch mit jeder geäußerten Meinung, mit jeder erkannten Tatsache 
+    bewegten sich die Menschen auf den heutigen Zustand zu. Er ist immer noch nicht perfekt, aber jeder von uns 
+    verändert seine Vorstellung von Gut und Böse im Laufe seines Lebens – sowohl in seinem eigenen Kopf als 
+    auch bei allen, die um ihn herum sind.
+</p>
+
+<h2 className={styles.subheading}>Der Einfluss jedes Einzelnen</h2>
+<p className={styles.text}>
+    Jedes Mal, wenn du eine gute Tat vollbringst, veränderst du die Welt. Vielleicht nur ein wenig, vielleicht 
+    unmerklich für dich selbst, aber diese Veränderungen existieren. Sogar die Mächtigen der Welt sind davon 
+    abhängig, denn sie können die moralischen und kulturellen Normen der Gesellschaften, über die sie herrschen, 
+    nicht völlig ignorieren.
+</p>
+
+<p className={styles.text}>
+    Letztlich wird dieses Buch auch für sie geschrieben, denn Macht sollte dem Wohl der Menschheit dienen. 
+    Indem sie in die richtige Richtung handeln, erfüllen sie ihre Pflicht gegenüber den Nachkommen, und ihr 
+    posthumer Ruhm wird niemals verblassen. Und hier geht es nicht nur um die Führer großer sozialer Strukturen 
+    – jeder Mensch verändert die Welt um uns herum. Wir alle zusammen sind Schöpfer. Und das Wichtigste ist, 
+    zu erkennen, was das Gute ist.
+</p>
+
+<h2 className={styles.subheading}>Die Schaffung einer Gemeinschaft</h2>
+<p className={styles.text}>
+    In Zukunft plane ich, eine Gemeinschaft zur Diskussion verschiedener Fragen auf der Grundlage des von mir 
+    entwickelten Prinzips des Guten zu gründen. Ich bin kein Gott und kann nicht alle möglichen Fragen erfassen. 
+    Aber gemeinsam sind wir buchstäblich gleichwertig mit einem Schöpfer, und im Laufe der Zeit werden diese 
+    Diskussionen unsere Welt sicherlich verbessern.
+</p>
+
+<h2 className={styles.subheading}>Nützliche Werkzeuge</h2>
+<p className={styles.text}>
+    Eine meiner wichtigen Aufgaben sehe ich in der Erstellung einer Liste nützlicher Anwendungen für das Leben, 
+    da ich Programmierer bin und mich mit diesem Thema beschäftige. Zum Beispiel hier ist eine von mir 
+    entwickelte Budgetverwaltungssoftware:
+</p>
+
+<p className={styles.link}>
+    <a href="https://budget-sigma-sable.vercel.app" target="_blank" rel="noopener noreferrer">
+      budget-sigma-sable.vercel.app
+    </a>
+</p>
+
+<p className={styles.text}>
+    Worin besteht der Zusammenhang dieser Anwendung mit dem Prinzip des Guten? Oft fragen wir uns, warum 
+    unser Leben so verläuft, wie es verläuft. Warum können wir uns bestimmte Dinge nicht leisten? Indem du 
+    dieses oder ein ähnliches Programm nutzt, kannst du herausfinden, wofür du deine Ressourcen ausgibst. 
+    Denn das Ergebnis deiner Bemühungen hängt immer von dem Einsatz ab, den du leistest. Durch das Erstellen 
+    einer Ausgabenliste kannst du sehen, was nicht so läuft, wie du es dir wünschst.
+</p>
+
+<p className={styles.text}>
+    Ich danke dir für deine Aufmerksamkeit, gemeinsam werden wir die Welt verbessern. Ich verabschiede mich 
+    nicht, denn deine Gedanken werden dieses Projekt weiterentwickeln.
+</p>
+`,
 
 
 
@@ -689,6 +770,7 @@ chapter14: `
     chapter_title_12: "Familie",
     chapter_title_13: "Erziehung",
     chapter_title_14: "Neue Zeit",
+    chapter_title_15: "Neue Zeit",
 
     //License
     licenseText: `Urheberrecht © 2024 Valeriy Vladimirovich Bobkov. Diese Arbeit ist lizenziert unter einer - `,
